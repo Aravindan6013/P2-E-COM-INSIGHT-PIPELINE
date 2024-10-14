@@ -1,0 +1,1001 @@
+Order_id,Customer_id,Customer_name,Product_id,Product_name,Product_category,Payment_type,Quantity_ordered,Price,Date_and_time_when_order_was_placed,Customer_country,Customer_city,Site_from_where_order_was_placed,Payment_transaction_confirmation_id,Payment_success_or_failure,Reason_for_payment_failure
+,,Tiffany Contreras,b685e3dc-d588-4416-9992-46dcac8850be,Blender,Home & Kitchen,Internet Banking,7,273.13,InvalidDate,USA,,www.flipkart.com,,N,
+6d6f642e-fc4b-490e-8499-ef36a27e02ec,,Kathleen Brown,aa650360-8f3c-43c8-9e63-229d03ab484c,Eraser,Stationery,Card,1,964.68,InvalidDate,UK,Espinozachester,www.flipkart.com,ef9dc923-b8c8-4298-8e77-7ecfaada42d6,Y,
+,08c8de70-9a5f-44c5-8998-2e16159d35d6,Sean Kramer,a0d5eb96-d042-4cc5-b7c2-37a4b2466041,Ruler,Stationery,Internet Banking,5,175.16,2020-05-14 13:20:04,Canada,Palmermouth,www.shopify.com,,N,
+,89ba8d87-804b-4d1f-b55c-ac0623959adc,,InvalidID,Notebook,Stationery,Internet Banking,10,-94.1,2024-02-24 13:31:06,USA,,www.amazon.com,bba1a0ce-0c07-40a9-a912-e9bdd6e80f8e,Y,
+,72dfd257-4494-4cb6-9692-2f49133fb8e4,Belinda Williams,21e719f0-c2f5-4137-b584-5d35a73c3533,Air Fryer,Home & Kitchen,Internet Banking,10,240.89,InvalidDate,UK,,www.ebay.com,76ec00f6-93a4-40b3-9bf1-86fb2dedbb30,Y,
+,,,InvalidID,Microwave,Home & Kitchen,Wallet,3,685.04,InvalidDate,India,,www.ebay.com,7f443f0d-a1ba-4afb-b502-91b35ef30c8c,Y,
+,7b62c02f-f35c-4b9d-8e67-35bc856dfc15,,68e259e6-6626-4d39-af03-1edbb1efa2ad,Air Fryer,Home & Kitchen,UPI,0,447.11,InvalidDate,Germany,,www.flipkart.com,aaa63212-f705-456e-92f6-501df264d038,N,
+1b063bd6-c6c5-46b0-b993-f57e0134ea9e,b354ed9a-379c-448a-8597-e80a254e5d13,,0b8c0af6-0ef1-4452-9e19-6a76fd4cbf6a,Jeans,Clothing,Internet Banking,-5,308.12,InvalidDate,USA,Wadefurt,www.walmart.com,e6950b2d-4067-4032-8d0a-d8b962ddcc45,N,Invalid CVV
+,e332cc0a-04aa-4cd7-9193-65af33329173,,9e0cd1f3-64d9-4563-8bde-a083ac310055,Tennis Racket,Sports,Internet Banking,2,196.81,2022-05-04 01:11:30,India,,www.flipkart.com,,Y,
+a4ce8068-68a5-4bd1-8ce1-059077decaa8,bf0b7aea-f1ec-4ec6-91db-4844c15a95f1,Alex Dixon,3542691b-0c01-407e-b019-d73a67865767,Jeans,Clothing,Internet Banking,1,785.62,InvalidDate,Germany,Brownberg,www.shopify.com,ebca8223-bfc0-4967-80f7-87cbc409337f,N,Insufficient funds
+,df421e23-728f-436e-bb97-6254df407131,,InvalidID,Book,Stationery,Card,9,33.29,InvalidDate,Germany,Lake Stephanie,www.ebay.com,4fff2303-1ec7-42c2-9294-d1291d41d6da,N,
+8a343bfd-6ddb-44b7-8a3a-9afa36c24df0,f734e83c-eaf9-45e2-9a19-827b62b06a37,Molly Kelley,InvalidID,Sweater,Clothing,UPI,-3,79.4,InvalidDate,India,,www.shopify.com,281dacf7-ee69-4e84-82e8-f7836423cb03,Y,
+,,,0290c4f4-5f40-4fde-a20d-b2194a90bc61,Laptop,Electronics,Wallet,-3,-54.34,InvalidDate,Canada,Ramirezmouth,www.shopify.com,a1dcea63-41f0-4a2c-b2f5-9e3e74e8b803,N,Payment gateway error
+1a895d62-6476-4f3a-ab4f-5dadbd002422,05e6afef-6fb0-48eb-9c11-6000be7acffa,,InvalidID,Ruler,Stationery,Internet Banking,9,114.75,2021-04-15 07:05:06,Canada,,www.walmart.com,14db9230-8c81-4c77-88d1-31c68c1a6b41,N,
+2871992d-76ad-41a9-a98d-ce6e58eae70c,a8a43a81-553f-46bc-a8e0-ec326348bdae,,dc7a0281-cae9-4f98-8f34-e26371cedb8b,Toaster,Home & Kitchen,Wallet,7,668.31,2023-08-07 05:47:38,Canada,East Marc,www.shopify.com,94193b22-fade-4396-a554-55481ad8456a,N,Invalid CVV
+,,,808411e0-a546-4bc9-9709-1949ef603f09,Ruler,Stationery,Wallet,4,-9.01,2024-01-31 08:30:09,Canada,,www.flipkart.com,,N,Card expired
+0ba4f7a9-647c-45f6-a4e2-c92043450213,,,a0eb5fec-c6b8-4788-b76e-eac0947091ef,Notebook,Stationery,Internet Banking,10,606.43,InvalidDate,Canada,New Raymondburgh,www.shopify.com,6162a816-5579-4564-81c6-2f73077bb060,N,
+,,Elizabeth Vasquez,59b0e728-cba4-4375-a06c-12434b320e01,Yoga Mat,Sports,Internet Banking,8,-88.95,2022-09-19 09:37:59,Germany,,www.shopify.com,a716f6db-458e-49c7-b83e-848cc6dacdc8,Y,
+872bae66-bc41-4616-baff-8bbd5922ae23,,,InvalidID,Headphones,Electronics,UPI,2,833.16,2023-05-21 18:17:37,Canada,Brownbury,www.amazon.com,928f7556-8d02-4bdf-9167-7673261c484e,N,Insufficient funds
+702aebf0-e5ba-44d5-9ada-82090a6492ac,802afb7d-ff63-495d-995f-7d9bfbc5c2c3,,InvalidID,Laptop,Electronics,Wallet,1,4.11,2024-09-06 16:58:12,USA,,www.walmart.com,,Y,
+a615bb6b-e13e-4d51-a52c-c62e8f875e78,bfc2a6ad-1bc6-4da6-9c12-6e29720f3371,Kenneth Wiggins,InvalidID,Coffee Maker,Home & Kitchen,Internet Banking,8,408.94,InvalidDate,India,,www.ebay.com,,Y,
+,,,c12b205a-31fd-4a20-9bdc-4e6b113b2e75,Football,Sports,Wallet,0,-17.25,2022-07-05 10:43:34,Canada,Palmerfort,www.walmart.com,ad5c11d5-0bd4-4872-a9ca-25a4855759d3,Y,
+,e085ffe5-2630-4ced-9e03-68c06f2398ee,,InvalidID,Ruler,Stationery,Internet Banking,10,-58.12,InvalidDate,UK,Lake Jessicafort,www.flipkart.com,eab38806-ed2c-43fa-8936-fe1b22cfb14f,Y,
+,71a3d130-d69a-43df-b5f6-a4c0e30491c4,Faith Reeves,InvalidID,Coffee Maker,Home & Kitchen,Internet Banking,7,986.19,InvalidDate,USA,,www.shopify.com,4072f659-ddd9-4f2c-b7eb-5174dbe8763e,N,
+81162772-7656-4606-9011-43bd7f06e58f,,Terry White,bcb7711c-4f8a-473e-95c9-5c8a393e2754,Coffee Maker,Home & Kitchen,Internet Banking,5,779.13,InvalidDate,Canada,,www.flipkart.com,,N,Invalid CVV
+0dcff367-451f-408a-a4ab-3b856c8a2ce1,43b98915-25aa-4982-a03e-be9a1dcd9f98,,InvalidID,Sharpener,Stationery,Wallet,6,379.78,InvalidDate,Germany,,www.ebay.com,,N,
+,e6ab90fe-298a-4f72-9f20-6ea07254a3f2,Brian Kemp,InvalidID,Socks,Clothing,UPI,-1,520.72,InvalidDate,UK,Lake Jordanbury,www.amazon.com,,Y,
+,bab9bdf9-a893-4ee2-b124-dc6baa78fb83,,0a523c35-f0f7-41f8-8c5a-dedc5a89a51a,Sharpener,Stationery,UPI,10,848.24,InvalidDate,USA,,www.shopify.com,86913bff-3a58-482d-a8c6-84b6d7803214,Y,
+9c93ab65-74eb-47d8-b740-dc2945c90052,,Christine Cruz,2c4eddef-57ee-4ae3-b959-4b1796af76fb,Sharpener,Stationery,Card,3,940.19,InvalidDate,UK,,www.shopify.com,42b8c417-bb75-44d2-845c-522f379f5c30,Y,
+e8355c4a-5002-41ee-870d-45f89e99b3d8,,,71f98415-45d7-4013-a42f-c4a956168f4a,Socks,Clothing,Internet Banking,-3,754.14,2024-05-04 12:04:49,Canada,South Breanna,www.amazon.com,5bc68679-2f6b-467c-b9d3-e11c5d400aa3,N,Invalid CVV
+759123e5-eed1-44c2-a1f5-f873179d2822,8a3b7783-a207-459a-91c5-c0778a4729f2,Ian Jordan,020881e0-31da-454e-aad8-ea586882a834,Camera,Electronics,Wallet,2,578.9,2020-06-12 23:56:19,India,Lake Katrinaland,www.shopify.com,75917db5-fbd7-4eb3-acfb-575ea3ab14ba,N,Insufficient funds
+,f6d0f1cd-6973-45eb-ad7b-969705feccde,Shannon Hayes,07f17119-00d9-4989-a420-6fb5a1502d58,Microwave,Home & Kitchen,UPI,3,-73.82,2020-10-04 12:10:27,USA,,www.shopify.com,,Y,
+,,,InvalidID,Smartphone,Electronics,Wallet,-5,187.24,InvalidDate,India,,www.amazon.com,29c0cb6d-0aee-4c36-a9c1-ac3a81842036,N,
+,ee30931d-b3da-4f15-8c62-070caac40050,,3ab3d060-40f2-4f28-9050-a8cadc7af093,Ruler,Stationery,Internet Banking,-5,-92.82,2022-04-11 16:32:16,Germany,,www.walmart.com,,N,Card expired
+,01567bb3-4436-4e52-87d9-fa6225cf7b8e,,afc09271-94a3-4573-91af-45588bf2049c,Toaster,Home & Kitchen,Internet Banking,4,128.83,InvalidDate,Canada,,www.ebay.com,,N,Card expired
+9be7bdcd-ab9c-44f2-ae85-016be1b9f725,f4d5b0d5-13a4-4571-b6b9-3b7152f6eec3,Kevin Castillo,80935458-d317-49c6-8f8f-cdc6ff4b97b7,T-Shirt,Clothing,UPI,2,440.53,2021-10-30 16:46:37,India,North Elizabeth,www.shopify.com,,Y,
+,,,InvalidID,Coffee Maker,Home & Kitchen,Wallet,-5,276.19,2021-06-14 10:47:03,Germany,Maryview,www.shopify.com,53c3a7bb-fcc3-47e4-b034-9dd729f9cad9,Y,
+6121ff16-fa1d-4edd-98dc-bae7dfaac574,1f050006-173d-4b7c-b7a3-847e76f05cb8,Valerie Peters,InvalidID,Blender,Home & Kitchen,Internet Banking,-2,93.1,InvalidDate,USA,,www.amazon.com,49e3d321-ae76-46ff-924e-615f6bd0642b,Y,
+e32a7c4c-d862-4e62-9a21-f92fab482f1b,,Timothy Miller,InvalidID,Basketball,Sports,Card,5,232.19,InvalidDate,Germany,Port Glendaberg,www.ebay.com,,Y,
+,7a622000-8456-4af9-830b-9ee1f0477eba,Jaime Smith,2d06c92b-b391-457e-9051-3bdf14d5b29e,Headphones,Electronics,Wallet,-4,291.87,InvalidDate,India,Port Justin,www.ebay.com,,Y,
+c7224ff5-5837-4588-b239-4124dc8aad63,da26fc77-bc5a-4c4b-986e-756fca547c81,,e2dd435d-5373-4194-962f-170ffe3ee1ba,Tennis Racket,Sports,Wallet,8,893.12,InvalidDate,Canada,,www.walmart.com,,N,Card expired
+bfacf06a-32c9-42d1-9706-386cb9da5569,a2959763-cc4f-4246-8b72-85d8d616b161,Noah Rosario,InvalidID,Laptop,Electronics,Internet Banking,3,608.81,2022-09-20 04:53:11,Germany,New Paulchester,www.amazon.com,,N,Invalid CVV
+4ce77659-920b-49b3-a9ae-631a67fc0d56,e8c4ae68-ce28-46f4-97b6-c2cdffcf730f,,13d00c9f-34da-414c-b134-a691138fee3c,Camera,Electronics,Internet Banking,6,676.57,InvalidDate,UK,West Michael,www.walmart.com,,Y,
+5b33ae4f-1d4a-4156-ad22-3cd80bb49831,3be9230c-5ed2-4d03-ab95-5c280d592ccd,,InvalidID,Jeans,Clothing,Card,9,634.42,2023-02-23 19:47:52,Germany,,www.ebay.com,,N,
+2b1d6886-d060-46b7-b713-0851536133a4,31bd1673-3dc4-45bb-9386-e4f530e07fb3,Kristen Howard,InvalidID,Coffee Maker,Home & Kitchen,Card,-2,340.07,2023-03-16 20:48:56,Germany,,www.ebay.com,,N,Payment gateway error
+0f5c0689-054f-4dc1-8b2a-03edd405c913,a888b3b3-a6bd-4669-8537-4526ff7b3cc7,Angela Smith,InvalidID,T-Shirt,Clothing,UPI,0,-20.97,InvalidDate,Germany,West Meganbury,www.shopify.com,,Y,
+,1e13be51-adcb-43fe-a811-1badbb0081df,Brendan Moran,e4eed122-455a-4c17-bf2d-c021193485f1,Eraser,Stationery,Card,3,78.42,InvalidDate,Germany,,www.flipkart.com,,Y,
+eba49af1-6f33-4abe-b203-4e29ac438573,,Miguel Edwards,InvalidID,Shoes,Clothing,Wallet,-3,962.64,2020-08-15 07:43:48,India,,www.amazon.com,,Y,
+,62073faa-c6d6-4f19-969e-9cb11a3bf6b8,,InvalidID,Yoga Mat,Sports,Wallet,-5,-45.47,2023-09-25 02:17:38,UK,Penaview,www.shopify.com,,N,Payment gateway error
+,56ca8619-fc81-4760-80fe-c1e84312d51b,,092ced34-e0cc-4305-ab1d-e47d92ecfc41,Socks,Clothing,Card,7,381.13,2021-02-16 14:44:15,Germany,,www.amazon.com,81fb1a59-8fa1-42c7-8eb1-cb642784be8a,N,Payment gateway error
+869bb58f-3156-4497-9b96-0bd9218b181a,c61baf65-e17f-4db8-813d-53ab80e4477b,,InvalidID,Headphones,Electronics,Wallet,9,335.11,InvalidDate,UK,,www.ebay.com,009c9be1-61f2-4f66-a489-218f213680b4,Y,
+8114ce52-1974-47a4-be73-d67f9da2b420,12f5356c-c3f5-48e2-b3d0-432c0b93ac80,,03209b7c-fe53-444e-94e1-19d0c26fc7e6,Pen,Stationery,Card,5,-73.31,2021-07-21 06:36:56,UK,,www.walmart.com,eda54068-0716-4c74-8e9f-a9da0135ea4c,Y,
+,,Dustin Thomas,InvalidID,Laptop,Electronics,UPI,3,118.4,2024-05-14 06:39:52,Germany,,www.flipkart.com,,N,
+,ef9f4218-a4f1-413e-8646-b1b36c83dd14,,InvalidID,Badminton Racket,Sports,UPI,-2,303.18,InvalidDate,Germany,,www.walmart.com,d1b4a0cb-47fc-47fc-9aac-b3d839f415fb,Y,
+,,,d7edb710-dbf4-4da7-97cd-b5e1fb84d031,Book,Stationery,Internet Banking,-3,130.59,InvalidDate,India,,www.shopify.com,,Y,
+7818504d-5ff7-44f0-840b-a618d0a957a9,,,e54d6ec4-6365-4b1a-9d85-3f19e141a72f,Cricket Bat,Sports,Card,8,107.44,InvalidDate,India,,www.shopify.com,,Y,
+93afde2a-b1a7-4948-be3b-e3f56273cc86,,,InvalidID,Jeans,Clothing,Card,5,78.81,InvalidDate,India,,www.walmart.com,61da6db6-e9f3-4c13-9ec4-c16496af1a1b,N,Invalid CVV
+,6050f122-b37e-40ba-8d8e-caab544a6593,Nicole Dean,InvalidID,Microwave,Home & Kitchen,Card,-5,773.08,InvalidDate,Canada,Matthewmouth,www.amazon.com,472ebea7-80a3-4873-b67f-5fe0c133a5aa,Y,
+7ae0a3a0-929c-4ba3-a2ab-29aa267eebdc,,,7f67d0f1-7caf-43cb-8151-9d6c6e6c95af,Badminton Racket,Sports,Card,9,330.84,2022-11-25 03:58:49,India,,www.flipkart.com,8c6e28e6-2de9-4473-a393-a600fb2dc73e,Y,
+cd53bc5e-480d-4dae-9d3c-7d62165596e2,031afefe-68aa-4910-8c8d-5b6bf1b7a6d8,,1397fa55-469f-409f-855b-17547ae9550f,Tablet,Electronics,Card,-2,733.72,InvalidDate,Germany,,www.shopify.com,576c493e-958f-4b13-8d94-929373cfa6d4,Y,
+,,Cynthia Jenkins,c3240c7b-76e0-44ff-b17f-8a4afa54a9c8,Smartwatch,Electronics,Internet Banking,9,966.68,2024-04-24 04:40:42,UK,East Christina,www.ebay.com,6ddc5f16-0cfe-40f1-b351-6c07b750f1a2,N,Card expired
+,4d64abf4-64ba-4798-9db4-ba5111667395,David Reynolds,InvalidID,Jeans,Clothing,Internet Banking,1,49.96,2020-05-08 06:43:06,USA,,www.ebay.com,,N,Payment gateway error
+fc96cc08-0814-471c-9f45-d16341af77e2,,John Rose,85254ad4-cf97-4430-80e7-f3ee2683ce83,Blender,Home & Kitchen,Card,10,609.67,InvalidDate,Canada,New Vanessa,www.ebay.com,,N,Invalid CVV
+6fff4495-d5a8-4499-a58a-8e16acef75d6,a59a1574-cd56-45fa-b449-dd5aa10c34e8,Jenny Brock,0a02cada-41a3-404d-9e1e-70ce653a286e,Coffee Maker,Home & Kitchen,Internet Banking,0,988.57,InvalidDate,UK,,www.amazon.com,,Y,
+b9774569-9f2d-4668-96f0-cb7e847a623a,0b97eb2d-6379-4f7e-8556-9efdae5d6c6e,Rhonda Lee,050b1a3e-9bc2-4fa5-b6df-597e28e93a23,Tennis Racket,Sports,UPI,-5,442.04,2023-07-08 03:00:16,Germany,,www.walmart.com,8494c39a-a08d-4170-aa6e-c468566d2798,N,Insufficient funds
+4d859465-a8ba-464a-994c-f7730fb1a778,a49c8710-884e-4872-b43a-47305a25c204,,090b2afb-ed64-4210-adc2-153b55f5694c,Smartphone,Electronics,Card,6,60.55,InvalidDate,UK,South Travisberg,www.walmart.com,,N,Payment gateway error
+,,Sean Roman,InvalidID,Shoes,Clothing,Wallet,9,591.71,2020-01-08 06:45:11,Germany,,www.shopify.com,974fce44-023b-4d03-b5e9-56a462e5a354,N,
+e8610b53-b1cf-4bd8-a2c5-edff00e7b6de,74618566-947f-48eb-9d3e-85b3c7e723dc,Miss Amanda Smith,29510cec-3118-46df-8a6d-aac1d949e9f6,Smartwatch,Electronics,UPI,10,400.41,2020-05-04 12:21:45,India,,www.amazon.com,0b5dd4d1-f0f9-48ea-bf6b-fa79134ad45f,Y,
+,05e16cff-0bf1-46b6-87cc-22a7d856852d,James Hernandez,InvalidID,Smartphone,Electronics,UPI,-2,796.27,InvalidDate,USA,New Jack,www.flipkart.com,,Y,
+17e8fab8-d757-4b3d-9727-5bcf2308a431,,Julie Chen,InvalidID,Camera,Electronics,Card,-3,71.0,InvalidDate,India,,www.flipkart.com,d597cd11-e5c7-4d8a-b107-efd0a3a42768,N,Card expired
+,,Rebecca Roth,0072eee0-c65b-4e3c-b504-11a0597bf7f5,Notebook,Stationery,Internet Banking,4,698.48,InvalidDate,Germany,,www.walmart.com,590c3c78-4fc2-440c-8e35-0a4b79abb828,N,
+,b9d6653c-ec51-436c-af3a-986c83d9fa46,Kyle Brown,InvalidID,Basketball,Sports,Wallet,1,-1.88,InvalidDate,UK,,www.walmart.com,735c886b-e8c5-48e0-ad8d-4b97c53153ba,Y,
+,e5699ec6-6367-4a68-b870-dc9cf0826bd7,Justin Roman,InvalidID,Smartwatch,Electronics,Wallet,9,110.81,2020-10-01 09:59:41,India,South Tracy,www.walmart.com,94d5aed1-144e-4686-8f5b-c997a3e21818,N,Insufficient funds
+,,Elizabeth Parker,InvalidID,Coffee Maker,Home & Kitchen,Card,5,-1.93,2021-06-16 13:11:15,UK,,www.amazon.com,,Y,
+,c4411d3e-4efe-4909-ab1d-e1364adc739e,Lori Bush,07d50f98-c08a-4205-9852-ee043a874452,Microwave,Home & Kitchen,Card,7,-21.37,2020-01-08 19:11:29,UK,Lake Marie,www.walmart.com,,N,Insufficient funds
+,,,f0f615a4-685f-4d01-8423-6f91677722a7,Yoga Mat,Sports,UPI,9,324.29,InvalidDate,UK,,www.flipkart.com,8cae8e47-bff0-4571-96fa-b24b362869c2,N,
+4864be83-b779-44c6-82d2-667c0cdf7044,,,60e9e1ed-e1c5-4f89-b32d-08d13b81d98a,Socks,Clothing,UPI,8,53.02,InvalidDate,India,New Elizabethfort,www.walmart.com,,Y,
+,,Michelle Rodriguez,68de4fe5-e4e9-4a88-9b04-0cac6bd5fdcd,Dishwasher,Home & Kitchen,Card,9,286.27,2024-01-07 09:12:35,Germany,,www.walmart.com,f5913315-6069-4571-973f-1e56fc95cb87,Y,
+,1fb1850d-1eab-4daa-b438-e98efdcbccdc,,e824410c-b8b2-4ef4-a7f0-db4ec534098b,Dishwasher,Home & Kitchen,UPI,2,761.2,2021-01-30 10:06:18,India,,www.ebay.com,7d87ba1d-2d1a-466a-bf17-d61bea61679b,Y,
+e76447a1-2e29-4862-8da5-39415345fe98,,,InvalidID,Blender,Home & Kitchen,Internet Banking,10,181.82,InvalidDate,Canada,Wrightside,www.flipkart.com,,N,Card expired
+b659d79f-ee75-4283-9d30-81a3d80e0647,,,InvalidID,Notebook,Stationery,Card,2,889.48,InvalidDate,Canada,Port Kathleen,www.amazon.com,,N,
+c5cad67e-8b36-46fa-a3b5-c5b0c7956315,e085d951-7d7b-4de6-85fd-ed81fb3b0f8d,Anna Jackson,c82b3bb5-cd83-402b-abb4-eeb460ad19e3,Headphones,Electronics,Card,4,637.46,InvalidDate,UK,Sanchezborough,www.flipkart.com,,Y,
+ad5c16d5-3ccd-44d5-b3e1-87b2492867b1,,Rachel Black,d79ed0f9-7b05-4447-b416-ce40ed488ede,Smartphone,Electronics,Card,-5,279.26,2023-06-17 03:10:49,Germany,Mitchellfort,www.walmart.com,caaf9572-a4dd-4400-89c4-2ca388da33fb,N,Insufficient funds
+,,Allison Martin,InvalidID,Eraser,Stationery,Wallet,-1,634.19,2020-12-31 06:25:33,Canada,,www.ebay.com,e8dad7c4-f353-4985-8a46-b482c2071a20,Y,
+,68e5ce6a-e075-41e5-97a3-4351f35f67af,,InvalidID,Jacket,Clothing,Card,1,93.46,2024-09-14 14:01:56,India,,www.ebay.com,,Y,
+4c6489b2-c583-4db2-8d88-d3bd2c535aeb,,Lauren Livingston,InvalidID,Tennis Racket,Sports,UPI,7,999.71,2023-05-13 11:44:18,USA,,www.ebay.com,5153b577-8916-43fc-9f3c-209e5d4e0bee,N,Card expired
+,,Kathryn Lambert,InvalidID,Toaster,Home & Kitchen,Internet Banking,-2,386.86,2022-06-29 04:50:09,India,,www.shopify.com,211d7655-4c14-4127-8919-c40a1f89ba57,N,
+9c983128-0d5e-4b83-b144-caf91e46716d,,Tara Charles,InvalidID,Tennis Racket,Sports,Wallet,9,574.26,InvalidDate,UK,,www.amazon.com,,N,
+,8598ae97-9578-4b94-b515-24e606d19abf,,90b227aa-6f8c-4692-b448-4a5a3ee6afdc,Jacket,Clothing,UPI,0,247.79,2020-08-22 15:14:19,Germany,,www.amazon.com,,N,
+25ed56c6-1a3e-463c-821a-ffff37a4af46,,,InvalidID,Pen,Stationery,Internet Banking,-3,386.92,2022-04-14 10:54:56,USA,,www.shopify.com,871cf651-c238-4cbf-8218-f0c088b81738,N,Invalid CVV
+bf0b21cc-4f0e-4fa5-99a3-6fc20c778a07,,,4c51f823-d97c-4ae9-b417-7efe019b6b78,Cricket Bat,Sports,Card,9,879.84,2024-08-19 02:56:20,USA,,www.walmart.com,,N,
+068ce985-8f87-40e0-8af1-8fc296e239c6,e557d1b3-ef15-41d4-a791-51d5c259e52f,Anne Ferguson,e80769a5-31d0-479c-b50c-70fa9c842ac3,Sweater,Clothing,UPI,2,834.81,2023-01-10 09:09:21,USA,Lindseyhaven,www.shopify.com,,N,Invalid CVV
+3a4de163-192a-4734-84bd-dfbffbe5a3f4,92db093d-2e38-451f-bc18-db7e71ddfc32,,9fd48eee-3b9e-4c23-94c6-227d7112f527,Football,Sports,Card,6,417.1,InvalidDate,UK,,www.flipkart.com,6e0f5748-0ced-4e29-bf7b-c9a8b075953e,N,Payment gateway error
+,,,0f335d5c-5250-4f40-8282-07370b2b794a,Coffee Maker,Home & Kitchen,Card,9,99.93,InvalidDate,Germany,Brightview,www.shopify.com,483b8e3b-7e91-4290-a4b5-8fc1bac5d8eb,Y,
+d5a01e7c-7c40-4121-9149-d97601decfba,7c062082-03e3-4e85-9f0d-ee0a9bd94cfb,Angel Parker,37a7a9f7-419c-4e61-b291-fa0c608ba31f,Headphones,Electronics,Wallet,-4,15.82,2023-11-04 22:49:30,USA,South Marcusshire,www.walmart.com,d3ad5669-757f-4163-8b28-aff70b1afbed,Y,
+27a38b11-a490-4994-82b7-a17d82e96ade,f3aa5d46-77b1-458b-91f0-a0a48b0bb37e,Hannah Robinson,InvalidID,Basketball,Sports,Card,5,951.63,InvalidDate,Canada,,www.ebay.com,,Y,
+,fac9b891-863c-4ec0-a3fc-46a2d550794c,Megan Swanson,1a222382-2226-4c30-aa4e-3e9deaa60203,Camera,Electronics,UPI,2,158.59,InvalidDate,Canada,Joshuaville,www.walmart.com,,Y,
+,95ee790e-5525-4abd-bc61-140c11ae2773,,edafd825-61d1-47bb-bc4a-702903af62c5,Headphones,Electronics,Internet Banking,-2,104.47,2020-09-12 22:13:59,USA,Natalieton,www.shopify.com,,Y,
+2ad26095-93d7-4955-a2f5-7dc6dedd8ead,4c05d910-c091-44e5-88c6-8765c4874a64,Danielle Russell,InvalidID,Pen,Stationery,Wallet,7,729.39,2024-04-02 16:48:40,USA,,www.flipkart.com,4a2065ab-341a-4526-b709-34ac39a1edf1,Y,
+,,,88806e98-7c16-4e1c-9033-b62ecd75f297,Shoes,Clothing,Card,-2,929.61,InvalidDate,UK,,www.flipkart.com,68d86a93-2fcf-4034-8699-4dc59a2af07d,Y,
+1491cdcd-1c49-426b-9068-e3cf7dceb890,0fab8781-c243-4204-8b96-d86c995b7454,,89520f94-2736-4368-9e04-bf43406211ab,Tennis Racket,Sports,Internet Banking,-5,419.25,2020-06-27 22:18:40,India,Brianburgh,www.flipkart.com,e29f6f1e-56a4-4050-8471-395948317468,Y,
+1c3772f2-1a4f-47f2-92eb-9c10650a2654,3281808c-2562-4c32-b2b4-48f9b2c0296b,Cassidy Weber,fb17e132-f72c-48a0-82dc-ed9ba8bd0e3c,T-Shirt,Clothing,Card,-5,594.08,2021-01-31 15:14:37,UK,,www.ebay.com,,Y,
+,,,ff8576e6-d7f2-4379-92e9-28d8ee3d341b,Shoes,Clothing,Internet Banking,9,165.47,InvalidDate,Canada,,www.ebay.com,c593e44f-f1cb-4ab8-9cec-0933cf15327b,N,Insufficient funds
+,,Brenda Calhoun,InvalidID,Football,Sports,Card,-3,765.31,InvalidDate,Germany,,www.amazon.com,,Y,
+014165ca-4569-4d7c-8b05-f958bcbf926b,6b22bb61-96c2-4515-b38a-a57857923e6f,,InvalidID,Basketball,Sports,Internet Banking,-2,911.56,2023-11-09 18:37:48,USA,Humphreymouth,www.ebay.com,b3af87b1-405e-4b3f-848a-41b269b9f024,N,Insufficient funds
+b8fee938-6a90-4621-ba64-cf6ce9dcb866,40f1671c-bdc1-4496-92d3-1fe50fed0ccf,Jacqueline Henry,2530c80b-90e8-4f7c-94e6-73328298f04e,Book,Stationery,Internet Banking,1,338.18,InvalidDate,UK,,www.amazon.com,,Y,
+9b2779f5-a8b4-4cf9-afb6-acb9667c8cb4,,Nicole Rodriguez,fb912d64-4334-4382-9a1e-569782aded52,Pencil,Stationery,Internet Banking,-5,944.27,InvalidDate,Canada,Port Juliaton,www.amazon.com,c9e11f47-f9ac-4a48-acc9-d04e15604992,N,
+,7f20e99c-47e1-4280-ac52-bab77316970a,Brian Kelley,InvalidID,Blender,Home & Kitchen,Card,0,608.17,InvalidDate,USA,Robertstown,www.amazon.com,f7c46b5a-97a1-40db-b4b9-68ef65dfe0de,N,Payment gateway error
+,,Brandi Maxwell,a6979433-dc73-464f-b252-ca0b9e381ed3,Blender,Home & Kitchen,Wallet,5,833.03,2023-03-09 16:58:43,India,,www.walmart.com,,N,Card expired
+ad30149e-2b2e-4769-91e2-53abd48fd70f,,Darren Kelly,InvalidID,Laptop,Electronics,UPI,3,815.51,InvalidDate,India,Moorestad,www.walmart.com,,Y,
+e06ddbf7-6c65-44c2-bf01-426283900c86,380ec4e9-48a2-41f0-8a63-da87aae16c95,,11bf0cdd-380d-4a41-bf57-349800eba42f,Socks,Clothing,Card,5,13.14,InvalidDate,UK,,www.ebay.com,b89b8ba9-38dd-4957-8265-a670e8d8a0b2,Y,
+,,,7f87a3ce-3cac-4a6b-b74f-41636cde9451,Smartphone,Electronics,Wallet,-2,450.76,InvalidDate,Germany,,www.walmart.com,207753ee-8782-436b-884c-40844654d920,Y,
+,5ee8e020-c981-4112-ba03-655756376ea7,Kristen Williams,7175de57-1566-4e7d-afa6-31fb8fbd47fd,Eraser,Stationery,Card,-3,857.27,InvalidDate,USA,Petermouth,www.amazon.com,d3492431-d276-4a1b-9127-702a940d1c9a,Y,
+,,Katherine Rogers,4b8de798-8a86-4391-857a-830cd8bc808a,Dishwasher,Home & Kitchen,Internet Banking,-1,226.61,2023-04-30 07:35:04,Canada,Anthonyside,www.walmart.com,,Y,
+,0efb66c4-c0a4-4725-b6ed-b87841576486,Cristina Rogers,158c4239-9168-4530-a608-b12bc365835e,Pencil,Stationery,Wallet,5,868.04,2023-02-17 14:21:49,UK,Port Brenda,www.flipkart.com,,N,Payment gateway error
+7e85b175-6259-4571-ad54-977a8e4310c5,,,383c78d3-65da-4be1-b106-7fe0cc05a427,Laptop,Electronics,UPI,-3,531.11,InvalidDate,India,,www.ebay.com,,N,
+,,,InvalidID,Smartphone,Electronics,Card,4,634.67,InvalidDate,Germany,West Williamport,www.shopify.com,1f219ebf-58d7-4c3b-a84c-6878e8a257e4,Y,
+159f3f18-43d4-45d0-87c9-43715a42f33e,,Melissa Price,InvalidID,Smartphone,Electronics,UPI,7,272.99,2020-10-03 00:59:19,India,,www.ebay.com,,Y,
+0ab34778-fafa-4627-a8a2-3ac43f093951,18d81407-fcaa-4b64-935e-cf3619c1768a,Daniel Morris,74e5d17e-9e66-4a72-8ac0-e079f7678b75,Basketball,Sports,UPI,-4,401.31,InvalidDate,UK,,www.flipkart.com,1d283add-d04f-46d7-a17b-02586ccb582f,Y,
+2bbeeeb8-a0f3-4fee-a399-9c8ba0900049,fa13db61-90e1-44e1-b2db-d1e0989d84ff,Jonathan Brown,InvalidID,Jacket,Clothing,Wallet,-3,943.52,2023-03-28 03:29:10,USA,,www.amazon.com,f157fcdd-4631-4369-b403-dc5af5d2793a,N,Payment gateway error
+6ea2fccb-ef7f-48ea-b254-e4c1a580a3ef,,Mark Bullock,InvalidID,Headphones,Electronics,UPI,10,236.29,InvalidDate,USA,,www.flipkart.com,,N,Invalid CVV
+,,,InvalidID,Air Fryer,Home & Kitchen,Card,6,149.13,InvalidDate,UK,West Chrisstad,www.walmart.com,,N,Insufficient funds
+,,,InvalidID,Pen,Stationery,Card,6,775.49,2024-02-19 22:53:45,USA,Friedmanmouth,www.amazon.com,,N,Payment gateway error
+0bb3b8bd-0e05-47f9-b214-17e3fbb5f9bf,54fb00c7-9ecb-4f5f-ac03-b5902e658d12,,InvalidID,Smartphone,Electronics,Card,0,123.69,2020-05-30 17:08:49,UK,,www.shopify.com,2aa7de0d-474c-4d66-b85b-92c0a900f34a,N,Invalid CVV
+04fdf67e-6051-402b-896b-a7e8b38347e0,,,47e65c52-ce7c-4606-9f29-6ffc374437eb,Tennis Racket,Sports,Wallet,-2,927.38,2023-10-05 11:22:19,Germany,,www.flipkart.com,,N,Payment gateway error
+1e74b29d-10ca-4255-9365-bef33a204a21,c887f011-5934-46f0-8142-c2cfca27dd9f,Kevin Hill,InvalidID,Book,Stationery,Wallet,4,509.11,2021-08-16 20:40:16,Germany,,www.flipkart.com,b5af9393-95dd-4d10-86e4-7b97a4e840cd,N,Invalid CVV
+1ad040ab-3d09-4837-8490-98d328391033,87ee9118-c822-4ad6-a74a-b03eafe38cf3,Thomas Nichols,13f9b44f-0a08-4ce4-a0ef-88495135d6f2,Blender,Home & Kitchen,Card,-2,797.23,InvalidDate,Germany,,www.flipkart.com,,Y,
+,,Amy Jenkins,1039eb14-e955-4e65-a844-d9b7554e249e,Sweater,Clothing,Card,8,223.83,2023-06-10 19:15:05,Germany,New Susan,www.walmart.com,,N,Payment gateway error
+,66762800-0d9e-46db-9ae7-0d3172281071,,InvalidID,Blender,Home & Kitchen,Internet Banking,5,360.41,2022-12-29 15:05:20,Germany,,www.shopify.com,,Y,
+,fccab57e-93ea-456b-96c3-ee0b7626690d,Timothy Frank,InvalidID,Ruler,Stationery,Wallet,-3,10.71,2022-09-20 08:06:56,USA,South Rodney,www.walmart.com,aaaf55dd-4fa4-4568-aa49-748033cc3b13,Y,
+,9060f00b-f632-4cf3-8365-f242f4e224a4,,378611b5-3af4-43ab-8cc8-67b2e6ef1d40,Smartphone,Electronics,Internet Banking,8,930.67,InvalidDate,India,,www.amazon.com,,Y,
+,,Pamela Brennan,a0f45bd2-5cea-4b91-b93b-e0c02fdc2c46,Air Fryer,Home & Kitchen,Internet Banking,-4,777.39,2023-06-20 09:09:20,Germany,,www.flipkart.com,,Y,
+,5574ef78-8207-49b8-94b5-c79062d295bc,,bad3dab3-3b19-489c-ba9b-567b31c15a67,Notebook,Stationery,Wallet,0,775.24,2021-04-13 23:48:58,India,,www.flipkart.com,57116d1c-cf0c-4ca4-ba1d-775df91517d7,N,Invalid CVV
+,,,9357f803-5436-4890-b3ca-5ab6af32dba9,Tablet,Electronics,Internet Banking,7,273.42,InvalidDate,Germany,West Johnton,www.walmart.com,34e8eaf4-2e26-4a0e-9c92-b0e1e72a86d3,Y,
+45e93ee7-01f6-49b6-a6ca-69bf068dc6df,,Robert Grimes,7b0bd83f-7a96-47a4-a9ca-b70857352875,Jacket,Clothing,Internet Banking,5,323.26,InvalidDate,Germany,,www.flipkart.com,,N,
+eebfb779-6dc2-4267-b7cb-2929c1bacd34,,Samuel Gomez,d0f24d3f-7fb0-475d-b41a-4edf804f98c5,Pen,Stationery,Card,10,806.06,InvalidDate,Germany,,www.walmart.com,,N,
+,,,c64fa868-b7cf-4e76-9d0f-2bed8b5058b0,Tennis Racket,Sports,Card,-4,208.99,InvalidDate,UK,,www.amazon.com,,N,
+cde359f9-2e5e-4038-b4c7-08c1e335b6c9,0a4de45b-03dd-48ca-9992-b78ecd42f4da,,InvalidID,Basketball,Sports,Wallet,1,408.02,2023-05-17 11:38:32,UK,South Whitney,www.amazon.com,,N,Insufficient funds
+6c4f7db8-6aa6-4d25-9fb4-7bfa62aa27bc,e51f63a2-3679-433f-8a14-47fe4d3284a6,,793e81b9-0da1-4c22-8913-2a324f2c7a6f,Notebook,Stationery,Card,1,394.12,2022-07-15 20:20:21,USA,Jamesfort,www.ebay.com,d138a327-c135-4669-9e0e-3fe698a6c4ac,N,
+ea91b338-7682-4a78-908c-3c4903dd6bb0,bea02f1f-8411-499b-92b5-366b76e27ff3,,3fbdd2fc-d02c-403c-9f2a-9121dae5ae73,Coffee Maker,Home & Kitchen,Internet Banking,-3,352.23,InvalidDate,India,Zacharybury,www.walmart.com,141a6c8b-5af8-478f-ba58-2a47a941c846,N,Payment gateway error
+,,Heather Andrews,InvalidID,Dishwasher,Home & Kitchen,Internet Banking,-1,465.4,InvalidDate,Germany,New Erika,www.shopify.com,861df94b-b932-405b-9e2c-993a63d577d2,Y,
+,52269afc-5fc4-4225-84e8-58fe45216742,,InvalidID,Football,Sports,Internet Banking,-2,602.0,2021-08-10 08:41:04,Germany,,www.ebay.com,4fe3e845-be5d-4f1d-9709-c9031519405d,Y,
+f2604d16-d3f8-42ae-9c67-2458a21ed6d5,,,InvalidID,Blender,Home & Kitchen,Wallet,2,608.99,2023-09-30 07:30:10,UK,,www.amazon.com,,Y,
+178a5cd7-f2d8-4b26-ae69-9d2767c3aa89,43236003-f357-4a77-87a5-71aa4daf8d35,,InvalidID,Notebook,Stationery,UPI,-5,49.5,InvalidDate,USA,Ashleystad,www.flipkart.com,27f9c8c3-a0d5-44b4-8ee3-6bab8b52ddcb,Y,
+f868131a-f076-4c2d-a5c6-ee25c4aa05b3,,Michael Small,InvalidID,Eraser,Stationery,UPI,-5,-78.22,InvalidDate,Canada,West Marcusview,www.ebay.com,b873f8a0-28c7-4ca9-bfeb-777c02ec4e5e,Y,
+,99880c29-53aa-4e7c-a4c5-4244e66d710d,Colin Wheeler,InvalidID,Jacket,Clothing,UPI,2,-66.59,InvalidDate,Germany,,www.amazon.com,3453c406-304a-4ec5-b7a7-70e2d919560e,Y,
+,,Randall Melton,2f976ede-c850-4306-b748-25eff3377355,T-Shirt,Clothing,Internet Banking,6,860.92,InvalidDate,India,Harrisshire,www.shopify.com,238bd41e-9333-4ccf-92d5-daa99323635a,Y,
+,,Eugene Williams,4777ad2f-723b-4fca-beae-7db48dc68fde,Microwave,Home & Kitchen,Card,-2,895.18,InvalidDate,India,,www.walmart.com,,Y,
+,53ccfff2-a9ce-44cd-87bc-5101aa7cf8af,Jason Houston,InvalidID,Coffee Maker,Home & Kitchen,Internet Banking,0,138.63,2023-12-27 06:01:53,USA,,www.amazon.com,,N,Invalid CVV
+,,,1ff1e0a7-418f-4b24-8342-ec7964019acd,Badminton Racket,Sports,Wallet,3,486.08,InvalidDate,USA,,www.walmart.com,,Y,
+,,,InvalidID,Basketball,Sports,Wallet,9,433.89,InvalidDate,UK,,www.flipkart.com,57c3e926-263b-41a1-a01f-b855cf46123c,N,Insufficient funds
+,805e47ec-c6f0-493a-a29b-f3ea5605f698,,18d5cfc1-a9b4-424f-a9ea-f6aca7683605,Shoes,Clothing,Card,-2,421.6,InvalidDate,Canada,,www.shopify.com,2e22fceb-538a-406d-adb0-e21594a68dfe,Y,
+c0515ead-0455-4a42-a81e-36cbad3f80f8,49321e0e-f2f4-4c3c-9381-197e86a7d602,,a2c68371-41f7-4fa2-a48b-f2838c7e8266,Badminton Racket,Sports,Internet Banking,10,751.67,InvalidDate,Germany,New Natalie,www.ebay.com,b60e0722-598f-4580-9f80-d6a747558394,Y,
+,,Rachel Thomas,a22cdaf8-f64d-481f-8da8-0f700189ccef,Jacket,Clothing,Internet Banking,6,954.39,2020-07-28 14:41:02,India,North Melinda,www.amazon.com,,Y,
+,ac6ef426-7b7c-4c8f-bcfb-91db8a5010f5,,InvalidID,Pencil,Stationery,Wallet,1,782.15,InvalidDate,Germany,,www.flipkart.com,807fbb44-3bce-4906-9902-975dce2d438d,N,Invalid CVV
+,f65e740a-d1cd-4205-ab4f-3f73c99eb5db,,InvalidID,Air Fryer,Home & Kitchen,UPI,-1,488.78,InvalidDate,Germany,,www.shopify.com,,Y,
+,,Rachel Murillo,4fb16bfb-798a-4500-954f-e12f840c6d6e,Laptop,Electronics,UPI,3,896.61,InvalidDate,Germany,Kellibury,www.shopify.com,,Y,
+0f1a8a60-ce71-466f-b6c1-18656c4733d2,,,InvalidID,Book,Stationery,Card,3,43.82,InvalidDate,India,,www.shopify.com,924b680e-a9db-4e9e-85c7-8e8f96d99c9d,Y,
+07af350d-4c2f-43a9-ad73-26f0fa23d94b,e2748da4-f4a8-4788-bc48-f3073a1551b4,,InvalidID,Basketball,Sports,Internet Banking,4,628.47,InvalidDate,Canada,,www.amazon.com,,N,Card expired
+,,Mrs. Laura Henderson,f4912fdb-3485-4f31-8638-46285c774670,T-Shirt,Clothing,Wallet,2,215.96,InvalidDate,Germany,,www.flipkart.com,292081b0-83ed-4a74-94e2-036910823915,Y,
+54ac3f98-dabe-4114-a64a-f07952646c35,fcf4cacc-4300-40c8-b9bd-5723e8bc3ce3,,1dece9e6-0968-4972-b55d-bfde1c7547c3,Ruler,Stationery,Wallet,-4,569.37,2024-01-13 09:22:20,Germany,,www.amazon.com,3d18e336-ff5c-4fad-bc07-ff5f3e14356d,Y,
+a30ae005-5d9b-4c51-9fcc-b32bd3233295,,,InvalidID,Coffee Maker,Home & Kitchen,Card,5,892.75,InvalidDate,USA,West Sarahhaven,www.flipkart.com,873c7197-355f-4893-9351-98c71247bf3d,Y,
+,,,0d12b0d9-798a-406b-ae81-91ce0ffa65a2,Yoga Mat,Sports,UPI,5,599.16,2024-05-17 22:54:41,USA,West Emily,www.walmart.com,3b49c603-77fa-4e86-affa-90344288c0ac,Y,
+69b0329c-defc-4a80-9140-7b68f12b0149,,Jessica Beck,InvalidID,Smartphone,Electronics,Wallet,-1,182.59,InvalidDate,Germany,,www.amazon.com,,N,Invalid CVV
+dce2125e-031c-483d-b54e-8300b6dc18f6,,,InvalidID,Book,Stationery,Internet Banking,-4,763.46,InvalidDate,Germany,East Nicoleborough,www.flipkart.com,,Y,
+,647d1492-ecb3-4049-b9f5-e4b7f9b2cae7,,14052abc-ec5e-4b8a-b7ef-5d983de48dcc,Notebook,Stationery,Card,6,-78.38,InvalidDate,Canada,Jeremystad,www.ebay.com,,N,Card expired
+ee956bc4-fba3-4c77-84c3-b26c1f48a127,3393a193-0848-4f89-8f0f-35daacef7985,,InvalidID,Jeans,Clothing,Internet Banking,-4,623.97,InvalidDate,Canada,New Crystal,www.ebay.com,2c6ddf37-40e1-43fb-8602-62fa1e3fa259,N,Invalid CVV
+79c56cff-1b40-4e1a-a8ef-ca9561b7e313,,,InvalidID,Badminton Racket,Sports,Card,0,413.7,2023-06-26 19:49:19,India,Lake Tiffanyfort,www.flipkart.com,,N,Insufficient funds
+ea2c2f37-9eca-4206-9a50-a6725b802cac,,Claudia Levy,32682f42-35e9-4b85-b398-7b619e1f36be,Headphones,Electronics,Internet Banking,5,427.16,2023-12-16 18:08:27,Germany,Port Paul,www.amazon.com,6d4545c6-e9e9-484b-a0d7-22bbf29bf54f,N,
+,,Beth Jackson,InvalidID,Socks,Clothing,Internet Banking,6,822.02,InvalidDate,UK,,www.amazon.com,,N,Invalid CVV
+,bad9d6b5-4b68-470b-8f3c-37d7e8a2b043,,191668d8-950e-4858-8d7f-935d32e23784,Badminton Racket,Sports,Wallet,-5,117.05,2021-04-09 02:35:14,Canada,Stephaniefort,www.walmart.com,e06dd7ba-8d6e-4153-b8ae-e457075f94e6,N,Insufficient funds
+,dc2d5bee-e324-4d38-b1d8-97fbf02640d8,Robert Davis,InvalidID,Sharpener,Stationery,Wallet,8,586.68,InvalidDate,USA,East Mark,www.ebay.com,,Y,
+,b9527831-453d-40c9-8700-01d5cde5a56d,Wesley Sharp,b970ddd6-fe3a-4681-b74f-f8ebdfb0c1a1,Shoes,Clothing,Card,9,857.5,2022-03-19 17:38:12,Canada,Josephberg,www.flipkart.com,,N,Invalid CVV
+,4d49b0af-d8b6-4cf5-a8f2-bd8520acb786,,721cff72-b298-4c2c-b6ef-c3dfb61122f9,Dishwasher,Home & Kitchen,Internet Banking,2,57.85,2021-02-12 07:48:08,UK,,www.ebay.com,fbe1cd70-daa1-43ac-a099-37886ef69192,N,
+1b59b3a6-e7b0-42db-958b-f947c8469587,dec553bd-cf51-4ecb-acea-6e9f0c9b319e,Debbie Wilson,InvalidID,T-Shirt,Clothing,Card,9,11.07,2022-02-24 23:35:25,Canada,,www.amazon.com,,N,
+a7c7fb34-926a-41a6-98ab-40386770c8bc,,,InvalidID,Smartwatch,Electronics,Internet Banking,4,238.8,InvalidDate,Germany,Sullivanfurt,www.amazon.com,0d0ae817-e650-413c-b26b-1df9d5b8953a,N,Payment gateway error
+8b847c95-7834-429c-82ce-f2b7528f9aba,,Kevin Lara,InvalidID,Tablet,Electronics,UPI,-3,853.12,InvalidDate,Germany,,www.flipkart.com,,Y,
+,0fc70a80-3500-4586-b91d-bba2f4345042,Christopher Parker,InvalidID,Coffee Maker,Home & Kitchen,Card,-3,984.5,InvalidDate,Germany,Reynoldsview,www.amazon.com,,N,Card expired
+dc09bad8-80d9-4d3b-ad6b-143f965126d1,80623382-b008-4d99-84df-653523100439,Christopher Fischer,InvalidID,Notebook,Stationery,Card,1,544.74,InvalidDate,USA,,www.walmart.com,,Y,
+,49c77805-c267-42ef-a638-2d898225aba1,Lisa Johnson,02024fa5-9c67-4686-af9d-80e4d04eb805,Tablet,Electronics,UPI,-1,541.07,2022-10-28 21:00:26,India,,www.ebay.com,8ec9a784-4ffd-4d99-931a-7ba1516bbd74,N,Invalid CVV
+,7e58ef18-5535-46dc-82b4-0bc3477f1eb6,Dr. Lauren Potter,67fb3bf0-b130-480a-a1bb-6b44b14adef0,Basketball,Sports,Wallet,2,651.86,2023-03-22 23:16:48,India,Lake Erinshire,www.amazon.com,69416137-3b69-4cad-9dd7-a248718aa49f,N,Insufficient funds
+,1efb7d0b-e6aa-49b1-b670-bb3450155bcc,,bca8f030-7ca4-4a58-8458-5053fb458959,T-Shirt,Clothing,Wallet,10,405.79,InvalidDate,USA,Luisberg,www.ebay.com,9fc02fc7-6fc9-4067-b2c5-b6b0f1940d8e,Y,
+f9e6aff7-fbb2-4bb2-90f1-445de714d05b,,Robin Romero,ae1a4ed4-0b53-47b1-8a6a-8e77b6046f74,Coffee Maker,Home & Kitchen,Wallet,9,863.68,InvalidDate,UK,South Kristine,www.walmart.com,,Y,
+72427435-3d18-4bdd-ace4-c4a675f26a47,ebc31365-488a-4f45-95b8-878598a7c06c,Gabrielle Thompson,9b976e13-9ad0-49eb-b81c-5164c67633d8,Tennis Racket,Sports,Internet Banking,-4,946.27,InvalidDate,Canada,Vasquezport,www.walmart.com,,N,Insufficient funds
+,0b6b5cf4-02ab-430a-90ee-94aca4b05e6a,,InvalidID,Socks,Clothing,Wallet,-1,431.67,2020-02-27 15:37:24,UK,Lewisfurt,www.amazon.com,48a21e5d-6065-4f31-aed0-5d2be116aaf5,Y,
+55c24889-b907-4dd8-aa9a-d9a181514906,,,InvalidID,Headphones,Electronics,UPI,2,221.68,InvalidDate,UK,,www.walmart.com,,N,Insufficient funds
+,d2fe69a3-a162-45d6-82ff-7333276e50c0,Hannah Davis,1028252b-83f5-422f-a5b1-ba7784552f88,Badminton Racket,Sports,Wallet,-2,-72.06,2022-09-29 02:02:51,USA,Kayleeside,www.ebay.com,7d05fc43-5efb-459b-b9d5-773fdd5dd773,N,
+,161277b6-c214-4bc7-8cc4-1c1611001c1e,,InvalidID,Toaster,Home & Kitchen,Wallet,4,257.81,2021-07-14 01:40:38,UK,Alexandermouth,www.flipkart.com,d5ace062-9879-42e7-96a4-4d7648019787,Y,
+673feff9-c9ec-4f3c-942d-8529f92ec5da,6937b5da-da35-4d8c-8990-11431073b765,Kara Rasmussen,1b6c7152-175e-4cc7-ac4c-5c4a902e2b49,Socks,Clothing,UPI,7,597.84,InvalidDate,Canada,,www.flipkart.com,,Y,
+934def6f-3004-4d4f-be21-2080e24e2023,412f68d6-35fd-4198-b87c-a455c30527d8,,InvalidID,Notebook,Stationery,Wallet,-1,477.48,InvalidDate,USA,Thomaschester,www.ebay.com,,N,Invalid CVV
+c6e9058d-9552-44f0-a898-f017d615dbf3,,Walter Dickerson,fb668442-5e43-4c4b-bcc4-9c2558e1d72a,Yoga Mat,Sports,Card,-1,830.99,InvalidDate,India,New Peterton,www.shopify.com,,Y,
+,,,InvalidID,Socks,Clothing,Internet Banking,3,29.82,InvalidDate,USA,Patrickstad,www.shopify.com,,N,Invalid CVV
+,,,1c8cf136-35ba-456a-9009-fba133846a3e,Dishwasher,Home & Kitchen,Internet Banking,-5,578.87,InvalidDate,USA,Erinshire,www.walmart.com,,Y,
+0a7cabc0-3177-4ef4-b7f0-0eefe001e3c7,,,7ea29fda-0bbd-40a4-877d-ba8fd93a857a,Shoes,Clothing,Card,-5,291.44,InvalidDate,Germany,,www.ebay.com,1270d657-b1ab-47c9-8fe7-2838feb62f29,Y,
+,d30c17c9-5aa5-4dbb-bac2-92a874512fd2,Monica Cooper,b25b92f6-480e-4b4b-abc5-65f2383dbabe,Tennis Racket,Sports,Internet Banking,4,828.21,2023-05-13 01:59:59,UK,Josephburgh,www.shopify.com,b1acd732-7b23-4c74-aef0-c4c5a64e9932,N,
+,ed94bf64-8254-4862-bab7-eb64859a56cf,,InvalidID,Sweater,Clothing,Card,10,-3.35,2022-08-20 20:21:03,India,North Robertmouth,www.ebay.com,7a18dcea-29df-4090-870c-91c1779bdbc3,N,Card expired
+54562374-bb3f-498e-98f1-d03a1a691775,,Melissa Beard,a303b786-d6b2-49cd-bb2d-4edb34fd1819,Sharpener,Stationery,Card,1,256.86,2021-05-22 16:51:00,India,New Christine,www.ebay.com,b2adf847-dbc2-42c1-89e9-0de972917923,Y,
+3ab23c54-dbf5-49e1-a156-2b5f9543ab16,,Andrew Perry,InvalidID,Eraser,Stationery,Internet Banking,-4,389.55,2021-05-22 11:18:24,Canada,,www.walmart.com,3e5dede9-300d-4416-b43a-8d533c815f41,N,Payment gateway error
+,444ac64f-ce6d-4b61-a000-b98ac3349129,Benjamin Russell,InvalidID,Pencil,Stationery,UPI,2,780.01,2021-02-04 06:03:15,India,West Scottport,www.shopify.com,bbf920c8-a0aa-4e59-af15-e21c5b4368ab,Y,
+a89049c6-9a64-4632-9443-f37a1aafb2a6,ede99ac8-7a4e-45c0-88f6-ac7ecbf4a7ba,,InvalidID,Air Fryer,Home & Kitchen,Card,0,763.11,2023-01-01 08:54:52,UK,Meaganport,www.flipkart.com,5cb1475a-fa7b-44dd-b8d8-b9ac4e0f533d,Y,
+c24c69ca-a036-4f43-81c3-fcf3615970b8,9ea8fb95-31d3-435a-8c8c-be235ca825fb,Tommy Carroll,InvalidID,Tennis Racket,Sports,Internet Banking,-4,88.39,InvalidDate,Germany,Butlerberg,www.ebay.com,f20f929a-c0f6-47a9-b497-378dbd8e3a6f,N,Card expired
+,49b3da03-7202-42d8-adfe-9013696a69f3,,InvalidID,Eraser,Stationery,Wallet,-4,449.52,InvalidDate,Germany,New Alexbury,www.walmart.com,319f7bf1-04a5-4c92-98da-2b6432455850,N,Insufficient funds
+9959d998-2169-49bb-8d24-dd43853be98a,e002253c-eea6-4f5f-bb80-b50b2bf41d9a,,2dc4192d-0411-4df0-a4a0-8ee3bfc83de9,Laptop,Electronics,UPI,-5,-17.17,2020-08-20 22:19:07,Canada,,www.flipkart.com,,N,Card expired
+,908f4e8a-7854-449d-b9be-499fc3b90bcf,Nicholas Rivera,fac195f9-0042-4316-bd23-04419fb62cea,Sweater,Clothing,Internet Banking,7,482.6,InvalidDate,USA,,www.flipkart.com,0dcd7248-85b3-46ca-9a1e-bf7e727db5fa,Y,
+,,,InvalidID,Yoga Mat,Sports,Card,2,196.67,2023-01-26 00:26:50,USA,South Davidshire,www.amazon.com,965a24f0-7abf-4c0b-8ae1-d68c417ebfe5,N,Payment gateway error
+,c4c73cb7-75fd-4a99-a4e6-885258d5a12a,Michelle Walton,InvalidID,Shoes,Clothing,Wallet,9,-93.88,2020-02-25 17:52:52,UK,,www.flipkart.com,653acf96-ef7a-4177-80c2-989ae2fc0a39,Y,
+,,,InvalidID,Dishwasher,Home & Kitchen,Card,-2,889.56,InvalidDate,UK,,www.walmart.com,de348421-d5c0-4883-a62d-4a366bf18790,N,Payment gateway error
+,,,42a9af34-df7f-4c9a-9eeb-25e4d2e77b60,Sweater,Clothing,UPI,-2,305.54,2023-01-22 03:37:32,Germany,,www.walmart.com,11c20bdf-f655-419a-8f3d-b74ba6d7a8b2,Y,
+81124f14-f4fb-405c-a2e9-4991e2c1d457,,,1659ef61-f993-45cc-abf8-e328c55c77dc,Toaster,Home & Kitchen,Internet Banking,-5,443.12,2021-02-11 19:07:51,UK,New Christopherport,www.shopify.com,,N,
+dfe44caa-b71a-4f7f-beb3-5bddb8853489,,Chad Green,InvalidID,Coffee Maker,Home & Kitchen,Card,0,409.97,InvalidDate,Canada,Cruztown,www.flipkart.com,9aab424f-6526-4231-a052-c56b151621f8,Y,
+,,,InvalidID,Ruler,Stationery,Internet Banking,1,-39.32,2023-05-30 15:12:56,India,Lake Jonathan,www.shopify.com,,Y,
+,,,8575cddf-b4f3-4710-8609-3a75f120ab49,Sweater,Clothing,Internet Banking,6,246.53,InvalidDate,Germany,Port Michelleport,www.amazon.com,,N,
+,,,0611d6f0-a231-41a2-9649-ec66ee75ec2c,Badminton Racket,Sports,Card,-5,640.9,InvalidDate,Canada,Lynchland,www.flipkart.com,,N,Insufficient funds
+,,,cbefbdc8-a62e-4db5-a030-c0b1b3262e66,Badminton Racket,Sports,Wallet,0,875.28,InvalidDate,Canada,New Margaretburgh,www.amazon.com,,N,
+,b0667974-ccf2-4981-89ef-224e959b0e9a,,8265b2d8-dc4a-4a3a-8a5a-3ce7132a36d3,Blender,Home & Kitchen,Card,6,880.48,2020-01-10 01:09:07,USA,,www.ebay.com,,Y,
+5ba3b85b-a4c0-4784-b875-732e8f641e21,,,InvalidID,Pen,Stationery,Card,5,696.02,InvalidDate,Germany,Cheyennefurt,www.amazon.com,,N,Card expired
+,1b88a00b-f1f2-4633-82ae-548977c13840,,InvalidID,T-Shirt,Clothing,Wallet,2,690.21,InvalidDate,India,Catherinetown,www.walmart.com,907e390a-2e50-47c2-85c8-eedb32d6aff8,N,Invalid CVV
+,,Cory Davis,InvalidID,Air Fryer,Home & Kitchen,Wallet,7,845.34,2023-03-09 20:10:44,Canada,,www.ebay.com,,Y,
+,,,InvalidID,Book,Stationery,Wallet,-5,929.71,InvalidDate,India,Jonesport,www.ebay.com,3000f745-c51f-4092-8b71-bbb549c2aea3,Y,
+,6f59f3eb-1899-4a1a-b462-ef521b21daa0,Breanna Sanchez,f3a66517-e0af-4334-a136-583a7da724ca,Shoes,Clothing,Card,-2,836.83,2022-12-27 15:45:16,UK,Doylemouth,www.walmart.com,,Y,
+,45db4a2a-e6ba-4d76-a4be-37580fd93213,,InvalidID,Toaster,Home & Kitchen,Card,5,121.52,2023-06-14 06:04:36,India,,www.amazon.com,391fa663-e658-47dc-9de5-f5553a628c77,Y,
+,,Michelle Pineda,InvalidID,T-Shirt,Clothing,Card,2,795.8,2022-04-26 11:53:45,India,,www.flipkart.com,,N,Invalid CVV
+,def22476-3a9d-4a13-954c-e1868cc88d5f,,8b3585d7-d74c-4520-a2cb-228e058fbc45,Shoes,Clothing,Internet Banking,-4,275.69,InvalidDate,India,,www.walmart.com,aacffc2f-ddd7-4277-8823-34b32c14343b,N,
+,5a015457-9860-4c20-9a42-7d3432625f4e,,cc8441d6-7a2e-4e6d-99fa-7ba446b58423,Notebook,Stationery,Wallet,-5,732.64,InvalidDate,Canada,Justinberg,www.shopify.com,,Y,
+,,Brandon Thompson,1b94340a-f02c-4617-82d1-7b90e66cedd0,Camera,Electronics,Card,6,404.65,2022-01-31 23:27:24,UK,Lawrenceton,www.walmart.com,,N,Insufficient funds
+7bccaf10-5189-494b-a462-03e4cc20c84d,,,9836038f-dd69-4e72-a002-dcbfce9ee1d4,Sweater,Clothing,Internet Banking,2,199.18,2024-09-09 05:31:20,Germany,East Erikaview,www.amazon.com,d7cfe802-1017-446c-b8af-ae8a635f9b43,Y,
+b3c898f1-6086-4620-8347-bf22beab21cc,082ee64e-512b-49f9-a9dd-951521cd33ac,,InvalidID,Sweater,Clothing,Card,4,29.82,InvalidDate,USA,South Stephenburgh,www.shopify.com,,N,Invalid CVV
+,dc82eae4-2870-443c-8f9e-ef54d88446aa,,edc08241-06e7-4e93-a955-60e50a0249b0,Cricket Bat,Sports,Wallet,0,396.42,InvalidDate,Germany,,www.ebay.com,,Y,
+05c50e62-aeb9-4667-98f2-cff7887e34f3,7afdc447-3847-4a2e-bc07-6321d9a1486f,,InvalidID,Pen,Stationery,Wallet,7,-95.44,InvalidDate,USA,,www.shopify.com,d44d55e0-2c2d-4abc-a59c-7b9c70d80a6e,N,Insufficient funds
+67d5f2a0-bd75-41bd-944d-ecf23579649a,1903307b-ff3c-4d9b-b288-f022ab0d8c07,,InvalidID,Smartwatch,Electronics,UPI,5,609.11,InvalidDate,USA,West Lynn,www.walmart.com,,N,Invalid CVV
+,de39342f-ca29-460f-bb8e-dd212d9df02d,Anthony White,a45d04bd-8d9f-4377-8ed5-eda34190bce5,Notebook,Stationery,Wallet,9,348.7,2020-05-09 08:46:56,India,New Brad,www.walmart.com,,N,Insufficient funds
+,8c68d846-05d5-4431-b766-efe23dabe84f,Sheryl Webb,da31e9d6-0740-44fa-ac07-4fdb6e68dc98,Sharpener,Stationery,Wallet,0,505.21,InvalidDate,India,Barnesberg,www.walmart.com,,N,Invalid CVV
+06741930-5499-4992-9926-a595c2f6425e,c8d9e0cb-06d4-4035-97ce-44d4631b6b6f,Amanda Villanueva,b8a088b6-c39a-408d-9ee0-cf4b7e0715b3,Pencil,Stationery,UPI,5,656.16,2020-03-27 06:04:34,UK,,www.amazon.com,,Y,
+,ab798ade-d571-4ed1-b5e0-eb031dbcfd7a,,13452492-a5d8-44e5-9210-5312deec7dfb,Tennis Racket,Sports,Card,1,-96.39,2023-01-13 12:55:46,Germany,,www.amazon.com,01de897c-89a6-4832-863d-0bfc39e1a59f,Y,
+34be60f1-09b4-466f-9d89-cebdf06d22a1,,Scott Kelley,bc9463d1-ca1d-4a68-861a-f9adb4f76164,Jeans,Clothing,UPI,1,346.3,2023-01-24 17:33:21,Canada,Matthewhaven,www.flipkart.com,61036b39-ec59-4446-a129-94414fbb8104,N,Insufficient funds
+248e33ce-c107-4582-a247-fc605e89c6c7,281f74e3-1462-4711-aeda-0c46572a68ba,,InvalidID,Cricket Bat,Sports,Card,0,220.37,InvalidDate,USA,,www.amazon.com,373eb4aa-15e0-41b0-a5e8-9f6832b42b21,Y,
+,,,ac8bf4b3-ce74-449c-9d65-0e330aa36c06,Coffee Maker,Home & Kitchen,Wallet,8,-83.34,2020-05-22 05:07:47,Canada,,www.amazon.com,,Y,
+,,,22706951-923b-4b22-a920-8f45f5e1407d,Laptop,Electronics,UPI,10,546.32,InvalidDate,UK,West Larrybury,www.shopify.com,,N,Payment gateway error
+,9a26db6e-3c0e-45d0-842e-da9358749395,Amber Marsh,33435b3f-c6a7-4dc8-bb76-19f7337c3d9c,Basketball,Sports,Wallet,10,611.88,InvalidDate,UK,,www.flipkart.com,529f271c-16d6-4f8b-b081-6dc52338e7e4,Y,
+,,,InvalidID,Tennis Racket,Sports,Wallet,-1,187.51,2020-12-16 11:51:04,Canada,West Marie,www.shopify.com,,Y,
+4e611e15-7cfa-4cbf-b07d-9597490decdc,d68a6ca5-2881-488d-8516-32828b972b89,,InvalidID,Air Fryer,Home & Kitchen,Wallet,9,699.61,InvalidDate,Canada,Karaborough,www.flipkart.com,fed479f6-6097-49b3-aec3-8685ceb0ca8e,Y,
+,,Michael Brewer,InvalidID,Coffee Maker,Home & Kitchen,Card,-3,803.71,2022-08-21 14:50:43,USA,Martineztown,www.amazon.com,dc488105-e241-4ebe-a7b5-3429d0fa7ed9,Y,
+75b9fef0-ec5b-491f-bff4-2e2df23528c4,,Ashley Camacho,de56eaa2-a5b3-47d1-9bb6-bbbdf55fd2ae,Toaster,Home & Kitchen,Card,-2,556.39,2021-01-19 13:47:27,Germany,,www.ebay.com,30fe10bd-2e40-40a8-917e-6dc6b5f78939,Y,
+,,Kimberly Miller,aab89d41-525f-4d41-bbfa-94b1854a17cd,Basketball,Sports,Wallet,1,690.06,InvalidDate,Germany,,www.ebay.com,,N,Payment gateway error
+5ef6fdd5-9403-4e07-a39f-1ff9652059a4,ef6a4cb7-88b0-4110-8703-e6ddce00744b,Erik Simmons,InvalidID,Toaster,Home & Kitchen,UPI,-3,837.71,InvalidDate,India,Lake Richard,www.shopify.com,,N,Card expired
+,,Jeffrey Perkins,7fa591ee-7826-43d6-bde8-aed30ec4b558,Sweater,Clothing,Wallet,5,-16.4,InvalidDate,Canada,,www.ebay.com,,N,Insufficient funds
+,,Dr. Don Chavez,InvalidID,Toaster,Home & Kitchen,UPI,1,843.96,InvalidDate,Germany,,www.ebay.com,,Y,
+,,,0210eceb-a8e0-45e5-b016-0306a68ded43,Sharpener,Stationery,Card,-2,-45.68,InvalidDate,Canada,,www.amazon.com,,Y,
+,3a93b4bd-462b-4c21-b626-ad531a23e121,,InvalidID,Tablet,Electronics,Wallet,3,419.76,2020-08-05 21:19:43,India,,www.amazon.com,,N,Card expired
+14521fe1-6e34-4308-96e0-cfd6a5950758,,,InvalidID,Notebook,Stationery,Wallet,6,-11.97,2023-10-15 21:24:12,UK,Reynoldsshire,www.shopify.com,,Y,
+,,Mr. Alexander Fuentes,c64bec95-aa89-45c0-99bb-804bf9cc34f2,Eraser,Stationery,Card,3,523.28,2020-05-07 08:23:32,India,,www.shopify.com,6264c776-1117-4b4a-b879-10af390f10d0,N,Card expired
+dea1ba35-6966-4237-9623-1f1bb5b55846,4a2cc9c1-8910-4cf1-8b4e-ef544ad0fb64,,9ac7ec56-1b51-40c5-a5b8-6ec0b1a74ea1,Smartphone,Electronics,Wallet,-3,490.67,2021-12-21 20:40:55,India,West Maryport,www.walmart.com,,N,
+23ad0417-6b23-4606-89f1-d96263a39914,10b662ff-d690-47b6-bc4a-7d0a506b206e,Janice Knox,InvalidID,Book,Stationery,UPI,1,319.59,2021-12-04 14:48:49,Germany,North Kristin,www.amazon.com,cb13587a-1feb-44e8-8d69-d90faa93d33e,N,
+1032241d-8452-4f80-b1f7-c3812a0f1d7a,,,f468700c-2122-4d08-962e-5ca5ff8be699,Laptop,Electronics,Wallet,-5,685.74,InvalidDate,USA,,www.ebay.com,70001250-3048-42aa-897f-d5cf7019fe1e,N,Invalid CVV
+8a9d0731-6268-4969-83c8-2f72950b1cda,bde51029-f60e-4ffd-8205-599e98865236,David Walker,InvalidID,T-Shirt,Clothing,Internet Banking,0,866.1,2020-03-02 16:19:59,Germany,Port Chadshire,www.walmart.com,f2dba387-baaf-4318-8afb-549035458f65,N,
+,,Jonathan Owens,InvalidID,Socks,Clothing,Card,-5,531.76,InvalidDate,Germany,,www.amazon.com,,Y,
+,,,38e274e0-c87b-49d7-9ae3-8e720a3dcb6d,Headphones,Electronics,Card,6,-94.32,InvalidDate,India,New Bobby,www.shopify.com,,N,Payment gateway error
+b13266a9-5383-46a7-a604-6171af40b062,da88addc-5f1e-4d7e-82e7-40e70aac254d,Justin Powell,InvalidID,Pencil,Stationery,Wallet,3,61.15,InvalidDate,India,,www.walmart.com,,Y,
+6d83aa19-c765-4f67-996f-f937c60cb7d5,,Edward Peters,9efa9f70-6390-4963-ae9d-22b963c2e912,Sweater,Clothing,Wallet,-5,809.13,2024-08-30 16:08:25,USA,,www.shopify.com,7ebdf386-55ab-414b-bbd7-2978edb9db30,Y,
+,,Bryan Fletcher,48b39f63-72cc-4cca-b146-8ad2dc671e1d,Tablet,Electronics,UPI,8,842.59,InvalidDate,USA,Lake Briantown,www.ebay.com,,Y,
+8ae47ed7-31fe-4911-8b2e-3907e0cdd4d6,,Benjamin Stevens Jr.,20f5c11e-bb1b-46d9-90e3-3c758aa56cf1,Tablet,Electronics,Internet Banking,-2,122.69,InvalidDate,Germany,Loweport,www.walmart.com,3f409a99-ea5e-4fb6-942e-269c4fe3d4ea,N,Invalid CVV
+,a5988c3b-d550-4d9e-88a9-0ed253440dff,,7f7d4c9a-ad25-445b-87c3-d2cf21148aec,Eraser,Stationery,Wallet,-5,790.67,InvalidDate,Germany,,www.flipkart.com,45f9723a-602e-40bf-8537-20f1c0fad6b3,N,Payment gateway error
+,,,InvalidID,Yoga Mat,Sports,Wallet,0,329.25,2021-08-16 18:08:39,UK,,www.flipkart.com,,N,Invalid CVV
+,,,87c68a08-c278-41c1-b87e-4c5d8d24dbad,Yoga Mat,Sports,Internet Banking,-3,994.55,2020-05-27 04:34:39,UK,,www.walmart.com,,Y,
+c825b305-bd83-48d1-bc63-52382d6e1874,0d452215-a907-496c-8bc1-9ed5e0b1b4cd,,InvalidID,Smartwatch,Electronics,Internet Banking,5,519.92,InvalidDate,Canada,,www.walmart.com,,Y,
+,,Kelly Lee,InvalidID,Headphones,Electronics,Wallet,-2,271.74,2021-03-13 03:43:16,Germany,,www.flipkart.com,f9c2acee-4af9-4cc0-8346-4250d7933e15,Y,
+dd11bcb9-720d-4bd7-8107-c9cbdd8f9db8,,Anne Gutierrez,8dfe7f63-e6e6-4001-9713-29b3ab3a4300,Microwave,Home & Kitchen,Internet Banking,0,751.06,2022-12-12 20:41:11,Germany,,www.ebay.com,,N,
+beaccbb1-eaad-4a22-881d-7e3b7b138848,345019b6-9124-40ed-9b86-28faddd3908c,,InvalidID,Yoga Mat,Sports,UPI,9,994.31,InvalidDate,USA,,www.ebay.com,1990e7ad-a353-4070-87bd-16a05edb9bb0,N,
+,,,InvalidID,Eraser,Stationery,Internet Banking,-1,891.02,2021-04-10 15:47:34,India,Youngville,www.amazon.com,,N,Payment gateway error
+,,Justin Perkins,InvalidID,Jacket,Clothing,Internet Banking,4,544.2,InvalidDate,Canada,,www.ebay.com,ac5c2083-ad98-49f7-b805-bd24c6ffbbb4,Y,
+,,,InvalidID,Yoga Mat,Sports,Card,2,752.56,2020-05-23 02:49:49,USA,Lake Davidfort,www.amazon.com,b4324d42-f7a8-4047-82a7-55a06741bdf2,N,Insufficient funds
+1f21c9bc-4083-49f6-a85d-2999ca9b6277,,Erika Cox,24bbb1ee-929d-418e-87e1-84c120be77ae,Jeans,Clothing,Card,0,498.57,InvalidDate,UK,,www.ebay.com,c72ffd02-5ee1-4c00-8427-d9f91d693fc9,Y,
+,,Alicia Calderon,InvalidID,Camera,Electronics,UPI,5,-8.66,InvalidDate,Germany,Nelsonburgh,www.ebay.com,4fe13d53-e812-4a8d-acd7-e1de05c384f6,N,
+41e4b8d1-ba41-4503-acb2-537dcb16b166,07995dda-ae35-4e72-ab4f-47907116fa84,Kimberly Powell,InvalidID,Coffee Maker,Home & Kitchen,Internet Banking,7,843.55,2023-01-29 07:53:41,UK,New Nicholastown,www.walmart.com,,N,
+,ff87f0ea-5296-4aa4-90e4-193a530ea34d,,1a6501ba-a645-47a1-99d5-3e42d4a0e337,Tennis Racket,Sports,Internet Banking,-4,410.8,InvalidDate,USA,,www.amazon.com,f8259d3e-6235-4c9f-b32a-3ff7919d6835,N,Payment gateway error
+,6849a2e4-d064-4760-8e09-0844988fb72a,Erika Williams,InvalidID,Air Fryer,Home & Kitchen,Card,9,-97.1,2021-02-15 17:14:42,India,Jamesland,www.amazon.com,,N,Payment gateway error
+0c76382e-b7fb-456f-a6fa-22cbbfd32871,0790d6f7-4843-4454-a0d5-5aa92f641b2e,Tonya Rodriguez,56ef7b89-c1fc-4cb7-8dd2-8f9885a83139,Air Fryer,Home & Kitchen,Internet Banking,8,565.2,InvalidDate,Canada,New Paul,www.flipkart.com,d66f317d-c435-4d86-9f2d-09b51d518d50,Y,
+,6d1b5794-ce49-4203-9e91-b578cc114576,,InvalidID,Pencil,Stationery,UPI,-3,389.14,2023-01-22 05:55:41,India,Martinmouth,www.shopify.com,,Y,
+,91036e3a-a0ab-4ec1-b1b7-bab83d226f36,Brianna Jackson,InvalidID,Air Fryer,Home & Kitchen,Card,9,721.16,2020-05-13 12:15:05,UK,,www.walmart.com,,Y,
+f32387eb-bfd4-4090-9acb-5b4de296214d,,,f4a78983-8b2b-4970-bdc9-e3132a5d5c0e,Camera,Electronics,UPI,8,394.02,InvalidDate,UK,,www.ebay.com,6dc97c4f-0d4d-49ae-8e21-1aa18583936b,N,Card expired
+,ceb2d9e6-e728-4664-b9d1-fdfc234f6bc4,,InvalidID,Yoga Mat,Sports,Card,1,92.07,2023-11-25 14:12:13,India,Wernermouth,www.shopify.com,,N,Invalid CVV
+,,Bradley Melton,InvalidID,Smartwatch,Electronics,Internet Banking,3,-83.45,2020-08-18 00:17:20,Canada,Carpenterbury,www.flipkart.com,,Y,
+,df9d6011-c12f-436e-96a2-c9877359ac35,,dab8ebf6-1882-4b9b-a710-42ce26ec6c41,Blender,Home & Kitchen,Card,4,558.94,2023-02-22 20:35:40,USA,,www.walmart.com,,Y,
+,,Sarah Campbell,InvalidID,Sharpener,Stationery,Card,10,-14.48,2020-08-09 14:34:54,India,Danashire,www.walmart.com,,Y,
+,155bfbdc-4867-4bc6-bc87-3df3b6f0c005,Brian Martinez,4e68bfb2-3243-47e2-b659-2710e313b764,Tablet,Electronics,Card,5,188.71,InvalidDate,UK,,www.ebay.com,,Y,
+aab085d6-fb3d-4ac5-baa9-a1963a25b4a8,7b28e3cf-50d9-4a6d-978b-ad5588e9c8f6,,bd92a99d-1f89-4ad6-959b-d65806800177,Jacket,Clothing,UPI,10,764.55,2022-11-04 01:01:29,USA,,www.walmart.com,a6d968cf-b9fc-4221-8089-7a68aaf2ed66,N,Invalid CVV
+,,,InvalidID,Dishwasher,Home & Kitchen,Internet Banking,8,103.03,InvalidDate,Canada,,www.flipkart.com,,Y,
+3255dae7-095a-4a89-acf9-e7583a561358,,Jessica Marquez,InvalidID,T-Shirt,Clothing,Card,-3,512.78,2020-02-04 19:58:05,India,,www.flipkart.com,8ccea881-a863-4ba5-bf60-c45b6eaf7bcf,N,Payment gateway error
+,deba7846-1f44-4c1c-afc5-91e147abd7cd,Robert Johnson,InvalidID,Basketball,Sports,Wallet,2,716.32,2021-04-03 07:14:34,USA,,www.shopify.com,,N,Insufficient funds
+,9f0036ed-92d5-4b1a-9d05-9c473c10a5be,Caitlin Michael,a2cc3811-2086-4e59-a53f-37291ddf8c82,Headphones,Electronics,Internet Banking,1,481.98,InvalidDate,UK,Douglasborough,www.amazon.com,9c73739d-456b-4919-94f3-81516b9e1791,N,Payment gateway error
+185e2a0a-0455-46be-a8dc-7e16aebb5425,1aa1da4e-50e6-4a4a-93c1-c0aa0989bb8f,,9126f41f-14be-40c5-a95d-5a35e84f6a9e,Shoes,Clothing,UPI,3,696.31,InvalidDate,UK,Herbertview,www.ebay.com,25771bc5-87ae-48ec-840d-dfe47be3236d,N,Card expired
+af9d9f08-3bde-4ede-b97e-8e5572afdd20,aaf5939c-2303-4372-8e84-b8a0c4c06e0a,Cody Mitchell,c8f3a333-dfa2-4701-845f-698ecb20bc72,Smartwatch,Electronics,Wallet,10,334.08,2023-07-03 15:22:49,India,,www.flipkart.com,37c4b28f-8ac3-4281-868f-98c3e13c9c1f,N,Invalid CVV
+,,Jason Zavala,InvalidID,Headphones,Electronics,Internet Banking,-1,34.78,2023-06-13 06:13:33,India,,www.amazon.com,,N,Invalid CVV
+,,Ana Stone,a57253b9-2931-459a-a58b-00a67ce7378b,Laptop,Electronics,Card,0,-2.13,InvalidDate,Canada,Benjaminborough,www.ebay.com,974c4b6a-c22a-4fa7-8285-b688ea000a46,Y,
+,,Mary Martinez,b04be475-3f7e-40d5-80d0-851fa8ab60de,Camera,Electronics,UPI,-5,324.62,2021-09-07 13:19:37,Germany,,www.amazon.com,e08d8d2a-e08a-4c36-9773-666a643b824a,N,Card expired
+,,,InvalidID,Tablet,Electronics,Card,0,842.14,InvalidDate,UK,East Rachelburgh,www.ebay.com,55b4a842-f85f-46f3-ba0e-8f89e939a258,Y,
+,4db1af14-a975-4d42-8a7f-1de022c74b1e,,InvalidID,Microwave,Home & Kitchen,Card,-1,22.66,2021-11-11 04:14:10,Canada,,www.walmart.com,,Y,
+c3d72ba3-17e2-45e7-8577-4c618d77fbfe,,,InvalidID,Yoga Mat,Sports,UPI,6,558.5,2020-05-13 22:45:01,Germany,Michaelstad,www.amazon.com,5af521e7-b3ce-435b-8604-a2d9aeb83680,Y,
+,76041df2-a183-4af0-b9b2-f6db3c73271d,Charlotte Torres,2739d2e4-46ab-4269-b5d5-786e2a0f5fb7,Badminton Racket,Sports,Card,9,158.47,InvalidDate,India,Hansenville,www.amazon.com,3ad518da-6084-4adf-a0b4-02bc8d8f9791,Y,
+b3a685c2-f036-4a2e-a53c-ee9f880a6293,,,InvalidID,Sharpener,Stationery,UPI,4,167.41,2023-05-03 07:05:40,USA,,www.shopify.com,,Y,
+b86bbd08-a533-40d0-b82c-d4b26565757b,,Deborah Villegas,InvalidID,Toaster,Home & Kitchen,Internet Banking,9,877.75,InvalidDate,India,Freemanfurt,www.ebay.com,,Y,
+93ebd04c-a54e-4d80-88d8-ee108ee88de0,,Tiffany Cardenas,6e33c407-c7b3-455e-a9a0-a291693be463,Socks,Clothing,Card,9,374.88,2020-06-12 06:39:20,UK,,www.flipkart.com,,Y,
+,,Cynthia Massey,8369d4b5-7d29-47af-8371-5dbb610b4f8c,Blender,Home & Kitchen,Wallet,2,585.44,2020-05-02 13:19:12,Germany,Walshport,www.walmart.com,00bf0b7b-3d24-4ea5-b560-9d93166d3c79,Y,
+d1213ef2-a8b0-429f-957d-09cdcd4443c6,6daa1814-acee-471b-a339-bf2553976cc7,John Park,7e02d8e5-688a-4f3a-9ddc-f37b7b4a97c0,Tennis Racket,Sports,Internet Banking,-1,844.65,InvalidDate,Germany,Lake Haleyburgh,www.flipkart.com,,Y,
+b5567d9c-3043-4c63-b779-b74aa1d2310e,69961797-0395-4d87-95c5-00a02b4fa541,,InvalidID,Pen,Stationery,Wallet,4,196.71,InvalidDate,India,Taylorview,www.shopify.com,65a5ff00-bb72-4289-b02d-8494ec19db39,N,Card expired
+,,,InvalidID,T-Shirt,Clothing,Wallet,4,-63.77,InvalidDate,UK,Bettymouth,www.flipkart.com,,N,Insufficient funds
+e7ba82eb-80c9-440d-885e-e5bb0d0c10ea,,Sarah Foster,InvalidID,Pencil,Stationery,Wallet,3,961.28,2022-11-06 00:33:32,Germany,West Donna,www.amazon.com,,N,Card expired
+,1c95ca68-36c9-4fb3-b3b6-d4364f66ca30,Amy George,f3737aba-7997-47a1-a11e-f54c09935657,Book,Stationery,UPI,8,276.46,InvalidDate,India,,www.flipkart.com,,N,Invalid CVV
+,,,5d7662fc-218a-47ee-ab34-220001de30ba,Cricket Bat,Sports,Card,-5,981.18,2020-01-11 00:12:14,Canada,Jonesmouth,www.walmart.com,,N,Invalid CVV
+,,Samantha Santiago,4a3e8737-10b4-474f-9b77-28a1db63021f,Shoes,Clothing,Card,-1,883.69,2020-10-08 04:59:06,India,,www.flipkart.com,0f7571a1-2307-48b6-8d5a-47e631fe0fd2,Y,
+,6df35d3c-e207-47bf-bee4-92cea3a95c6d,,InvalidID,Cricket Bat,Sports,Card,0,98.15,2022-12-24 13:37:42,USA,,www.walmart.com,03ae9088-0288-475a-b28e-5b722191b1e0,Y,
+7e37612a-7c10-4fb0-b24d-e4fb84f66ae4,,Dustin Hanson,6633433d-1e28-40f1-b822-f81f076b2895,Smartwatch,Electronics,Internet Banking,9,347.14,2021-03-20 14:12:14,Germany,West Rose,www.ebay.com,a8c80f60-d3f5-4142-b695-f7e6184f3a79,Y,
+4ab79470-d88f-4bb0-a7ff-89a960a1b6d1,,Christina Smith,6ac1f61b-ba2c-4635-937d-73e74be3a172,Toaster,Home & Kitchen,Internet Banking,8,796.9,InvalidDate,UK,South Marcusville,www.walmart.com,559154bc-8ce5-4e5d-a5a4-787ad112b27e,N,Payment gateway error
+089dd5f3-63b3-4dc8-9ced-9217b3d7da4b,ca34a6dc-3fdc-496c-a5e5-99439da45edf,,11340060-e4c1-4384-813f-a9d6f41af839,Smartwatch,Electronics,Card,1,87.01,2024-06-03 22:46:49,UK,,www.shopify.com,4ae733ca-7968-4715-ac50-a7dab732825b,N,Insufficient funds
+,,Kelly Waller,f95c69e9-4a87-497c-bb88-b4f92d1151c6,Headphones,Electronics,Internet Banking,3,913.79,InvalidDate,Canada,,www.amazon.com,,N,Payment gateway error
+,4b5c38fd-7741-4471-9c4a-806e01b01c70,Deborah Neal,InvalidID,Football,Sports,UPI,0,645.87,InvalidDate,India,,www.shopify.com,c865f6a3-ff14-462c-b9d4-0cc4fed5a8f7,N,
+61c1a15a-554a-4c4f-ad02-208cc19a8161,,,5c086433-6f5c-4bc6-8d99-c258c46a4147,Blender,Home & Kitchen,Internet Banking,2,62.01,2023-04-10 21:09:35,Germany,New Ericfurt,www.amazon.com,7d1b93c5-94b3-405f-ade2-1e4c6e19cadb,Y,
+,9f2132c3-785b-44dd-8242-46198ca64466,Joseph Higgins,InvalidID,Football,Sports,Wallet,0,184.19,2024-08-26 15:09:50,UK,,www.ebay.com,,Y,
+,,,InvalidID,Laptop,Electronics,Wallet,1,233.59,InvalidDate,Canada,Craneburgh,www.shopify.com,,N,Card expired
+,,David Berry DDS,b4640cfe-19df-4a5d-9d6e-e00fb12fd700,Badminton Racket,Sports,UPI,-2,957.6,InvalidDate,India,,www.walmart.com,,N,
+,,,4268b6fe-8c19-4abe-ba12-53f2c7447cfe,Shoes,Clothing,UPI,8,189.68,2021-07-04 14:03:24,Canada,,www.walmart.com,,Y,
+c06cdffc-6a2d-45e4-9bab-462bbc7d29bb,,,f3835441-b0ba-4edb-a6f7-b0077ba48ad0,Air Fryer,Home & Kitchen,Wallet,9,676.33,InvalidDate,USA,Port Darrentown,www.flipkart.com,8529c4b1-343c-4ee8-94e5-d84e834bc5fb,Y,
+3da832cd-5a86-40c5-9dc1-ed8e3e4de2c1,,Jeffrey Oneal,InvalidID,Badminton Racket,Sports,Wallet,-3,652.93,InvalidDate,Germany,Collinstown,www.flipkart.com,b5db4a36-50ec-4a65-92bb-26bd63f6ffc8,Y,
+,84f9e4f9-d773-4d59-a036-d5b48d1ac2d5,Daniel Mullins,c0ebbabc-003b-45e3-8098-b1d7d3002f3f,Basketball,Sports,Wallet,-4,255.66,InvalidDate,Germany,Ashleyport,www.walmart.com,80c9b3ff-eb92-4d06-9e67-30e34ae87248,Y,
+c16731c4-137a-47cf-a02d-3d70af9c1dab,,Benjamin Hernandez,29db0b2a-dd0d-469b-a857-9974c14dd934,Socks,Clothing,Internet Banking,1,943.61,InvalidDate,India,,www.shopify.com,,Y,
+,,,InvalidID,Badminton Racket,Sports,Card,2,519.41,InvalidDate,UK,South Tony,www.ebay.com,,Y,
+2a19b155-f59e-4db4-99d6-7c443ba9a955,,,InvalidID,Basketball,Sports,UPI,10,-72.44,InvalidDate,USA,,www.walmart.com,,N,Payment gateway error
+,82bd8bc7-9f01-427d-81fc-edcf1e2b3b1c,,InvalidID,Eraser,Stationery,Internet Banking,-3,924.17,2022-05-09 02:19:58,Germany,Lake Gregoryside,www.amazon.com,dcc312bc-e5b3-4e82-bb71-bd496e9649b8,N,Invalid CVV
+,,Larry Weiss,InvalidID,Shoes,Clothing,UPI,3,-65.55,2024-02-21 20:44:36,USA,,www.ebay.com,,N,Insufficient funds
+,d518048e-3188-45a0-9ae8-9f0efd84b6c2,,InvalidID,Tennis Racket,Sports,UPI,8,280.58,2023-04-17 14:24:08,Germany,Johnsonshire,www.shopify.com,06cc0480-36b7-4300-b171-c09fddd8600f,N,Payment gateway error
+62d4038e-e5a9-469e-93cf-2cf6ff6ee059,7d66cfe0-9cca-4ec9-84af-5bacb3bd2d54,Tina Peters,InvalidID,Eraser,Stationery,Wallet,-1,565.95,InvalidDate,UK,Cookstad,www.walmart.com,,Y,
+67bf05cb-3406-42be-aef9-e8deef7894df,,,InvalidID,Tennis Racket,Sports,Internet Banking,-4,584.29,2023-02-17 06:28:30,India,Perrymouth,www.walmart.com,955cc841-f028-4853-864b-daa1c1a3fb87,Y,
+f33f2f60-bb00-43b4-bd52-fd29d7c414a3,,,e982d35b-897b-4299-879a-9527fceb7cbc,Football,Sports,UPI,7,345.92,2022-06-15 12:20:22,USA,North Steven,www.ebay.com,,N,Card expired
+,,Joshua Henderson,InvalidID,Ruler,Stationery,Wallet,0,214.11,InvalidDate,India,New Johnny,www.flipkart.com,292aa735-982c-48e2-b621-f2945d0d89ad,N,Insufficient funds
+,210c9c64-9949-4022-9f26-e9c14b628e6f,,InvalidID,Tennis Racket,Sports,Card,-3,606.77,2021-07-19 06:07:04,Germany,,www.walmart.com,fd13094f-6b09-4225-97d2-6c5489a86d3a,N,Invalid CVV
+3817d5ec-6a11-4557-aba9-5423ffe566d7,1b90a17b-d2df-4f72-9719-d03a569638df,,InvalidID,Yoga Mat,Sports,Wallet,6,570.54,2020-06-26 21:59:44,USA,,www.walmart.com,d9b625cd-d4c4-4a00-bd72-b0029b2620b3,N,Payment gateway error
+,,Samuel Erickson,InvalidID,T-Shirt,Clothing,Wallet,10,852.87,InvalidDate,Germany,,www.ebay.com,9c896586-ada4-40c9-96a9-76982982d72d,Y,
+,9b607567-6efd-44a0-b1e1-9715e0b23eab,,bbe7b516-6056-4456-9ea2-24db468fd1c5,Tablet,Electronics,Wallet,-1,872.55,2023-01-31 00:26:20,Germany,South Madelineside,www.shopify.com,0d8c90ef-9dbe-460c-a112-30269b1514df,Y,
+,,Kyle Roberts,InvalidID,Camera,Electronics,UPI,8,540.48,InvalidDate,USA,South Michael,www.flipkart.com,,N,Payment gateway error
+,,James Le,InvalidID,Shoes,Clothing,Internet Banking,9,47.68,2022-03-07 02:01:23,India,,www.shopify.com,,N,Payment gateway error
+39c72cfe-95c0-48b0-80d2-f6b6806a35b9,28a29f46-b023-4d2e-bfee-7ccb103e3db7,Andrea Bauer,0b722488-390f-4aa7-a339-835b8bfafb9c,Pencil,Stationery,Card,-3,-96.49,2022-06-20 09:18:14,USA,Johnville,www.shopify.com,a788c5b8-1932-4e4d-a453-4d434ac62dce,Y,
+309a83ae-d159-48af-896a-b9b34803b14d,,,316eb8ea-cf7f-4937-8b7e-5933bc5fd2e4,Socks,Clothing,UPI,-4,748.04,InvalidDate,Canada,Wilsonbury,www.flipkart.com,c09f6877-db7c-4361-b443-ccfdb400f7a4,N,Insufficient funds
+15f0c269-6fe7-4406-bfd8-18b19f275deb,,,7b5e3af2-42e4-40b6-ad5d-224afa3e6e8b,Pencil,Stationery,UPI,2,520.19,2024-07-09 11:19:54,Canada,,www.flipkart.com,4dbb0651-9a93-4166-b169-af013f543ec4,Y,
+3d841ed1-b72b-44e0-8ee4-a8d3033f80e9,,,InvalidID,Smartphone,Electronics,UPI,10,870.53,InvalidDate,Germany,,www.flipkart.com,,Y,
+adc49b52-c9fb-4029-8267-ac97546ec11d,,Corey Dyer,7c12c728-75bc-4e97-b41e-8f34ecee5a29,Tennis Racket,Sports,Wallet,10,39.11,InvalidDate,USA,,www.amazon.com,,N,
+a7d04d5b-3578-4a7f-9e42-aed643922b8c,42f83b38-72f8-4844-8559-51ac5aa9e3a7,Katrina Hunt,889419d7-6c04-49a9-9821-b93c49932f49,Coffee Maker,Home & Kitchen,Wallet,9,705.45,InvalidDate,UK,Lake Angelicaside,www.amazon.com,b120f249-f3d2-4bc1-8a57-6b06de017ad5,N,Insufficient funds
+e4b5743b-6125-4a85-b38b-707c3f004163,,William Thompson,1678cafc-b48f-47e5-8226-66accb40f4dd,Badminton Racket,Sports,Wallet,-2,838.37,2023-10-10 07:37:22,USA,,www.walmart.com,0bb4df21-ab2e-42fd-837b-3177f9014d7e,N,
+5d60df4d-5a0f-42e7-bfb1-44fe46524516,ec6e2b55-fce6-444d-87d6-0ee5113191e7,John White,InvalidID,Toaster,Home & Kitchen,UPI,1,458.79,InvalidDate,Germany,,www.ebay.com,74fbda7d-fd3b-45bc-854b-9e5d446305c5,Y,
+,1d1c185b-6069-4580-9ad1-55ede5ff9dd3,,58e984dc-4e02-496b-9d4a-76b122c72792,Pen,Stationery,UPI,-4,525.87,InvalidDate,India,South Patricia,www.walmart.com,4f884f6a-9f58-4572-834a-2decf34cad6e,N,
+,,Morgan Young,7a868412-8890-4553-b26c-e0b216a53d09,Smartwatch,Electronics,Card,-1,271.13,InvalidDate,Canada,Meredithchester,www.shopify.com,776c613e-bc91-466a-af9f-f814b36e2b84,Y,
+2721f0ae-7124-4c79-b515-c0313383a87d,2549ea2d-1b80-4d6f-93c1-45928c64282d,Peter Alexander,InvalidID,Shoes,Clothing,UPI,-3,660.18,2022-06-18 01:53:10,India,,www.ebay.com,,N,Insufficient funds
+fce94c96-9e25-420d-9e3f-8909c760e702,,Juan Johnson,InvalidID,Pencil,Stationery,UPI,0,250.52,2022-03-25 07:38:39,Canada,Hudsonview,www.ebay.com,e8e5af78-db80-4513-930d-fb45781673bb,Y,
+ac7de4eb-8aac-4d95-a5cc-b39f48f805fc,6fbe6433-9989-45e9-a13e-3237c474b5c0,,9296e99e-e84b-47c3-9a17-0685e6a0e64d,Laptop,Electronics,Card,10,-3.64,2021-10-11 12:55:58,Canada,,www.flipkart.com,083d06b9-d009-4223-8e61-54eb51ae8880,N,Payment gateway error
+29e011d5-3c0c-42ca-8bb9-cc485ff8ce6f,3bb18ffd-84ef-4877-935d-342c6524d966,Laurie Haynes,InvalidID,Blender,Home & Kitchen,UPI,0,517.12,InvalidDate,Canada,,www.flipkart.com,,Y,
+e4e32b71-76cc-46de-a32c-40c302d9727c,,Hannah Meyer,bedbebff-54cb-4069-ba77-1ee28b61a81a,Book,Stationery,UPI,9,366.6,2023-08-07 20:20:01,UK,,www.shopify.com,967ff773-9132-4622-8fc5-86b523df3024,N,Card expired
+e7a47ea0-c6db-4fb8-8a1d-8793b92ea311,6409ca72-dcd8-46b8-bd0a-b71c04cc4771,,faa1094f-f3e0-4ebe-8dcd-0dec91767774,Basketball,Sports,Wallet,-3,849.91,2021-11-13 07:05:41,Canada,Clementschester,www.amazon.com,,Y,
+,c8ccfc0f-42fd-483f-93a9-ade3dbb4183d,Jay Young,InvalidID,Blender,Home & Kitchen,Wallet,6,764.37,InvalidDate,Canada,,www.flipkart.com,89be457e-af5e-4f27-b5a7-7707538c7a87,Y,
+,c0214164-e433-46cb-8852-ca48eb904c29,,InvalidID,Badminton Racket,Sports,Card,-3,769.82,InvalidDate,Canada,,www.amazon.com,cec3c889-c287-46e5-8046-c9acfcb020c2,Y,
+7c938ecf-5173-4cf9-850e-28bf7c4d5fa8,,,16debf66-6748-4f3a-ba7a-fe71bfece386,Camera,Electronics,Card,8,129.51,2021-11-29 13:43:37,Canada,New Kristen,www.ebay.com,,Y,
+21de900d-4f2e-483b-ba2a-7ddf4dfac290,,Richard Davis,InvalidID,Pencil,Stationery,UPI,3,981.53,InvalidDate,USA,Port Mitchellland,www.walmart.com,,Y,
+7010431d-180a-45e7-8e3a-f4555d763ae7,32a6876c-5061-4395-9471-7f43ad3ff671,,InvalidID,Tablet,Electronics,UPI,0,-97.78,2020-01-10 08:20:02,Germany,Rogersview,www.ebay.com,d3979d87-6f4f-4466-9aa4-42c6410272b1,N,Invalid CVV
+90a040c2-863f-4c3a-a7e4-a6ccd2ccff1b,e1a21f58-7a76-4030-bd90-64e918cf0d23,,InvalidID,Air Fryer,Home & Kitchen,Wallet,-2,656.42,InvalidDate,Germany,,www.amazon.com,93293ca2-75d7-4ede-8b9b-d1d3a05951df,Y,
+b46ae3e7-0ced-4a88-952a-29815f0d6c7d,ed220346-f0e8-49c1-8d00-408d6e4a5fba,Deborah Robles,InvalidID,Notebook,Stationery,Wallet,1,262.74,2020-06-18 10:23:14,UK,Saundersview,www.amazon.com,36d22357-a9fb-4e0e-926f-bf3e7d8b38b5,Y,
+,,,InvalidID,Sharpener,Stationery,Internet Banking,-3,-9.32,InvalidDate,India,East Williamshire,www.flipkart.com,,Y,
+af1a6b75-8b35-4ae7-a9f6-4d6b8b20beaf,,,2d92ca46-18da-4ad8-8c39-55075e646f3d,Tennis Racket,Sports,Internet Banking,7,325.99,2020-12-12 15:58:35,Germany,,www.walmart.com,,Y,
+,4a55fb9f-e88e-4cda-8aab-01738d41f642,,InvalidID,Headphones,Electronics,Card,-4,469.11,2020-11-08 11:49:53,Germany,Bradleyfurt,www.amazon.com,f925ebb9-2bff-4d12-addd-bb59ef02e7eb,Y,
+,bdbcbde4-ce7b-4311-b057-40835c50555b,,InvalidID,Toaster,Home & Kitchen,UPI,8,365.92,2023-08-25 02:12:49,UK,,www.shopify.com,,Y,
+0c776009-6518-4f65-9985-ea2f3a417c4a,b2c2bd2a-fc8c-4be5-aff0-e306bc565432,Raymond Clark,1bf6726f-92f1-4616-b8a9-183086ca4dd2,Book,Stationery,UPI,5,919.33,2021-06-11 02:17:14,Germany,,www.ebay.com,,Y,
+,e3c68d6c-00d7-4708-bc49-baafcfb71869,Jamie Evans,de148817-67d5-42d4-9b07-b53b8ac72a1f,Smartwatch,Electronics,Internet Banking,7,98.63,InvalidDate,Canada,,www.shopify.com,100afe6d-e1b9-4cd1-8e28-3e3b3581c4eb,Y,
+45c8be96-0d42-4c5c-93d0-806fb0c687a3,e7c67265-34c2-45ff-9f23-6edb3c595ec3,,InvalidID,Camera,Electronics,UPI,0,591.8,InvalidDate,UK,,www.walmart.com,5419231d-479c-4203-ade5-93d5fcc4e371,N,Insufficient funds
+e0375722-e3fd-4ceb-9174-a4f20265ebf2,c8cc6561-a24d-4426-bf6d-86ea0627426c,Shelby Johnson,InvalidID,Shoes,Clothing,Internet Banking,7,-4.25,2021-09-07 14:32:08,Germany,,www.amazon.com,,N,Card expired
+31dac3c0-b52f-41e5-80d9-1f0bf6fcc900,,,InvalidID,Dishwasher,Home & Kitchen,UPI,-3,485.21,2021-08-21 17:59:02,Germany,West Cindymouth,www.walmart.com,8d3e7994-4cda-4d69-b06f-7632ddea089b,N,Insufficient funds
+,ef692de0-0fdb-49bb-a04c-4b181d3f5606,Jeffrey Robles,InvalidID,Headphones,Electronics,Internet Banking,2,425.4,2022-07-03 09:02:50,UK,East Anthonymouth,www.shopify.com,0c55078c-3eb1-45f9-8044-c11713eb32ba,Y,
+,,,9d722508-f09d-4c75-a166-8e1007ee8666,Tennis Racket,Sports,Wallet,-5,98.35,InvalidDate,Germany,,www.walmart.com,98e095a5-40db-4d9c-b4e8-e5c04fffaabd,Y,
+7695a428-019a-44f4-bc2f-2812af650efb,,,f310503b-1fd9-489b-beaf-117297bc96ea,Jeans,Clothing,Card,-4,179.31,2024-04-15 15:22:20,India,,www.shopify.com,c148f2ff-3184-4b54-946d-c07f39404890,Y,
+,f4127544-57d9-4455-97c7-f782c1dc8958,,InvalidID,Basketball,Sports,Wallet,6,232.72,2021-04-23 13:08:59,UK,,www.walmart.com,00253a70-ee8f-4e49-8df6-000405686e57,Y,
+bef0a656-d136-4c7d-9b26-12c059b9e43e,2467afb6-7660-45c4-92ef-94bd7a3eb305,Mario Shepard,InvalidID,Smartwatch,Electronics,UPI,0,66.12,InvalidDate,UK,Lake Janeborough,www.amazon.com,080ab0a0-f67e-4af9-9074-49d01461e8e6,N,Invalid CVV
+6aab83fa-e83e-4831-baa4-448c81aa9cc5,,Maureen Johnson,InvalidID,Sharpener,Stationery,Internet Banking,-3,617.72,InvalidDate,Canada,,www.shopify.com,,N,Payment gateway error
+,,,InvalidID,Laptop,Electronics,Wallet,2,538.46,InvalidDate,USA,,www.ebay.com,,N,Card expired
+,12395084-87d6-4876-a9e6-c6f540b19f95,,002c189e-1007-4044-99d7-b1552bc8f5cd,Yoga Mat,Sports,Internet Banking,7,585.6,InvalidDate,USA,,www.flipkart.com,391a0779-feca-4937-8017-c656e2a33196,N,Insufficient funds
+b2e4cd81-000d-4699-86ec-8f55c38cfeb9,,Laurie Howell,ff4974e7-4c89-42e2-a78e-49179b771097,Camera,Electronics,Internet Banking,2,-20.71,2023-01-14 12:40:17,Germany,Stephensonstad,www.walmart.com,aab6c133-b713-4dea-89d4-8d80f53393b7,N,Card expired
+,dc40bd82-2d44-484b-b900-bc75788174db,John Knight,InvalidID,Badminton Racket,Sports,Internet Banking,6,156.22,InvalidDate,India,Courtneytown,www.amazon.com,,Y,
+,,,38595394-484a-4b17-be99-ed54c2667aa5,Sharpener,Stationery,UPI,4,762.38,InvalidDate,UK,South Tracy,www.flipkart.com,e12d8a05-5d99-4261-bf34-806603ee27e4,N,Payment gateway error
+,,Tiffany Medina,InvalidID,Pencil,Stationery,Wallet,3,517.38,InvalidDate,UK,,www.shopify.com,,Y,
+65112e24-27b8-45e0-bd48-ca79734fcf46,,,InvalidID,Tennis Racket,Sports,Wallet,-1,448.23,2021-09-02 18:00:32,UK,,www.shopify.com,a0acbe73-17c2-4bcf-815d-5828b69d3271,Y,
+9f9d90cc-7732-417d-9bef-ebac658d6ffa,d96fc908-779d-49c9-bdaa-346871364762,,InvalidID,Dishwasher,Home & Kitchen,Card,3,520.78,InvalidDate,India,Amandatown,www.shopify.com,9be52ca7-e5a5-43db-ad5b-c72ab30cfe2d,Y,
+,f337522a-4965-4e6f-af9c-fa806db2d7b2,Michael Stevens,InvalidID,Air Fryer,Home & Kitchen,Wallet,-4,146.14,InvalidDate,India,Lake Paigefort,www.flipkart.com,b7c1d88f-e60b-49cc-a27f-516a93b71183,N,Payment gateway error
+a02b548a-c6ea-4528-b614-a5f8fb899fe4,a4dfd873-50e6-4c56-937b-6c748944910f,Tina Coleman,InvalidID,Ruler,Stationery,UPI,-2,603.85,2020-08-16 07:34:46,Germany,,www.amazon.com,347968a6-fc67-4f00-925f-9070bbe224c6,N,Invalid CVV
+b52e1e50-9f3e-4a5a-b0cf-e5bd0633e626,04a49d94-aa52-4f8d-ba29-c1bcd55e4d96,,InvalidID,T-Shirt,Clothing,UPI,-5,851.46,InvalidDate,USA,,www.ebay.com,9fda345a-0c85-4929-86e8-6d9dd664478b,N,Card expired
+94409a46-ef02-4865-b988-52a91cc890ca,,Daniel Simpson,InvalidID,Sharpener,Stationery,UPI,10,188.56,2022-10-17 22:38:55,UK,,www.flipkart.com,,Y,
+4854152a-63c5-4537-b080-7ff212fbc161,,,InvalidID,Dishwasher,Home & Kitchen,Internet Banking,8,543.18,InvalidDate,USA,,www.amazon.com,,N,
+,699dc0a9-a321-4a8f-871e-8943d0fe5684,Melinda Ellis,5fa2c493-353d-4e4e-bece-b5b86508c5d2,Blender,Home & Kitchen,Wallet,4,788.55,InvalidDate,Canada,Turnerbury,www.walmart.com,ae1ca3a1-bf69-43c4-841c-fa7efcbc61cb,Y,
+11d0e972-a2b7-43f4-965f-c71ad652dba1,e8f45815-f756-48b9-9a6a-655931d85464,James Arnold,c209a10b-2a22-4d30-8075-be5a6e312dc7,Coffee Maker,Home & Kitchen,Card,-3,250.14,InvalidDate,Germany,,www.amazon.com,,Y,
+c1eb484f-6796-4ed1-8522-49f84635eff0,5a42f56f-124e-4462-8af7-b225a7caab6e,Richard Robles,InvalidID,Eraser,Stationery,Wallet,2,602.98,2022-09-06 05:49:43,Germany,,www.flipkart.com,,N,Invalid CVV
+,,Emily Brandt,c67bfabf-3b29-4acd-a4b9-92b9d8494897,Jeans,Clothing,Card,1,692.92,2021-12-10 18:10:12,Canada,,www.ebay.com,,Y,
+,7fe0e4ae-4d34-44ce-90f0-5e013f6e6d1f,Claudia Cherry,InvalidID,Notebook,Stationery,Wallet,8,873.33,2024-09-03 16:37:47,India,Sheltonborough,www.ebay.com,,Y,
+252e2f01-8d28-4cfc-8e17-5579acd46d32,,,853b76cc-22c5-44a3-b091-f6e15ef2cef6,Basketball,Sports,UPI,-2,-32.88,2023-07-22 23:12:21,Canada,,www.shopify.com,bdd712e1-a6ef-4528-8834-76b6cbfe7125,Y,
+,,,fbeb0620-af66-4c51-8015-50235f71b67b,Pen,Stationery,Wallet,1,998.75,2020-08-16 12:20:32,Canada,,www.shopify.com,,N,Invalid CVV
+,4c45c6a7-8d73-4601-8a81-c9e2a9fa187f,,InvalidID,Shoes,Clothing,UPI,3,35.82,InvalidDate,USA,Vanessaborough,www.walmart.com,36a021e2-8b90-4b09-bacb-27a24cd36137,Y,
+,,Lori Olsen,InvalidID,Toaster,Home & Kitchen,Wallet,8,-98.77,InvalidDate,UK,West Charles,www.shopify.com,44e9072a-249b-4d04-94a9-527b999b8be7,Y,
+,b53fc7ce-2426-4b67-9a43-baa0c694eb76,,InvalidID,Blender,Home & Kitchen,Card,0,491.53,InvalidDate,Canada,North Kimfurt,www.flipkart.com,,Y,
+e0f8947f-75ac-40f4-ad1e-ec36e241cc88,,Brooke Mitchell,eb42f45a-4aad-4785-adf6-607eb887251c,Microwave,Home & Kitchen,Wallet,1,911.61,InvalidDate,UK,,www.walmart.com,,N,Payment gateway error
+a6b4e8e2-24ba-4c7a-8590-d8fe138e264c,602cdde7-0bce-4e7b-a420-856292b7500a,Emily Gomez,InvalidID,Camera,Electronics,Internet Banking,2,218.51,2023-07-30 16:28:05,Canada,,www.walmart.com,,N,
+,,Robert Simmons,567bbd6e-cea7-41fb-af8a-0c47533a4787,Coffee Maker,Home & Kitchen,Card,1,667.05,InvalidDate,USA,,www.shopify.com,19f1d5e8-0c62-4786-aa26-4ea38ad441db,N,Invalid CVV
+f920b95a-98e8-4599-abf7-7ae521858412,,Suzanne Bowman,caf47cbb-7503-40e1-bed2-82088a968da9,Laptop,Electronics,Wallet,5,217.68,InvalidDate,USA,East Stephanie,www.ebay.com,46c82f0c-a0f9-4f43-bc21-6ac0c66cb39d,Y,
+,26fe993c-8e31-4e06-ac2c-a1a0a236ec5b,Carlos Johnson,f0188a24-f79b-48c2-96fb-79b9cec6d41c,Dishwasher,Home & Kitchen,Wallet,3,642.57,InvalidDate,Canada,Port Sandra,www.walmart.com,,N,Payment gateway error
+,,Gregory Robinson,InvalidID,Headphones,Electronics,UPI,9,586.3,2021-06-09 17:04:19,Canada,Katherineburgh,www.shopify.com,,N,Insufficient funds
+,,Miss Michelle Ramirez,0c7da140-4c46-4869-97ab-de0071815474,Microwave,Home & Kitchen,Wallet,6,484.81,2021-05-29 05:23:01,Germany,,www.shopify.com,,N,Payment gateway error
+0726ffdd-b80d-41ea-8dad-000f3382f70d,,Billy Stewart,InvalidID,Football,Sports,Card,0,733.95,2021-04-22 19:42:21,USA,North Jonathanton,www.walmart.com,,Y,
+,,Nathan Knox,7769dc60-c061-4905-abb9-84bcf1b812d9,Microwave,Home & Kitchen,Internet Banking,6,512.71,2024-09-09 14:20:15,Germany,,www.shopify.com,,Y,
+,,,3f34e1db-3acb-4ceb-878c-b5a022ebb345,Blender,Home & Kitchen,Wallet,3,46.63,InvalidDate,USA,,www.ebay.com,,Y,
+e3a2a22f-5f27-441d-98db-0f34681ac517,,,1abe561a-362e-41cc-b4e7-b306d313c69e,Coffee Maker,Home & Kitchen,Wallet,-1,79.62,2020-09-28 18:40:07,Germany,,www.ebay.com,,N,Insufficient funds
+a3f279a1-5d4e-4fb9-a00e-ae05d7c7b255,433befe2-a607-4db2-8355-a00198191797,Brian Miller,122988a4-fa29-4ecc-a9e4-aa363035b28c,Dishwasher,Home & Kitchen,Card,8,448.82,2024-04-29 15:26:31,Germany,New Daniellemouth,www.ebay.com,,Y,
+e5425df4-3fae-4211-90d3-9e2ac3a152cd,1a71c264-47be-4874-a618-6e961c9fde0f,,InvalidID,Smartphone,Electronics,Wallet,-1,498.25,InvalidDate,USA,Lake Chloe,www.walmart.com,,N,Invalid CVV
+,9aba50a1-2039-4648-b1ce-07c3b8dee10a,,0501454b-9589-4631-a4e5-57bf7b2b0006,Football,Sports,UPI,5,574.65,2022-02-09 08:25:53,Canada,Port Stephanie,www.amazon.com,6506c21b-ae8b-4503-9906-fb8b4ad2d352,N,Insufficient funds
+136d5c1d-9884-46d6-b8b9-d3b25dc8fac6,fc49cfa8-2d92-467b-9af2-a52a486909a7,Brandy Carter,25d9f9e4-23ed-4bf5-a2df-4550ebb5b531,Blender,Home & Kitchen,Card,7,-51.54,2021-12-30 02:27:38,UK,,www.amazon.com,82dbc349-919c-4210-8273-9c73982def35,Y,
+,f7251329-3361-45bc-8a1c-37eda9f939e3,Andrew Washington,InvalidID,Football,Sports,Wallet,-1,489.91,2020-05-06 02:19:57,India,Rogersside,www.shopify.com,f260f6b3-ada8-44f4-af2e-39715b52d8d6,N,Payment gateway error
+707c6916-abad-48a7-a0a0-b2d29e7ad744,cbd162ef-cfd3-4095-b72a-b889eff725cb,Lisa Lowe,a50cb4cf-ebd1-4394-b990-ac00e5f1f839,Coffee Maker,Home & Kitchen,Wallet,-4,574.2,2023-06-02 21:56:15,UK,Christopherbury,www.flipkart.com,,Y,
+d90a4a56-10eb-42b0-a16f-b11984d75e41,014c801a-767e-4acb-b4c8-17f010734e18,,InvalidID,Tablet,Electronics,UPI,6,287.08,2024-01-09 19:41:46,UK,,www.shopify.com,472f9941-1073-4021-a21e-f63281df4bb1,Y,
+,8ea20878-0ebb-4fb5-9fe0-19b2458b637f,Nicholas Smith,2a11f4d4-f532-41d9-82bd-3f785cb5d426,Cricket Bat,Sports,Card,2,238.59,2022-06-30 00:46:00,India,Jessicaview,www.walmart.com,,Y,
+,,Jennifer Khan,InvalidID,Tennis Racket,Sports,Card,-2,216.79,2020-06-02 12:53:39,Canada,Bakerton,www.walmart.com,cc6acf4a-b8a6-41df-80b3-0b67f2478997,N,
+c5bb98dc-9004-4b8e-aa38-1afa200205f7,edf4db63-5937-4d37-b7d8-83e104c3481e,Stephanie Russell,7249bde0-90c1-4460-b5e5-d2b4d5fd8808,Dishwasher,Home & Kitchen,Internet Banking,2,701.14,2024-01-22 16:34:57,UK,,www.ebay.com,40722336-3386-478b-b55b-103c7119fa74,N,Payment gateway error
+,,Sara Cooper,InvalidID,Tablet,Electronics,Wallet,-3,916.48,2024-01-28 06:33:05,UK,,www.amazon.com,,Y,
+,f0bb0d6a-a479-48b6-9db3-346b9ae32f0f,Alex Harvey,465caa6a-03ae-4ca4-86d1-a55408cdf206,Toaster,Home & Kitchen,Internet Banking,8,819.54,InvalidDate,Germany,,www.amazon.com,1eb34e9e-ee86-4b14-af4c-ccdc556b4d3d,Y,
+,,Matthew Spears,InvalidID,Basketball,Sports,Wallet,5,195.68,2022-12-25 20:47:28,Germany,Lake Amy,www.shopify.com,,Y,
+,,,a8a13d3f-fe63-49f5-8cc7-32bc0b7318cf,T-Shirt,Clothing,Internet Banking,-5,493.35,InvalidDate,Germany,,www.flipkart.com,,N,Payment gateway error
+,f48c52c6-e1bd-4adb-bb6a-687d8d08c970,,InvalidID,Laptop,Electronics,UPI,-5,605.54,InvalidDate,USA,,www.walmart.com,,N,Invalid CVV
+,,,InvalidID,Coffee Maker,Home & Kitchen,UPI,8,544.88,2023-11-06 15:07:13,USA,,www.ebay.com,bbfb3b93-fb28-4279-91bd-65b2d38e6dde,Y,
+,b1c770e7-8319-4a43-bd15-3fa10c8a2a38,Duane Beck,InvalidID,Blender,Home & Kitchen,Wallet,7,234.91,2022-12-16 23:47:46,UK,Timothyton,www.shopify.com,,Y,
+e6977489-31c7-4e86-b5b9-2ce8da1b4a07,bd074fa9-c0d1-43cb-abe3-d81634c3a5d0,,InvalidID,Dishwasher,Home & Kitchen,Internet Banking,-1,124.85,2024-02-27 13:19:48,India,East Shanechester,www.ebay.com,af14041f-15c5-496d-b786-10c3f20098a8,N,
+abad574a-af50-4799-8db1-10b335c7bdf0,95dd3353-5fad-4103-9876-e0d622d3b59b,,47cfb2c8-132a-4f5a-b8b1-3a5cc7c45d59,Smartphone,Electronics,Internet Banking,5,12.44,2023-10-11 13:16:07,UK,Westburgh,www.walmart.com,,Y,
+,,Jack Howard,InvalidID,Jeans,Clothing,Wallet,9,237.39,2021-12-09 07:23:30,India,,www.shopify.com,,N,Payment gateway error
+,bbae46c4-1d6c-4896-aad9-2d7b9d89b9c0,John Woods,InvalidID,Sharpener,Stationery,UPI,7,658.05,InvalidDate,USA,,www.amazon.com,,N,Invalid CVV
+,34452372-22d2-4740-8441-e27e6edf650a,,142dc672-4070-470c-a84e-8953c4af18dc,Cricket Bat,Sports,Internet Banking,6,2.72,InvalidDate,USA,,www.ebay.com,29a83359-3116-4216-a4ed-e9c30e365cdd,N,Card expired
+,,Desiree Kelly,InvalidID,Jeans,Clothing,Card,7,523.35,InvalidDate,Germany,,www.walmart.com,116db672-9d93-4aaa-ad90-5a3011fdfe10,N,Card expired
+,,,2402a3ef-60b0-43b4-958c-f2545f71a972,Jeans,Clothing,Card,4,405.95,InvalidDate,Germany,Jamieburgh,www.amazon.com,,N,Payment gateway error
+,,,InvalidID,Tennis Racket,Sports,Card,-2,529.41,InvalidDate,UK,North Barbara,www.flipkart.com,,N,Invalid CVV
+4f82813c-5ca0-433a-abb7-63b1e59a6c79,f3cb5bb2-0c0c-4c50-a1e5-882f44bcc0e4,Paul Weaver,InvalidID,Pencil,Stationery,UPI,8,551.16,InvalidDate,USA,Justinmouth,www.shopify.com,,Y,
+,10d4f50e-54f7-4628-9bee-3852872e274d,,InvalidID,Pencil,Stationery,Internet Banking,3,615.54,InvalidDate,Germany,South Rebeccabury,www.amazon.com,,Y,
+,,Christopher Pitts,InvalidID,Eraser,Stationery,Card,9,66.87,InvalidDate,Canada,West Travisfort,www.ebay.com,3ab87b50-592b-4a6b-a3d5-e057ca6df87f,N,Card expired
+,1f7fbdb1-3118-4a62-9d7c-3c864467b7f5,,InvalidID,Sharpener,Stationery,Card,-1,878.35,InvalidDate,UK,,www.ebay.com,,Y,
+,1930c5c3-8679-47f2-b523-0cbb8ea81ec1,,InvalidID,Sharpener,Stationery,Card,-3,808.54,InvalidDate,USA,,www.shopify.com,,Y,
+,,Steven Reid,InvalidID,T-Shirt,Clothing,Card,-1,944.66,InvalidDate,India,Lake Sarah,www.walmart.com,,Y,
+,,,InvalidID,Smartwatch,Electronics,Wallet,6,831.48,InvalidDate,India,East Angelahaven,www.amazon.com,d74b8974-c3ef-467b-b17d-e414c1ee7ef5,N,Invalid CVV
+3d94ac0a-7728-465e-8d5c-9752a7b407ac,dc58c6da-4cd0-4b5d-a9c4-4a7d6f7d175d,Joanna Jackson,InvalidID,Camera,Electronics,Internet Banking,8,23.94,2022-02-18 11:41:34,UK,,www.walmart.com,0c168e55-cb1b-4d82-95f9-b29b8e27e22f,N,Card expired
+4d2450c1-9763-4f23-96fd-7441be67a9b0,,,3f73c788-8456-4e91-a7e6-a8e7409b99bf,Basketball,Sports,UPI,0,-25.26,2022-12-29 10:51:31,UK,,www.shopify.com,4f6239e1-e378-4836-9226-9338375f65ee,Y,
+,,,InvalidID,Sweater,Clothing,UPI,8,-22.45,2022-11-23 01:18:32,Canada,,www.shopify.com,,N,Insufficient funds
+,,Douglas Velez,2bc9e477-f290-4c16-939f-01bafc27437d,Headphones,Electronics,Card,0,102.72,InvalidDate,Germany,,www.shopify.com,,Y,
+,e6e1bbd0-8bb5-48e0-bb5d-bbb2c2fc94d2,,febeb3c3-84fa-4aba-9b41-620b1637579f,Jeans,Clothing,Wallet,0,502.63,InvalidDate,UK,East Bridgetview,www.flipkart.com,,N,Payment gateway error
+,,Emily Ayala,InvalidID,Headphones,Electronics,Wallet,5,936.0,InvalidDate,India,East Kimberly,www.flipkart.com,5d97cac0-fd5a-479f-938d-e8a69da823b4,Y,
+,e353d418-9f2c-45c6-b09b-b07f9dc5f742,John Hansen,InvalidID,Jeans,Clothing,Wallet,-5,24.14,2022-10-14 20:42:42,Canada,Alexandraville,www.shopify.com,22ed4290-7e71-4261-96c4-adce0e090686,N,Invalid CVV
+,5e3b1175-ac11-472e-92ad-30e18f4b1e8d,Christina Lozano,bdf17f58-b49c-471f-8a62-2f80fadacbc2,Tablet,Electronics,Internet Banking,-4,894.77,2021-10-17 10:17:49,Germany,North Donnaberg,www.flipkart.com,,N,
+2620f692-7e3a-47c1-acff-c03c16d0895b,,,93fba6f8-fec5-4ec1-9258-9b208cb0a6c3,Coffee Maker,Home & Kitchen,UPI,0,488.22,InvalidDate,UK,Brittanyborough,www.shopify.com,fc147bda-da81-49d3-a5fc-3a752ee69d7e,Y,
+7b7b6221-9c9f-4cb2-b459-005326b8518c,b4ccb6f9-f365-48df-8eab-ce1ab3d1cc4f,,1e7238c0-c8d3-4bb9-9b18-809001d595e4,Notebook,Stationery,UPI,-4,947.73,InvalidDate,India,,www.shopify.com,23c753e1-f8d0-40c4-87c7-222990eca329,N,Card expired
+,2eb95f40-c272-4cdf-a971-7760af21e62c,Brianna Sparks,InvalidID,Badminton Racket,Sports,Wallet,-2,407.41,2020-05-30 06:58:45,USA,,www.shopify.com,7ad1203d-6005-4bb4-86e0-12fe0b502743,Y,
+feac551e-4e91-4d3f-9789-b834a1a56c12,,,d4f76443-407a-47c4-98ae-6c9b573f8a4a,Pen,Stationery,Wallet,7,191.69,2023-10-12 17:48:31,Canada,,www.amazon.com,,Y,
+79439f87-aa72-46e0-bff1-8f1d956184a8,,Thomas Warren,InvalidID,Pen,Stationery,Wallet,9,3.94,InvalidDate,UK,East Racheltown,www.ebay.com,,N,Card expired
+,a9e746ac-a8db-4f4b-aeec-7d2d670f3128,,3f912efe-056d-4723-8595-566e07849b52,Laptop,Electronics,Wallet,1,939.19,InvalidDate,Germany,,www.shopify.com,c3340686-5bf5-4460-8264-bbe4b835a779,Y,
+,,,InvalidID,Jacket,Clothing,Card,10,-65.01,2020-10-08 19:19:03,Canada,Richardborough,www.walmart.com,,Y,
+,f551af4a-b726-4c41-aed8-c2e7f5043a8e,Steve Barker,f6a24f8e-baaf-4334-86df-d96af24fdeac,Sweater,Clothing,Card,2,586.34,InvalidDate,USA,South Ashley,www.flipkart.com,,Y,
+cc0242c3-38b5-4f65-8ea2-c9a65466a991,939f4806-82d0-48ca-8992-3af0e2ebc96c,Joseph Jones,8990c91a-0c9d-42c5-a90f-45289a3cced8,T-Shirt,Clothing,UPI,-2,327.86,InvalidDate,USA,,www.ebay.com,e852ab35-0e51-4d02-bdc3-97c4801ca3dd,N,Card expired
+,,,InvalidID,Notebook,Stationery,Internet Banking,1,585.6,InvalidDate,Canada,Cochranberg,www.amazon.com,,N,
+,5d59cafe-7d79-4e3e-854d-d2486ff2f033,,f7100c60-b187-441c-a516-79d5507ad9ac,Dishwasher,Home & Kitchen,UPI,-3,186.77,InvalidDate,India,Waynehaven,www.ebay.com,0bbc79ef-b065-46f3-b9d1-2e5645a13ff3,N,Invalid CVV
+f1167bfa-dc13-4054-8bb2-9f4627e69e0a,,,640384d5-faf7-4f41-bccb-481ccf411ec8,Toaster,Home & Kitchen,Card,6,744.26,InvalidDate,USA,Traceyview,www.amazon.com,,N,Insufficient funds
+,aebc6cf7-d088-42ac-8f30-2a85472f929c,Shannon Smith,dc6dab59-65a7-4a37-be9c-abc6d844e20a,Air Fryer,Home & Kitchen,Internet Banking,3,566.26,InvalidDate,UK,,www.amazon.com,49fb9889-1658-4815-915c-f5630f7ca377,Y,
+ab6d0a3d-e81a-473a-96d6-489091a72aab,048bd3aa-5621-4514-b491-cf92995132df,,1b2360e7-cbc7-4df9-a324-9aa088f91322,Laptop,Electronics,Card,10,-1.95,2023-12-28 07:54:31,Germany,,www.ebay.com,,N,
+e73141b7-250b-4e8a-976c-660abaaccf46,,Eric Hanson,95ee0706-5d2e-4883-acf0-98747aca8bb3,Coffee Maker,Home & Kitchen,Internet Banking,2,411.67,InvalidDate,Canada,,www.walmart.com,,N,
+6475a667-7d93-4a0f-86f1-1d8e3d6f8fd9,,,InvalidID,Ruler,Stationery,Wallet,0,179.83,2023-08-26 05:37:58,India,,www.walmart.com,,Y,
+a342f91b-b764-4ca4-99c2-cb7b876f2dd0,29cd4354-2beb-44c1-b7b2-3f8aa169dd8a,Michael Newman,56799805-0cc1-4ac1-ad86-2ff447e2da6a,Sweater,Clothing,UPI,8,345.55,InvalidDate,USA,,www.walmart.com,87bd27e7-366f-47ee-baa0-6d355cbe692f,N,Insufficient funds
+,,Erica Jones,a22f599d-4d6d-4db8-89fb-1d34c5f8ee8a,Cricket Bat,Sports,UPI,1,242.94,2023-02-20 02:15:58,USA,,www.walmart.com,9c30e7d2-70b6-494f-9d5b-138ebb531777,N,Invalid CVV
+,,,efb48cd3-4e03-4a79-9b79-62c4aaaf94d9,Socks,Clothing,Card,5,973.81,2023-08-25 09:32:57,Germany,,www.walmart.com,,N,Invalid CVV
+,,Christopher Garza,InvalidID,Socks,Clothing,Wallet,5,747.64,InvalidDate,UK,Fieldsshire,www.shopify.com,df89601b-f8c3-4ab0-ac69-ba18dc02301a,N,Payment gateway error
+786e8e32-1298-4a38-aa3e-20b73fc0e11c,,Jacob Andrade,InvalidID,Basketball,Sports,Card,5,189.76,2023-09-05 14:59:35,India,,www.walmart.com,,N,Card expired
+daba536d-9a68-42f0-9086-6c7697cde4c5,42481ccc-a740-42b8-ab23-9f7afbc52665,,69f74bf8-142d-456c-b123-4099fcee576a,Sharpener,Stationery,Card,10,185.06,InvalidDate,Canada,Markbury,www.ebay.com,,Y,
+,2887564e-132a-48c8-869d-72be90f4cb02,Eric Spencer,7fa1d6bc-bef8-48d9-9794-eba8ac2dc006,Microwave,Home & Kitchen,UPI,6,624.89,InvalidDate,Germany,North Nicole,www.amazon.com,,N,Card expired
+,8a25844d-9885-406c-8031-0ca8028fec77,,be4d56d5-dd8e-4f70-965b-f50fb9174b2b,Sharpener,Stationery,Card,7,429.61,InvalidDate,USA,Nicholasburgh,www.flipkart.com,e78680c0-45ae-4ea4-b037-b2dc0f489f4d,N,Payment gateway error
+ee9e0e7c-8f9c-40d6-8160-20570fb311ba,96f8a287-d562-4871-bfba-6534ba16922b,Sherry Hansen,InvalidID,Yoga Mat,Sports,Internet Banking,2,346.77,InvalidDate,UK,Scottborough,www.ebay.com,,Y,
+,74378941-abe2-42f2-8308-01176903c11f,,02d190da-9d7c-48c2-b726-8af415bc3242,Coffee Maker,Home & Kitchen,Internet Banking,-4,875.27,InvalidDate,UK,,www.flipkart.com,27ae8e68-a9df-411c-adde-2e962119bd02,Y,
+,,Natalie Cervantes,InvalidID,Basketball,Sports,UPI,4,392.72,InvalidDate,UK,,www.walmart.com,,N,Payment gateway error
+02016e18-58f3-487a-9bb0-7572f983fdf3,edf2287d-86d0-46f4-a1ba-e152b7c6c961,Laura Roberts,6fd2062e-9311-4619-ad0e-7f979d7715fe,Yoga Mat,Sports,Wallet,-2,-13.54,InvalidDate,UK,Brookeside,www.walmart.com,f8fc5309-019b-436e-b406-88de7bf4c99b,N,Insufficient funds
+,,,0af3aea6-ba58-4f61-9e77-e7d5fcb102c3,Jeans,Clothing,Wallet,7,122.55,InvalidDate,USA,North Michaelville,www.ebay.com,c01b23da-15a6-4f17-a6af-e5b9a66b4db9,Y,
+,3a0932a4-03ae-4dcc-8b71-9c6281f930a2,Jasmine Castro,563224ba-a48f-4d1b-9190-005c41e8251c,Smartwatch,Electronics,Card,-1,531.29,2022-06-22 12:16:41,UK,South Colleenhaven,www.flipkart.com,37e966b5-b1f0-48f5-b5d3-685dc9906457,Y,
+,3955b7b3-4310-40b7-970f-f60ca4087a2b,Seth Stewart,181afe0c-880b-4620-9c3e-11dfcf183546,Book,Stationery,Internet Banking,6,604.44,2024-01-22 11:28:19,UK,Andrewsville,www.ebay.com,,Y,
+,,Alicia David,cce1108e-967e-47e6-9d42-ad6d467586a4,Yoga Mat,Sports,Wallet,3,427.64,2022-12-25 11:41:40,India,East Connie,www.flipkart.com,,Y,
+baf4728b-3e0a-45d5-b96d-8b248dd8deb8,07751a49-3243-41f2-bc15-7462c8c3c88c,,InvalidID,Smartwatch,Electronics,Internet Banking,3,512.54,InvalidDate,USA,Port Johnathan,www.flipkart.com,,Y,
+55d53b37-1f3c-40b5-91be-de002d579bf0,,Victor Hamilton,b6f9620b-3922-42db-b16e-d5f3aff4d016,Shoes,Clothing,Wallet,10,249.81,2021-06-04 04:25:52,UK,Barneschester,www.amazon.com,87ce458b-00ce-4f59-b203-b2d1cedfb9b4,Y,
+,,Douglas Carson,6ee7af9c-22f7-44f8-92f1-d77c058ccdf7,Smartphone,Electronics,Internet Banking,-1,-92.59,2024-02-26 15:04:28,UK,Ingramfort,www.amazon.com,aabab993-f09c-4e9b-856a-1d9011525b7f,Y,
+09fcbdb9-6872-455c-9840-474d2d3cbbd4,,Danny Smith,InvalidID,Basketball,Sports,UPI,-1,15.13,2023-11-01 08:21:11,UK,Mariamouth,www.ebay.com,,N,Invalid CVV
+945ef023-4eb0-482b-9d02-8047312558eb,,Mark Moody MD,InvalidID,T-Shirt,Clothing,Wallet,3,276.15,InvalidDate,UK,Lake Jackchester,www.ebay.com,8be81e62-58fd-4424-9f03-af1c2244b2f5,Y,
+1785208f-eda4-4822-abbc-a87e5be4b4dc,,Tara Rivas,5619fc32-d2a6-4361-a596-4bf83dcc9da2,Yoga Mat,Sports,Card,-2,-43.71,InvalidDate,USA,Cooperberg,www.flipkart.com,d3f0b420-b905-45e0-b3ba-37783ca8930e,N,Payment gateway error
+c87934d5-ec19-4db7-bf56-11fbcad7cd12,,,1a9304d9-a8f1-432d-96b8-aac32bcc0212,Laptop,Electronics,UPI,2,410.07,2020-11-01 01:59:58,UK,New Jasmineburgh,www.shopify.com,,N,Card expired
+751d36da-1ee2-4f71-b9a5-539a6d909ac8,,,InvalidID,Badminton Racket,Sports,Wallet,9,629.57,InvalidDate,Germany,,www.ebay.com,49ac539d-b9d5-4dc2-a5c9-a394a86bf273,Y,
+,ddd86aa5-a5a6-4188-a76a-73a148b483ff,Jennifer Deleon,b46e8d57-d5e2-477e-a769-1c2ebefd2d92,Socks,Clothing,Wallet,2,694.38,InvalidDate,UK,Ramseyshire,www.flipkart.com,,Y,
+41bb0f0c-90c3-4c5e-8104-7fb2da66dff2,c77d0172-0596-4689-ab51-d02a01e25a03,Lisa Murphy,InvalidID,Tennis Racket,Sports,Internet Banking,1,817.58,InvalidDate,Germany,,www.flipkart.com,,Y,
+,,,InvalidID,Air Fryer,Home & Kitchen,Wallet,-3,828.19,2020-10-25 09:52:44,India,South Jeffrey,www.flipkart.com,,N,
+da5e6db7-73c3-472c-b62d-3d9017e25a84,125f7156-c248-45f8-8a01-514a553c9a2d,Amanda Williams,79cd835a-3d7e-4449-ac5a-d3437ec1febf,Socks,Clothing,Wallet,6,739.08,InvalidDate,India,Thomasview,www.shopify.com,936a68fe-17f1-4046-9b30-910327f30c88,N,Card expired
+,,Craig Owens,6276c20f-94b5-4857-ae40-a1cae975ac32,Book,Stationery,Internet Banking,7,752.76,2020-01-20 13:50:21,India,,www.walmart.com,,Y,
+0ce3ec26-0de6-4155-aee7-4b6e89345209,,Michael Watson,07c28ae1-568f-4818-a939-0181fa737815,Jacket,Clothing,UPI,1,234.12,InvalidDate,USA,,www.walmart.com,,N,Card expired
+,53c1871e-0c6d-40f8-9ada-4b8b726873ff,,14d15ba5-1b5b-408c-9f8e-bb990296380e,Socks,Clothing,Card,-3,657.89,InvalidDate,India,,www.walmart.com,b182284d-f3f1-43e3-af04-c2f487eccab6,Y,
+,,Kimberly Gross,InvalidID,Ruler,Stationery,UPI,6,912.64,InvalidDate,India,New Shannonborough,www.amazon.com,,Y,
+,7c691585-57fa-48a5-b961-ee55dcda2a4a,,596b6859-3092-4e33-b2cc-f191e229859e,Smartwatch,Electronics,Wallet,8,480.35,2021-11-21 12:52:01,India,Garciamouth,www.walmart.com,,N,
+f2fb3af7-81ba-4f7e-b8e0-0a145fa538e8,,,2666a853-6f8e-4194-9383-2ac2e6b96cb3,Basketball,Sports,Internet Banking,1,972.55,InvalidDate,UK,,www.shopify.com,433c0be7-b3cc-4f68-b942-8406e66c3fe5,N,Invalid CVV
+8b05152a-4e4b-476a-9bf0-ab9cfcecba1d,78da77e7-73f5-49b3-9acc-df90cc221ab1,,InvalidID,Cricket Bat,Sports,Card,5,22.31,2023-03-25 23:25:05,Germany,West Edward,www.flipkart.com,287bd3b3-7377-4b4c-a615-a1d8f74f0e89,N,Insufficient funds
+,,Brittany Reed,InvalidID,Football,Sports,Card,9,598.87,InvalidDate,Germany,Millermouth,www.walmart.com,,N,Invalid CVV
+697af127-1e02-414d-b942-81bbf7c38c87,,,InvalidID,Blender,Home & Kitchen,Internet Banking,1,318.35,InvalidDate,India,Patrickton,www.amazon.com,,Y,
+03484bb9-a726-4376-bb01-0a26900295e8,9e103548-b291-4530-ae98-ad1886871da5,Sarah Schwartz,4259dd87-22fe-4eaf-b1eb-69a9f5b8891f,Notebook,Stationery,Internet Banking,0,365.19,InvalidDate,Canada,West Andrewburgh,www.flipkart.com,d6f431eb-885c-48b6-8856-feb1f54ad06a,N,Payment gateway error
+,,Christopher Williams,InvalidID,Tennis Racket,Sports,Internet Banking,1,813.61,InvalidDate,USA,,www.walmart.com,9a642ede-66c9-41f8-a7a5-3e5739ef9b9c,Y,
+ffaab5c1-9631-4b85-be38-80faf2f6779e,ec023861-e079-463a-9a64-c84d6c581577,Angela Smith DDS,47fc89b0-a897-490e-8a8a-1c480bcb09ef,Smartphone,Electronics,Card,2,829.02,2022-04-27 22:59:09,Canada,Jamesfort,www.amazon.com,,Y,
+,d3568682-ea71-477f-abc9-6c972a315cf2,,InvalidID,Laptop,Electronics,Card,5,-66.35,2022-05-03 19:54:18,UK,,www.ebay.com,,Y,
+6ed0c12e-e045-4c57-b25d-2b8bfec7c490,13848ebc-6341-430c-8a1c-d7ea7e7584f5,James Cook,3c66b043-8a22-43b1-abe8-9b18b905cdb0,Sharpener,Stationery,Internet Banking,9,483.37,InvalidDate,USA,,www.flipkart.com,b3495a2a-cd35-42fe-ab02-5a035e1ece7c,Y,
+,,,InvalidID,Jacket,Clothing,UPI,8,766.64,InvalidDate,USA,,www.amazon.com,,N,Invalid CVV
+,,Laurie Stephens,491cec6f-724a-49f4-b85a-2c9d2e1944ff,Book,Stationery,UPI,0,750.87,2023-10-13 15:37:13,India,,www.walmart.com,,Y,
+c1c62acf-1c17-47e7-95db-7be8871c2b00,,,60e99379-992b-4e8a-b79a-4924de70286d,Basketball,Sports,Wallet,4,16.17,2020-07-06 04:40:55,UK,,www.walmart.com,,N,Payment gateway error
+,,Timothy Gibson,b796d2e6-f36f-4c31-b04d-e9524cf6c4b3,Smartwatch,Electronics,Wallet,0,753.77,InvalidDate,India,New Shelbyburgh,www.walmart.com,,Y,
+7af19c40-5257-4ef9-a892-7fc6ee36dd95,d9a6fe32-2c1b-45e8-a29a-7a47c2ec8c43,,44702ce0-5aac-445e-9edc-a41386cbf426,Cricket Bat,Sports,UPI,10,859.17,2024-09-01 02:38:50,UK,Lake Carol,www.shopify.com,31dfda1a-e88c-4dab-bc97-2c328862ad62,N,Card expired
+242f03c8-e8c9-4174-862d-c60ecec1641b,,,54d8efb5-7b63-4033-abe8-68838d69b1db,Football,Sports,UPI,-5,520.85,InvalidDate,UK,,www.walmart.com,6766c4c7-67f1-4b11-88c4-830cf564a4fc,Y,
+42a388c6-c03c-43e7-b21c-94bbd0855537,,,70ad0c9a-dd65-4f4e-8b08-fb9d7bc06c7c,Dishwasher,Home & Kitchen,UPI,6,946.36,2020-03-12 04:20:18,Canada,,www.amazon.com,,Y,
+,,,b72ed7f8-17ea-4218-bf56-fc21620ef21d,Sweater,Clothing,UPI,6,482.51,2022-07-21 19:51:24,UK,West Erinside,www.amazon.com,,N,Payment gateway error
+,,,InvalidID,Shoes,Clothing,Internet Banking,5,163.55,InvalidDate,Canada,Lake Jameston,www.amazon.com,,N,Insufficient funds
+e6a9c93b-59b7-48f1-ace0-7e24afe34bd7,56ee64e6-7379-49a8-b246-4f9d3eb46c78,Zachary Valencia,InvalidID,Smartwatch,Electronics,UPI,-3,824.64,2020-12-10 16:27:38,India,,www.ebay.com,,Y,
+ffe0d4dd-b51a-4916-9b21-0c0e76d299a3,a0df5240-1087-41d4-bc0b-7dd16a54ae75,,afb87142-66fa-461a-a5ca-9b8819c6b985,Toaster,Home & Kitchen,Internet Banking,9,342.17,InvalidDate,Canada,,www.amazon.com,,N,Payment gateway error
+3baa7fcc-8e20-47df-a775-a11dad765e56,,Russell Morrison,043fbc24-7d95-40c5-92bd-e95b2e2b2b66,Toaster,Home & Kitchen,Wallet,7,157.63,2020-06-29 00:35:48,India,,www.amazon.com,83a4affa-543d-4d78-a34e-9268759830fa,Y,
+62365de5-bb8f-414a-827e-9081368f57df,4b76ec41-e5a4-4ec2-9808-ac7e83b9fb16,,InvalidID,Blender,Home & Kitchen,Card,3,842.1,2022-11-10 14:10:44,Germany,West Jeffreyview,www.flipkart.com,,Y,
+eeac165c-fd26-4f83-88c4-f9948445a7f1,5b710828-6e7c-49e0-9bf7-9555a2d183c2,Cathy Tucker,InvalidID,Air Fryer,Home & Kitchen,Card,10,170.89,2023-01-25 04:02:02,India,,www.walmart.com,,Y,
+,,Kevin Mcfarland,a0e1c12d-0b51-4de7-9bf6-286f52afe21f,Eraser,Stationery,Internet Banking,1,287.55,InvalidDate,India,North Ivanfort,www.walmart.com,,Y,
+d02b6ffd-e127-4426-adfe-3e89cbab8034,,,InvalidID,Basketball,Sports,Wallet,-2,169.28,2021-12-19 14:54:42,India,,www.amazon.com,,Y,
+,,,8c70dcb3-b8af-4a52-8a8b-a6b2d569a008,Book,Stationery,Internet Banking,1,680.75,InvalidDate,India,Jasonbury,www.amazon.com,,Y,
+,9a89fb83-1f23-43ac-9e76-dd23cf38d224,,InvalidID,Smartwatch,Electronics,Card,3,36.18,InvalidDate,USA,,www.amazon.com,6d0e6289-140c-4f94-9490-f9e0f7f9c137,N,Invalid CVV
+8c026a31-6a05-46b4-9865-d3382980a7ab,3f76d16e-d005-4b08-b06c-b03137b4b114,,10a1e169-cf8c-4946-856c-6108a24bcd0e,Headphones,Electronics,UPI,1,172.97,InvalidDate,Canada,,www.shopify.com,3002e3b4-ffa2-4ca2-a77f-fb10ebe11ca5,N,Payment gateway error
+1d012553-8d6b-480a-a134-cfb2598ffb2c,,Mrs. Jennifer Diaz,InvalidID,Blender,Home & Kitchen,Wallet,8,113.92,InvalidDate,Germany,West Nathan,www.shopify.com,,N,Card expired
+,,Wendy Brown,InvalidID,Tennis Racket,Sports,Internet Banking,-3,649.95,2023-09-05 23:45:17,India,New Roberttown,www.ebay.com,,N,Insufficient funds
+5067b9ea-8770-4b27-b12d-b81df7dcd533,,,e198a9b0-6936-415c-8a4f-844f618a7590,Tablet,Electronics,Card,3,656.87,2022-12-27 07:54:03,India,West Michael,www.amazon.com,634a844e-c5d2-4335-a056-da950a5459d0,N,Payment gateway error
+,,,53be8461-741a-431b-a3f9-f3751634c8f9,Pencil,Stationery,UPI,1,313.5,InvalidDate,Germany,Kaitlynbury,www.flipkart.com,a12bcb3e-11c0-4d2f-a23f-eb4067fab2c9,Y,
+,bdbabed8-93e4-4cb8-9d06-7fd5921af1d4,Cody Wall,InvalidID,T-Shirt,Clothing,UPI,-5,491.98,InvalidDate,UK,New Joshualand,www.flipkart.com,,Y,
+3b41b20a-d109-4c4c-9984-6a8f8cdfccaf,2f6e150a-5db9-4110-aa94-f7f831b5a653,Brent Dorsey,faeb6fc7-6f73-4451-88b3-68954d7c4a9d,Laptop,Electronics,Internet Banking,-4,87.07,2021-05-16 05:53:43,UK,,www.ebay.com,f245bd32-bbda-45d8-a3d4-01d00c72e9b0,N,Insufficient funds
+,,Aaron Bryan,InvalidID,Blender,Home & Kitchen,Card,-2,573.83,2024-05-07 00:42:04,USA,,www.amazon.com,2e6e8eb0-0c47-4f28-a7a4-7678c0db204e,Y,
+,1f9fbcc1-798d-4cd7-beb3-922710f788e3,Connie Rosales,InvalidID,Eraser,Stationery,Card,10,666.81,InvalidDate,India,,www.shopify.com,d0bb2ce3-7d25-493a-a8aa-1f5392dde75f,N,
+1449bcd6-7c3a-4dce-b7b4-c955d8823c8f,,Dr. Eddie Rodriguez,InvalidID,Basketball,Sports,Card,10,950.28,InvalidDate,USA,New Carrieview,www.shopify.com,ffea3974-d086-45ab-991a-050e097ec32a,Y,
+,,,ef65756c-8668-492a-82bc-a84161881d78,Football,Sports,UPI,6,705.28,InvalidDate,India,,www.ebay.com,,N,Payment gateway error
+,5381da3a-3d87-4759-aa3d-ec64835396c4,Brittney Brown,02c7f3ad-5fc7-45d5-beaa-50e7b704c0d1,Notebook,Stationery,Internet Banking,3,846.38,2023-08-05 06:46:53,USA,Diazfurt,www.amazon.com,,Y,
+,74b44caa-d43b-46bd-8675-307b97e192e1,Nancy Wheeler,c905780e-86e7-4a42-bd09-3faebb71351b,Camera,Electronics,UPI,4,901.48,2023-01-07 09:30:10,Canada,Daviesberg,www.amazon.com,,N,Card expired
+,2f95d875-f848-4570-8b89-737fac095a82,Ebony Smith,b11e0c32-00f8-48b2-a669-8cd08c9ad155,Smartwatch,Electronics,Internet Banking,4,889.26,2021-06-22 12:01:35,UK,,www.flipkart.com,2f40c8bc-e51f-46e7-9831-a54ffc4e405e,N,
+b19d8d16-29e3-421f-bdb3-073e714b0454,,Mark Gamble,94974c00-f111-494d-9ce0-32f924d276b0,Sharpener,Stationery,Internet Banking,-5,329.13,InvalidDate,India,New Heather,www.amazon.com,,N,Invalid CVV
+,1c116792-150f-4f79-9948-f2505ddfc4a2,William Oconnor,InvalidID,Eraser,Stationery,Card,7,889.44,2023-06-07 14:13:50,USA,Kellyborough,www.shopify.com,,N,Invalid CVV
+,,,32bcdbf9-2c75-42b6-bf5d-f78074886c79,Toaster,Home & Kitchen,Card,-3,776.98,InvalidDate,India,Kristentown,www.shopify.com,ec1e8e6b-5733-4186-918b-b2a1bcac718c,N,Card expired
+,c3bb1d4c-7597-4a55-ba2b-e47fb8628578,,152ee7e3-2479-4036-aaed-644b2d89a7b5,Tennis Racket,Sports,UPI,10,111.52,2022-10-01 23:04:37,USA,,www.amazon.com,24bb5b24-ca7f-4237-aed1-73309445b8df,Y,
+188c460f-39eb-41bf-b4a5-aa88cb3c08ef,e0e3bc93-d1c4-4971-8a82-7804c6e6ba51,Rodney Estrada,ff8f022e-bb38-4f1d-94f8-8e2c3dd7d6ab,Eraser,Stationery,UPI,-5,821.46,InvalidDate,Canada,,www.amazon.com,,Y,
+092808a3-8793-4aa3-8754-4cd1e51a4a80,,Crystal Yu,InvalidID,Football,Sports,Card,3,779.01,InvalidDate,Canada,Turnershire,www.walmart.com,,Y,
+86f2a081-a38c-42e5-9673-a51ca916ceef,80faf743-5356-475a-ad57-2db2b17ef882,,2f519e49-b120-458f-b9db-60f4200a3e94,Headphones,Electronics,Internet Banking,7,25.57,InvalidDate,USA,Garzaville,www.shopify.com,,N,
+e220bc5b-3268-4ba9-8212-6ed130267213,,,InvalidID,Football,Sports,UPI,10,754.99,InvalidDate,UK,,www.shopify.com,,N,Insufficient funds
+0d8dd3ec-92a8-4e18-9bbb-a2caa78c7b37,032ca273-c9be-4afe-a1af-3581e89b1ec3,Ann Sanchez,9f8413b6-3e52-4dd4-ac11-230e15a53344,Football,Sports,Wallet,-5,-86.15,InvalidDate,Germany,,www.flipkart.com,bfa83590-056c-474f-8c94-3ac97f13f1b6,N,Insufficient funds
+,f6a8ca44-1514-4de9-a463-9355cbd67011,,3c37e280-969f-474b-bfb2-f421ef0f62b7,Pen,Stationery,UPI,0,219.02,InvalidDate,UK,,www.flipkart.com,4a9c6ab8-c4b6-4a14-b4e8-61f74fc7e5ff,N,Invalid CVV
+,c3ae2c42-bbc5-46be-99ce-c61dd03739ae,Elaine Bautista,e43c7f4b-57ce-4076-8aaf-9fa90dcf9191,Socks,Clothing,UPI,-5,29.13,2022-01-02 14:41:33,UK,,www.amazon.com,e5bd0b99-598e-4e7a-bb7e-376ac7425f5d,Y,
+,,,InvalidID,Tablet,Electronics,Wallet,7,699.74,InvalidDate,India,Samanthabury,www.ebay.com,ed78c61a-7a39-4f50-8abb-d980102e8f66,N,Invalid CVV
+,30dcf0f5-e761-461f-811c-c878dfec8a57,,4e93b383-2c2a-47ea-98b6-4be097f6c21b,Pen,Stationery,Card,10,960.5,InvalidDate,India,Shannonborough,www.amazon.com,3c2e7ef2-031e-45ff-bc85-bf5b3b320842,Y,
+76ebced1-3355-411d-8b71-508e8b59cb41,,,InvalidID,Camera,Electronics,UPI,4,778.98,InvalidDate,Canada,,www.shopify.com,0de2e83a-cda0-47c0-b8b4-0f5d66f7d6ca,N,Insufficient funds
+,12bf7a91-4f4a-47a7-923f-d5f99234c772,Rachael Harrison,InvalidID,Smartwatch,Electronics,UPI,7,598.8,2022-10-23 23:34:44,Germany,Lake Richard,www.shopify.com,1efe497b-b71b-48dd-8198-247d43214826,N,
+,,,InvalidID,Football,Sports,Wallet,4,575.37,2024-03-21 13:30:44,Canada,,www.ebay.com,e833dc42-c9d6-4e36-9383-54fec527344b,N,Insufficient funds
+e63c4c78-2269-41e6-a46c-cac876050b1b,,Valerie Steele,InvalidID,Pen,Stationery,UPI,3,589.09,2020-06-09 06:22:17,USA,,www.walmart.com,a92ccd8e-5a39-4355-a6ca-a1164be49e0b,N,Insufficient funds
+,f9713144-0b32-4bb7-af8e-e1bf6a757190,Kimberly Rivas,cfa1ed04-5519-4788-9c2f-daa94db26146,Dishwasher,Home & Kitchen,UPI,4,-45.12,InvalidDate,UK,,www.amazon.com,,N,
+,,Jill Hudson,InvalidID,Tennis Racket,Sports,Internet Banking,1,84.46,InvalidDate,Canada,Lake Wesleyfort,www.flipkart.com,2a4102e3-bd7f-4a3f-8ba4-a08421ecf0f9,Y,
+,a0de6543-9730-480c-a1b7-622eb3a5b82f,Philip Shannon,037cf8ec-422d-4bda-bfc2-bb82565d865e,Notebook,Stationery,Wallet,-4,73.24,2020-07-21 13:17:39,UK,Lake Christophershire,www.flipkart.com,65604fb7-0bd0-41d5-af35-f1c293eebb28,Y,
+,,Mrs. Kayla Ellis DDS,InvalidID,Dishwasher,Home & Kitchen,UPI,-4,422.75,InvalidDate,Germany,Wintersmouth,www.flipkart.com,,N,Payment gateway error
+7341271e-4dae-4027-a074-413bbb68e7c2,c51380ed-12ae-4f5a-9f46-8b962b5d85e0,Kimberly Collins,4561961a-e4fd-4679-a8f0-47c1f9838d2b,Eraser,Stationery,Card,-5,222.72,InvalidDate,India,,www.amazon.com,e7661199-261f-4dc0-ad38-15ba86a86bd7,Y,
+,7a6d37f2-2cd3-443d-89cc-aacb85ac2303,,InvalidID,Tablet,Electronics,Wallet,10,754.43,2022-12-28 14:33:28,Canada,,www.amazon.com,,Y,
+,dfe5b67a-ca61-4cb3-930a-eac30d2718bd,,bb01f4a5-d3c8-476e-a885-876ac2ede2c8,Smartwatch,Electronics,UPI,-4,286.66,2024-01-19 00:24:56,Canada,Lisaborough,www.walmart.com,bbb7b293-9764-48a1-b0fd-9de51f1db593,Y,
+,7f0fcfc0-b8d8-4cef-baf2-16c6f1c34347,,InvalidID,T-Shirt,Clothing,Card,-3,137.7,2024-03-13 23:31:21,USA,,www.shopify.com,da688788-6f88-4028-9537-ce230e037572,N,Card expired
+,,Kayla Martinez,InvalidID,Jeans,Clothing,Card,8,860.44,InvalidDate,Germany,West Samuel,www.ebay.com,de87011b-046d-49bf-8204-17d3f1f8ae02,N,
+f123afa3-0848-48b9-82bd-731652b8a5b9,a05a96c4-76c4-49e6-b67c-ba7799cd5dd9,,b95b0519-bcf6-4eeb-80b6-8b7343495ef4,Laptop,Electronics,Wallet,-2,692.25,2022-05-27 18:20:11,UK,,www.walmart.com,5702996f-272f-49cb-acdd-f7fc91cd2f7f,N,Payment gateway error
+8d7f98e0-3686-407a-942d-53c92bfced7b,,Tammy Williamson,InvalidID,Cricket Bat,Sports,Card,-5,857.03,2023-11-07 03:07:25,UK,,www.flipkart.com,,N,Payment gateway error
+eba6a9ca-7afb-4b09-b893-e104f6ab186b,ce6d2c53-1923-404f-8857-a75b710b4d79,Zachary Wallace,InvalidID,Pencil,Stationery,UPI,-4,509.99,2020-05-20 23:17:12,India,West Paul,www.amazon.com,,Y,
+96ecfeff-bc93-4269-8ec6-829014f64671,d73580e3-afa9-4336-a8e2-913f856046fd,,03e9f2b0-6ea2-4079-bd1b-245e866195c3,Cricket Bat,Sports,Wallet,-1,-83.0,InvalidDate,Germany,,www.ebay.com,,Y,
+,aaa78f0f-4900-428b-8601-9915f5bb57ce,,bb430f81-aa69-414c-b7ff-c3a11d24147c,Coffee Maker,Home & Kitchen,Wallet,2,-63.72,InvalidDate,UK,,www.amazon.com,9190d331-c244-4ff8-ba05-fc3d39f54014,N,Invalid CVV
+,,Diana Ramirez,InvalidID,Blender,Home & Kitchen,Internet Banking,4,812.16,InvalidDate,UK,Lake Stacystad,www.walmart.com,6da4c179-b919-4190-ae9b-052a6ef88767,Y,
+4db96ad2-029e-4bae-8e27-1850434af464,,Veronica Jones,051983cd-7e52-409f-a5f3-e8407c2b847e,Dishwasher,Home & Kitchen,Internet Banking,2,572.88,InvalidDate,Canada,,www.amazon.com,26eebaa9-0b73-4b8b-86d4-868c68b0c4ca,N,Card expired
+4df652bd-4511-449e-9543-cf7fa1c09be7,f8d55349-9cdb-47b8-9294-214c605162d6,Kathryn Patterson,6479fc36-1501-479a-b3aa-263e99d1ce6e,Smartphone,Electronics,UPI,7,625.28,2023-07-02 05:04:50,USA,West Melissa,www.shopify.com,970ae192-15b9-480d-a009-ccf5fd64b36b,N,Card expired
+614a9294-cc91-4310-ab00-1911598fc1df,9e5476c0-4af3-40bf-85b2-6e76ea0b6fd2,,InvalidID,Basketball,Sports,Internet Banking,4,-61.82,2024-08-25 22:05:26,UK,,www.amazon.com,85d6175c-fed8-4b6b-a1fc-85512c9f60b5,Y,
+,7a580c13-0b0a-4b19-8c42-11a3dc31bdd7,,a130730b-c435-40d5-af05-36ffdb361a7e,Pen,Stationery,Internet Banking,0,215.09,InvalidDate,Germany,Sarahburgh,www.ebay.com,,Y,
+,2f99f74c-6537-47f4-b78a-e90a1493f280,,InvalidID,Badminton Racket,Sports,Internet Banking,8,393.27,InvalidDate,Canada,Ethanview,www.flipkart.com,,Y,
+,0bfd34dd-d759-4206-a645-d5653ea6ce71,Max Jimenez,ed9a666f-a6f1-435c-bfeb-3c9d7086cbd9,Basketball,Sports,Internet Banking,-5,996.94,2022-11-15 08:29:23,Canada,South Patricia,www.walmart.com,4a77c922-fd3a-49ea-9155-a144f11f8aa4,N,Insufficient funds
+,ba795fe1-ca42-4335-b9ad-268ad44ce446,Michael Martin,InvalidID,Badminton Racket,Sports,Internet Banking,6,723.54,InvalidDate,India,,www.shopify.com,483dffa2-5636-415d-a01b-a3258f89d521,Y,
+b1b545ab-1edb-4b2d-9378-57b03fe241e1,1dcae4f8-f4e9-48c5-8fc6-82ae9eb72cc7,,InvalidID,Tennis Racket,Sports,Internet Banking,-4,695.68,InvalidDate,India,,www.flipkart.com,,Y,
+b7a82fcf-4845-480d-808f-023e56838d33,,,InvalidID,Blender,Home & Kitchen,Card,9,582.31,InvalidDate,Canada,,www.walmart.com,,Y,
+b4238b87-56c9-49cc-bc33-2b7554e2f736,848a8848-b49a-49aa-a737-85302f3d0402,,InvalidID,Pencil,Stationery,Card,-2,294.59,2021-04-27 19:43:39,Canada,,www.ebay.com,,Y,
+,962ca0dd-a075-46ba-9ca0-05331aa685f8,Jeffrey Sloan DVM,54676e8b-7611-4103-8c35-46695dad254d,Air Fryer,Home & Kitchen,UPI,1,999.42,2021-09-10 05:32:38,Germany,,www.shopify.com,,N,Card expired
+,,,InvalidID,Notebook,Stationery,Internet Banking,5,547.11,2024-08-12 21:54:53,UK,Farmerborough,www.ebay.com,,N,
+,,,InvalidID,Camera,Electronics,Internet Banking,2,850.36,2022-06-07 03:59:10,India,,www.ebay.com,,N,
+2e9b6ec4-050e-4ee4-ab1f-a0fab8a1d34c,,Brian Miller,e8914c1e-bb95-4c42-bd87-af5f8e1cf61b,Smartphone,Electronics,UPI,8,462.42,2024-05-05 23:53:59,USA,Jacquelinemouth,www.shopify.com,,N,Insufficient funds
+,a8e932df-1a21-481f-9b5a-b41ca0aeb417,,InvalidID,Pencil,Stationery,Internet Banking,7,391.74,2023-10-03 11:20:52,Canada,,www.flipkart.com,c1367b8e-9520-4515-8432-94607844a6a0,N,Payment gateway error
+,9d859955-d82e-4270-93b6-89dea13ced06,,1080228b-1b5a-473c-9dd1-443cfe891b2a,Toaster,Home & Kitchen,Internet Banking,1,246.35,InvalidDate,UK,,www.amazon.com,440fd78a-1554-46fd-a0ea-ddb4a5175534,Y,
+fba78200-494c-450d-9da2-222f3b1f2fc3,,Timothy Smith,12e82e40-098d-452c-ae59-4d584e4ba402,Microwave,Home & Kitchen,Internet Banking,8,943.46,InvalidDate,Canada,West Nathan,www.amazon.com,9e4481a8-a40b-4fdd-b720-6f62abaca283,Y,
+,,Stephanie Walker,InvalidID,Blender,Home & Kitchen,Internet Banking,7,195.55,2024-02-15 11:47:14,India,North Christophershire,www.ebay.com,66083127-dea9-41e6-a928-d67ac78cc9fc,Y,
+,,,InvalidID,Smartphone,Electronics,Wallet,0,669.16,InvalidDate,Canada,,www.amazon.com,,Y,
+edf66b35-1304-4a88-8ff4-412522da79a1,a2f3d6d7-cd89-4f5e-aa1b-be0862ccf293,Joseph Jackson,InvalidID,Notebook,Stationery,Card,6,980.89,InvalidDate,USA,East Richardfurt,www.shopify.com,,N,
+daf699b2-7daa-4a8e-8b2e-a6940f2db04a,eecf4a05-b041-4e57-8291-438f1b2832d9,,fcc5e6e8-c351-4f67-a735-cc4930ac095d,Yoga Mat,Sports,UPI,7,31.12,InvalidDate,USA,East Stephanie,www.flipkart.com,,Y,
+7c774a7f-fffc-4dca-a362-9de4cc2e68c4,267b9b37-a8d3-48e9-8bc4-156f3485cdf9,,aeb123ec-1cda-428d-84a3-7da5be5f040b,Smartphone,Electronics,Internet Banking,-4,75.13,InvalidDate,Canada,Jodichester,www.flipkart.com,caccc0dd-535b-4452-a195-a72a141c0415,N,
+,a5796150-29dd-4793-8584-f527a61262de,,InvalidID,Yoga Mat,Sports,Internet Banking,0,967.53,2024-06-28 23:51:14,UK,Port Jacquelineburgh,www.amazon.com,,N,Card expired
+,5b620bcc-4357-4952-b9a4-cb0962f21cbc,,InvalidID,Tennis Racket,Sports,Wallet,0,-69.01,2023-04-12 15:27:57,Germany,Mcintoshville,www.amazon.com,,N,Payment gateway error
+,,,InvalidID,Shoes,Clothing,Wallet,4,744.34,InvalidDate,UK,,www.shopify.com,,Y,
+02a36261-db76-4812-bb00-2a2283354aaa,,,InvalidID,Shoes,Clothing,UPI,7,176.65,InvalidDate,Canada,,www.amazon.com,77006c90-c500-4d97-a3ee-36422de423b9,N,Insufficient funds
+,,Sarah Johnson,InvalidID,Headphones,Electronics,UPI,-5,105.33,2022-01-15 14:03:27,India,Port Ryan,www.walmart.com,,N,Payment gateway error
+80eb1544-fbd8-4d5f-83e5-d2e2a1fd65cb,87206f79-99ae-4fab-acc5-8f4fd3e0888f,,144db57a-6d6c-4b81-ae90-5e6f6b9bfd0f,Pen,Stationery,Card,-2,143.01,2021-06-13 06:15:40,India,New Meganland,www.ebay.com,f3e3fdc8-0650-41c1-becf-7b7cc2206b45,Y,
+cda32a31-8519-49b2-957f-72083bce02d2,,Colleen Mendoza,InvalidID,Yoga Mat,Sports,Wallet,7,494.2,2023-11-09 12:59:51,Canada,New Jennifer,www.shopify.com,b82f14bc-5727-405e-940d-ebfd0f743c22,Y,
+,,Maurice Flynn,InvalidID,Dishwasher,Home & Kitchen,Wallet,6,949.71,2022-07-16 16:55:15,UK,Roberttown,www.flipkart.com,,N,Card expired
+,,Joseph Duke,InvalidID,Pen,Stationery,Wallet,-1,666.31,InvalidDate,Germany,,www.flipkart.com,,N,Insufficient funds
+02a0d70c-f54e-4500-8a67-13a057155bd9,,,InvalidID,Microwave,Home & Kitchen,Internet Banking,-4,82.35,2021-01-19 03:37:23,UK,,www.amazon.com,d92ec178-50b3-4f9c-a775-cc53a6a4ab32,N,Card expired
+068e45a8-ff72-4cba-bf58-1ceef4a72b9b,6aedba6c-f23f-4c63-9195-591c6ce5e47c,Christina Stevens,InvalidID,T-Shirt,Clothing,UPI,-3,698.42,InvalidDate,Germany,Johnsonfurt,www.flipkart.com,1b0056bc-9da0-4508-a6c1-b39e4a49c8ee,N,Card expired
+6e32f95b-0f81-4451-8f91-1cd11ab060c0,09db5b60-df7c-43ad-817e-bf2b01245cc2,Peter Stewart,b629712e-5ad2-425a-bb4a-fc4a1634d4ed,Shoes,Clothing,Card,-1,732.67,2023-06-16 18:04:52,UK,,www.walmart.com,ce7474fb-c1a4-489e-9b6f-a5dd987b636f,Y,
+d3aca6f4-6054-4f25-876a-87d623074c27,,Melissa Green,1b9d0bf0-4aa0-4f87-97e0-a40145f75d9d,Badminton Racket,Sports,Card,-2,231.75,InvalidDate,India,,www.ebay.com,,Y,
+,bb0befd5-9ec8-4eaf-9e76-f55e7b08ce86,,463a86d7-45c1-49ad-85c6-001bd1b86473,Tablet,Electronics,Card,6,5.25,InvalidDate,UK,,www.amazon.com,,N,
+,d5cd6299-d29d-4ca7-ae0a-38bd9fcff180,,1ff67868-8092-4ab4-a1dd-c4a20320ff18,Camera,Electronics,Wallet,7,3.23,2024-08-23 03:03:47,USA,Kayleeville,www.amazon.com,27ac86c6-711d-40bc-9b25-47215ba04c0a,Y,
+,,Brandon Jones MD,InvalidID,Sharpener,Stationery,Card,3,53.84,InvalidDate,Canada,South Jason,www.walmart.com,09938dec-8ae0-4f67-8c90-7577dc78208a,N,Payment gateway error
+aad9a298-2d11-416d-b4f3-d08935225c1c,f6069e35-b978-4832-a28a-e636abe12ee4,Matthew Davidson,95f7035d-00e0-4081-8b78-782465028e1a,Smartwatch,Electronics,Internet Banking,6,584.87,InvalidDate,Canada,North Bryanside,www.flipkart.com,,Y,
+7128fb39-c84e-4f35-9d1c-a9a92ed6d543,593a658a-ab49-4cff-9654-ed571c0bf011,,f51a7ffe-6c73-4f19-ae2b-feb80445f6c4,Badminton Racket,Sports,Card,0,637.41,InvalidDate,Canada,,www.shopify.com,6800c838-4bc8-4715-bca3-4053c33fee01,N,Insufficient funds
+d03112d8-5603-44fa-b3a4-346eb90e0084,bca710a6-1dbf-4f65-b6e5-cd9d85f2f01f,,97a95a39-5057-4cf9-842c-1b3f0cd12dbc,Football,Sports,Wallet,-5,758.66,2024-08-26 03:25:40,India,,www.flipkart.com,,Y,
+7557dbc8-2ade-419d-b91e-19dddc3f4d40,68d6a787-23f6-47d7-a388-b812f8574e99,Madison Wood,InvalidID,Headphones,Electronics,Wallet,9,452.45,2023-09-26 00:14:26,India,,www.shopify.com,435d37b2-d381-41da-9c03-3bcf8296b134,Y,
+a04bee52-01a6-4c6f-973c-2fe05e021e26,,Gabriel Bell,17de0c1a-bf1b-4f3d-bd95-6ecdd25ab013,Socks,Clothing,Card,-3,57.57,2024-09-12 06:31:48,Germany,,www.amazon.com,5f6948e4-7a83-46ae-b699-edb906401cc6,Y,
+2a44a549-9885-4526-b8e0-cf46d022aa5f,6a156236-a524-4b54-8fc8-7c7001019161,Raven Brady,InvalidID,Cricket Bat,Sports,Wallet,0,943.67,InvalidDate,USA,,www.ebay.com,696749d1-8ad1-48dd-b277-49bc54bf6c5d,N,
+70062ea5-c7ae-4e0a-8aec-56dabdec3c90,49edafee-cc58-42ec-96f2-72d92801e952,Christopher Pace,InvalidID,Yoga Mat,Sports,Card,-3,236.17,2022-01-20 00:39:51,USA,Donnashire,www.amazon.com,,N,Card expired
+220418a3-a411-4e21-90b9-0dd9ff87906b,,Justin Brown,3f2838cc-2b3a-48cd-80b0-07580cffd523,Eraser,Stationery,Wallet,-5,115.83,2021-12-25 11:58:13,Canada,Lake Andrewview,www.amazon.com,9b96fc73-9c07-49ea-a734-b71eb1a77bd1,Y,
+53a8197a-d706-43f1-9ce4-5483139aa082,,Theodore Gonzales,InvalidID,Blender,Home & Kitchen,UPI,-4,766.71,2023-04-23 21:20:22,USA,Louisville,www.ebay.com,,Y,
+f5b6b0c1-8223-42b2-8329-e73f9a363196,,Tonya Leblanc,04c3ae77-c6d6-42a9-b49c-14fa2f9fbe12,Blender,Home & Kitchen,UPI,6,10.06,2022-01-01 14:46:23,UK,,www.amazon.com,,Y,
+e0efb232-df1d-4d89-b0b6-ea5ba15fc4c1,,,InvalidID,Sharpener,Stationery,Card,3,48.42,2023-10-22 22:02:57,USA,Lake Melanie,www.flipkart.com,,Y,
+8a5a36ed-abd1-4223-9449-e87891762ead,,Bradley Hubbard,InvalidID,Pen,Stationery,Internet Banking,8,77.2,2023-10-23 13:42:26,Canada,Reneemouth,www.amazon.com,,N,Card expired
+d559fb14-26ec-462b-a1eb-c8dd129fba4f,,,75eb0671-aae7-40d0-958b-9bbd9c857a7a,Dishwasher,Home & Kitchen,Wallet,1,-92.53,InvalidDate,India,West Leeburgh,www.flipkart.com,,N,Insufficient funds
+,,,InvalidID,Headphones,Electronics,Internet Banking,-2,238.7,InvalidDate,UK,,www.walmart.com,,Y,
+,,Tamara Mckinney,d5276301-2116-427a-809f-7ecaa3597530,Laptop,Electronics,Internet Banking,-1,849.95,InvalidDate,India,New Wayne,www.ebay.com,6665778c-d140-4764-92bf-b209c3145560,N,
+,7fca161d-1d82-4113-89d6-f8fc5784f21c,,InvalidID,Shoes,Clothing,UPI,4,-78.57,InvalidDate,Canada,,www.flipkart.com,627bc06a-e511-48b9-9786-9e5b984f4e5e,Y,
+,,Paul Acosta,InvalidID,Tennis Racket,Sports,Wallet,-5,-28.99,2021-04-14 17:14:10,UK,,www.ebay.com,c77a065e-fbf6-48da-8783-86bfdcefbb26,N,
+,ec90656b-87ac-4282-842c-ed6ec0719e8d,Kathryn Brooks,InvalidID,Smartphone,Electronics,Wallet,10,897.91,InvalidDate,USA,South Aaronland,www.flipkart.com,,N,Invalid CVV
+,,Julie Hoffman,InvalidID,Smartphone,Electronics,UPI,1,197.31,InvalidDate,Canada,Andersonville,www.amazon.com,,Y,
+9ef09edc-da32-472d-beb0-2254b1162086,,,InvalidID,Ruler,Stationery,Wallet,-4,595.6,InvalidDate,India,,www.walmart.com,6b182e68-ca0a-4d8b-a2ed-e8060425c0f6,Y,
+,,Michael Green,47b9ffab-bb9a-4452-a72d-d7876c503231,Coffee Maker,Home & Kitchen,Internet Banking,-2,877.45,InvalidDate,Germany,,www.amazon.com,,N,Card expired
+,,Linda French,InvalidID,Smartphone,Electronics,UPI,-3,313.16,2022-08-10 07:04:31,Canada,,www.ebay.com,ac264392-c7a3-4d35-8d94-703835dd6606,Y,
+,2b948612-29cb-4a3f-8f31-6bc4be32195f,,InvalidID,Tablet,Electronics,Internet Banking,6,849.31,InvalidDate,UK,,www.ebay.com,2e298254-bdfc-468b-8e98-988293c87512,Y,
+17c92637-1010-4c7c-b4ba-7b3b62470a65,,,24354869-b01d-414f-8fe3-20cbed09065a,Microwave,Home & Kitchen,Card,7,930.81,2024-05-01 09:33:32,Germany,,www.ebay.com,3e2a83b9-54bc-4b67-a056-3db8c90a01ee,N,Invalid CVV
+096d9206-6c4a-4ebf-a30c-759e601b8287,65cf5541-8b22-4a2c-8ce8-30a388dd3330,Andrew Castillo,InvalidID,Shoes,Clothing,UPI,-2,802.12,InvalidDate,USA,,www.shopify.com,be6ee25c-d035-4b5d-8a76-6ec9b081e7e2,Y,
+,,,InvalidID,Air Fryer,Home & Kitchen,Wallet,-5,28.9,InvalidDate,Germany,West Mary,www.walmart.com,,N,Payment gateway error
+5ee3abe9-cb3e-468f-a208-07252ffc0ff6,,,a63a4c53-4f20-4326-b0af-3a8c2d24734f,Coffee Maker,Home & Kitchen,Card,-1,282.14,2020-06-10 10:39:22,Canada,,www.ebay.com,,N,Card expired
+,,,2654d853-82b8-43d3-b3a4-93a1542bca9d,Jacket,Clothing,Internet Banking,1,862.84,InvalidDate,Germany,North Dawntown,www.flipkart.com,,N,Card expired
+,,Lauren Perez,88b5b970-055e-40ae-85cd-879818d7e2de,Microwave,Home & Kitchen,Wallet,-2,105.89,InvalidDate,USA,,www.amazon.com,,Y,
+87421ba1-589c-4530-95b8-4b76107754f5,,Charles Schmitt,af85bac1-23f1-4ae9-b357-4cd49264866a,Socks,Clothing,Wallet,7,957.02,2023-05-07 18:57:10,Canada,,www.ebay.com,,N,Card expired
+,1cc64d20-a4ff-4584-903a-7c36ccd5019e,Douglas Pratt,InvalidID,Eraser,Stationery,Internet Banking,-1,570.81,InvalidDate,Germany,,www.ebay.com,0163d291-a005-4c18-afaa-322d2a80f17e,Y,
+,18ec4db2-f589-483e-b82d-a57fb4a70b0b,Eric Quinn,a7bb9e2e-bfeb-405b-b345-ac62d8710130,Microwave,Home & Kitchen,Wallet,4,468.89,InvalidDate,USA,East David,www.ebay.com,06d42436-f476-43bd-bf81-96993331cf4f,Y,
+4e398791-7019-444f-b8b1-a40ba489c3c1,,,09513548-38a2-41c1-b67a-9ff0d5c51675,Yoga Mat,Sports,Card,0,215.28,InvalidDate,UK,Conradstad,www.shopify.com,,N,Payment gateway error
+0c652abf-f4bf-421d-998a-30ec63baed9d,,,d33e077b-c63a-4b95-8a4f-2486d2f73091,Smartphone,Electronics,Card,10,228.74,InvalidDate,India,South Teresa,www.ebay.com,,Y,
+,,,InvalidID,Dishwasher,Home & Kitchen,Internet Banking,-3,243.16,InvalidDate,UK,West Sharon,www.ebay.com,54cc72ef-8b11-4b5c-8eff-927a1ddc2b5f,N,Invalid CVV
+,,,28d648bc-7fb4-4afe-a71e-aced3d4b4ac8,Sharpener,Stationery,Card,-5,718.44,InvalidDate,USA,Rivaschester,www.ebay.com,,Y,
+d82539b6-5d7f-4b8e-b589-471234684c8f,f02a0919-aec5-43b5-9b17-e2df7d582329,James Carpenter,913ce941-c47f-46a3-9ab5-11e22bd61c97,Socks,Clothing,Internet Banking,-1,776.46,2023-11-09 15:47:21,Germany,,www.walmart.com,,N,Card expired
+,cc516e1a-4c77-4c6a-a516-63052f16a2a1,William Blake,InvalidID,Microwave,Home & Kitchen,Internet Banking,-2,906.79,InvalidDate,Germany,,www.shopify.com,248fe22c-2014-483b-9d67-c1eb047ab4b9,Y,
+9a6341a5-22b2-4a9a-8ca6-3ae362397ed1,,,InvalidID,Laptop,Electronics,Wallet,-1,807.86,InvalidDate,USA,,www.walmart.com,b1901a22-2fe4-40ff-8ee9-e46769b4e4f0,Y,
+,f7d79119-94fb-457c-adc1-f72571455d6e,,InvalidID,Coffee Maker,Home & Kitchen,UPI,5,784.33,InvalidDate,Canada,Wendyburgh,www.flipkart.com,,Y,
+,4a29e75f-8452-4212-9002-535f8059d730,Matthew Ramirez Jr.,04ab4ba6-649b-471b-8808-1878e546b55f,Pencil,Stationery,Card,10,238.16,2020-11-21 15:46:13,Canada,,www.flipkart.com,f380de18-f773-4e92-86e1-f142931a5be1,Y,
+a4d3292d-5ff2-4c8e-8425-eff7cdbcf757,b1916bb6-c4f8-4c09-a826-8bc51fa6d9b2,,598f8f45-dad7-4f16-9018-34fb69c07494,Jeans,Clothing,Internet Banking,2,720.06,2021-02-13 02:44:52,Germany,South Richardfurt,www.walmart.com,869bc4a1-27fd-433c-858f-a5568ba5715c,N,Invalid CVV
+9d41b26d-0b28-4766-aab8-113b761912e9,,Jeremy Roberson,InvalidID,Smartphone,Electronics,Card,-1,908.55,2023-08-10 01:46:15,Germany,Larsonstad,www.ebay.com,,Y,
+5b1fb6a5-74f3-49e7-a38b-e86ec104f58a,,Todd Morales,d09770a3-efa7-4f4c-bf8c-31d251bc1127,Pencil,Stationery,Card,3,771.01,InvalidDate,Canada,,www.amazon.com,e032d5c6-aa9d-4456-b638-3778c398e960,Y,
+dcb6d135-1bc4-4fe1-89e5-a5133962236e,2c5ee931-8852-4e87-a833-6339c351d983,,8be0b823-9404-4a50-b706-10e5b3cf8022,Jacket,Clothing,Wallet,-3,254.17,InvalidDate,India,,www.ebay.com,,N,Card expired
+d3d31e36-ed74-4c5d-8e18-334412a1b22c,db2cea5f-5e4d-4e40-9ffa-685fe015d65a,Gregory Gibbs,InvalidID,Dishwasher,Home & Kitchen,Wallet,-5,316.11,InvalidDate,Germany,,www.ebay.com,,N,Payment gateway error
+66e39d6c-6d9b-44cb-a4f1-b5bc196de60d,4a67d408-595e-4787-bb23-32c655b18730,Amanda Robertson,InvalidID,Book,Stationery,Internet Banking,-2,604.47,InvalidDate,India,,www.shopify.com,832285dc-9c0c-4e99-96f1-5439dd93b104,Y,
+,,,InvalidID,Coffee Maker,Home & Kitchen,Wallet,3,687.05,2020-09-08 15:55:59,Germany,,www.flipkart.com,,Y,
+,eb434d61-4317-44dc-8d42-850ff829935e,Richard Sims,dbeb8275-10d9-4dec-8748-2527a499a1e1,Dishwasher,Home & Kitchen,Internet Banking,5,819.36,2023-03-29 11:33:37,UK,,www.walmart.com,9e29b69d-280b-41a1-9696-ad34e818063d,N,Insufficient funds
+76e80e8c-6c69-4040-8256-420a6d5173cb,,,97ececdf-37f4-4a83-9d01-de9479ab535a,Pencil,Stationery,UPI,-2,415.33,2021-08-29 17:39:54,USA,Ericborough,www.flipkart.com,fe603ed3-9555-4d80-9704-4049e4ebf545,Y,
+,f556b0a7-89b0-46b1-8b7d-89f62511fc9d,,59386379-8f1f-40aa-aaa4-442f21d2e742,Sharpener,Stationery,Card,8,306.95,2022-10-22 20:31:44,India,,www.ebay.com,9de17626-6ae5-4591-b3a1-bb1d8b452913,N,
+b018c30d-37e2-4f5a-8d78-6736b609dc70,,Shelly Shepard,InvalidID,T-Shirt,Clothing,UPI,-5,160.64,2022-10-06 11:11:36,UK,,www.walmart.com,38253615-3154-4684-afb0-e51339b5ff81,N,Payment gateway error
+,60693a50-982a-47e8-93bb-cf047cbe3f69,Timothy Estrada,InvalidID,Pencil,Stationery,Card,7,744.37,2024-07-07 13:19:47,UK,Dixonstad,www.shopify.com,ea0eed5c-7170-488f-8673-91fa8f02388f,N,Insufficient funds
+,,,b41b3086-bab3-4972-9dff-eff6d88fe88a,Football,Sports,Internet Banking,8,929.47,2023-08-26 02:34:59,Canada,New Erin,www.walmart.com,d860fa16-1765-4cc7-a8f2-9739903775c0,N,
+9eb73ac3-4bb7-4714-8d83-eb6fa3371c38,8b6979ce-5d6b-47e7-b386-1c4d79c010b0,,5846a100-e51a-41c1-9f58-b7a898c9a507,Smartphone,Electronics,Wallet,9,528.07,2023-04-02 14:52:29,UK,Port Hollyview,www.ebay.com,9d92deba-0404-4694-a667-70ddf045c04a,Y,
+,e2f620dc-626a-414e-b018-c13212aba9db,Gary Anderson,InvalidID,Laptop,Electronics,UPI,5,722.25,2022-07-23 15:22:23,Canada,West Codyville,www.ebay.com,,Y,
+,,Rachel Kirk,4e49378c-409e-4ad1-aa8d-c2271f95ef1d,Sweater,Clothing,Card,-1,822.39,InvalidDate,Germany,,www.shopify.com,254fa20a-84de-4bc0-966c-6bd1d74d49ce,N,Invalid CVV
+,,Kara Ingram,2b154580-7c1d-401c-ac74-2d8a4043ccc7,Yoga Mat,Sports,Card,10,728.16,InvalidDate,USA,,www.walmart.com,,Y,
+10461f56-2df9-4fc4-a92f-ec8747c3e9c7,,Shawn Hill,InvalidID,Book,Stationery,Internet Banking,1,149.32,InvalidDate,Canada,,www.shopify.com,5db5b23d-463a-43e9-8a21-bfb2c87c57c3,Y,
+,cc5e66ca-b75a-4fa5-91d2-8ab300a7a246,James Chavez,InvalidID,Yoga Mat,Sports,Internet Banking,2,633.18,2020-07-25 12:06:52,Canada,,www.walmart.com,,N,Invalid CVV
+,,,InvalidID,Badminton Racket,Sports,Internet Banking,5,720.2,2024-04-24 00:35:44,USA,,www.shopify.com,6ac9053c-3313-4fac-bd41-f72232050685,Y,
+,,,InvalidID,Headphones,Electronics,Internet Banking,-5,244.77,2023-07-14 06:33:05,India,South Hollyside,www.ebay.com,91bdccc1-396a-468a-a1f9-2bd2fa8cb169,N,Card expired
+59215095-e51a-403c-a3bc-ba3c49e9a657,ee4d3cd1-e298-4fa4-a559-3ccf9653cf84,,InvalidID,Dishwasher,Home & Kitchen,UPI,9,673.05,InvalidDate,Germany,Nicholsberg,www.amazon.com,,Y,
+,,,19b3a5b9-7040-493d-ac7f-d6330827c478,Tablet,Electronics,Wallet,-2,895.58,InvalidDate,USA,,www.amazon.com,,N,Payment gateway error
+,,,9379cbc7-f012-4663-9fd2-148d86f2c931,Basketball,Sports,Internet Banking,8,885.73,2022-04-15 17:04:34,USA,,www.flipkart.com,,Y,
+,711cf2ad-fe44-4c92-9e9b-ebea78a00268,Christopher Rice,InvalidID,Football,Sports,Internet Banking,9,-27.72,InvalidDate,UK,,www.shopify.com,cbcb86b4-0e39-427c-b427-6ac9d32b3a70,N,Insufficient funds
+68a34dd7-3861-4325-8131-9f1977e41195,13af5e2a-6be8-4100-90fe-e163caa9e882,Jennifer Stone,InvalidID,Microwave,Home & Kitchen,Card,7,284.37,InvalidDate,Canada,Lake Jimmy,www.ebay.com,48cf8c48-7eab-4df1-aec2-4aa95684c0ef,Y,
+1bb56bb8-eefc-4e78-b805-c39e3bc0c910,,Julia Hicks,InvalidID,Pen,Stationery,Wallet,-2,18.11,2023-05-27 21:43:41,USA,,www.flipkart.com,,N,Card expired
+f7e55e62-e5e4-4bf8-b88b-f5355d1301fd,,,InvalidID,Sweater,Clothing,Internet Banking,6,184.84,InvalidDate,USA,,www.amazon.com,b5ac1cce-ca2d-4800-a824-c583d7166dd9,Y,
+85ea89a3-846b-4288-b53b-2edf54a67a1a,3817e9a3-fee4-4ac3-a382-7993fea4529d,,InvalidID,Toaster,Home & Kitchen,UPI,-1,706.11,InvalidDate,Germany,Tylerport,www.ebay.com,c3b010ec-1a40-4f7b-a20f-6166d6a6dce2,N,Insufficient funds
+,76c1d0fc-3dbf-4866-9608-d347bb79d798,David Glover,0bf4e4c0-85dc-4442-94a8-93d760c4b12d,Sweater,Clothing,Card,2,277.14,2022-11-02 14:58:46,Canada,,www.amazon.com,7167e485-0951-43ad-8c95-3f856aae6706,N,Insufficient funds
+a367c16c-29ed-46d6-995e-9f1b5c736332,,Michelle Anderson,InvalidID,Cricket Bat,Sports,Card,9,610.14,InvalidDate,USA,,www.ebay.com,8cdd0452-0877-4274-95fc-5cf482f0b575,N,Card expired
+,,,InvalidID,Socks,Clothing,Wallet,3,879.86,InvalidDate,UK,,www.shopify.com,,Y,
+,,,e3097e90-3fab-4109-a364-dd930986a68b,Jeans,Clothing,UPI,-3,-56.59,InvalidDate,Canada,,www.flipkart.com,712ee2bf-7c64-44ba-b577-299caac0ccdd,N,
+,a7ed4085-6c88-4e13-af7b-5af05f017d75,,272b0b50-5a03-4a8b-9b5c-6a8c94801c64,Sweater,Clothing,Internet Banking,5,155.63,2023-10-21 15:54:03,Germany,,www.shopify.com,,N,
+e88b3b6d-d41a-422a-977c-c2505b4c2d65,d53bd9f6-d2df-4986-862e-ba034bbddca7,,3c964ed6-4152-4ed1-88c6-08552af4cba7,Microwave,Home & Kitchen,UPI,-3,-93.69,InvalidDate,Canada,,www.walmart.com,,N,
+6b1727e7-d6a3-4c81-9fa9-060cea9ffd08,,Karen Stevens,789dcbd7-60b9-4549-9e15-681f3ce374fa,T-Shirt,Clothing,Card,-3,967.35,2024-01-11 05:53:17,India,Knightmouth,www.flipkart.com,84aeff1f-d75e-4aa8-b91b-bb1ac5e30e9f,N,Card expired
+5d53df0c-03f6-47b9-a670-f6bfb2da94df,,Patricia Gonzales,InvalidID,Headphones,Electronics,Wallet,4,581.53,2022-04-10 19:56:28,UK,Sandersborough,www.amazon.com,,Y,
+,,,d0a8c167-6992-4c20-9ea8-6ef24e4614ea,Jeans,Clothing,Internet Banking,10,629.93,InvalidDate,USA,Lake Robertborough,www.ebay.com,,Y,
+,,,InvalidID,Eraser,Stationery,UPI,4,677.32,2023-01-08 18:07:08,UK,,www.ebay.com,,N,Card expired
+9953a584-9696-4c1c-91c5-6df6d72a452d,6a9240f9-0aba-463b-bc75-8515aff9371d,,InvalidID,Smartwatch,Electronics,Internet Banking,3,-54.54,InvalidDate,UK,West Tiffanyview,www.flipkart.com,d8160828-ed36-4b63-b558-15aaf7b8eae9,Y,
+29c9b0d8-d35e-46f9-8ab6-f68c37a1860b,213c3b21-3668-4071-aae6-19e0eeadb03c,Jennifer Jackson,InvalidID,Blender,Home & Kitchen,UPI,3,146.71,InvalidDate,UK,,www.flipkart.com,f57bece0-1d06-4901-8c44-fe314ad4d4b3,N,Insufficient funds
+,,Wendy Harrison,InvalidID,Badminton Racket,Sports,UPI,-3,207.42,2022-04-17 18:36:31,UK,East Katie,www.walmart.com,ab666991-1285-4e87-9dee-46944f3fa812,Y,
+,,,InvalidID,Camera,Electronics,Wallet,5,469.25,InvalidDate,Canada,,www.flipkart.com,c4030b16-d8d8-4120-854d-d30e475dd9a3,Y,
+4e00b7f3-c4fd-4e50-b3ec-a5f33d705f52,b19736cf-0394-45b8-aa61-cf9911c21c38,Daniel Solomon,335cb567-1778-433c-87fa-878df3291628,T-Shirt,Clothing,Card,3,134.46,InvalidDate,USA,Caitlinbury,www.amazon.com,52c3d654-432a-4c2b-81a3-15a0f5af3f98,Y,
+7b340465-1bf3-4330-814e-4fea8c7e61a1,5a2ed1ea-68b9-43b5-93df-e7c3059606bb,Emily Sharp,57ad6387-2fe3-479e-88ce-5b19676e4a08,Sweater,Clothing,Card,8,554.09,2021-07-02 22:44:52,USA,,www.walmart.com,,N,Invalid CVV
+,,,2324e796-1f58-4445-90a6-957ace3379cb,Toaster,Home & Kitchen,UPI,10,513.09,InvalidDate,UK,,www.shopify.com,,Y,
+,,,InvalidID,T-Shirt,Clothing,Internet Banking,0,-86.69,InvalidDate,India,Port Alison,www.amazon.com,691ab69c-5f24-4968-bcc7-88209956545d,N,Payment gateway error
+4417dfaa-69cf-4936-8585-c03bf6e65b5b,28ed9e4a-b2aa-4c88-9350-1d4db7f201e4,Marc Chapman,InvalidID,Dishwasher,Home & Kitchen,UPI,5,465.19,InvalidDate,USA,Woodston,www.ebay.com,,N,Invalid CVV
+e78e72f2-6c9e-434e-9306-7a9952569327,d45890f9-28bf-47e9-84a0-0b98e0abfebc,Brandon Bernard,InvalidID,Cricket Bat,Sports,Internet Banking,-4,-95.28,2021-06-24 02:02:34,India,Susanport,www.flipkart.com,58cb8706-38eb-491c-9c92-9093caa70d4e,Y,
+,1dac27f9-8fba-4da4-9819-d6b9c40e35a7,James Nicholson,InvalidID,Pen,Stationery,Card,10,-76.33,InvalidDate,USA,Stephanietown,www.shopify.com,,N,Insufficient funds
+f3e23074-3e80-4fbc-80a8-481c5324895e,c750ab6c-db06-43f0-8202-19105ab7d512,Brianna Glenn,InvalidID,Microwave,Home & Kitchen,UPI,6,108.8,InvalidDate,Germany,Josephborough,www.amazon.com,,N,Card expired
+,5ea7dd3c-e337-4a92-bc09-ed4d69dd866f,,3b07b7b8-be34-4ac7-9d88-161b31a47718,Eraser,Stationery,UPI,-2,662.17,InvalidDate,Germany,,www.ebay.com,8eea67da-6adb-4534-b27f-f4489db05815,N,Insufficient funds
+3e0c17a7-31ec-40fb-b70c-02720bd7d846,,,InvalidID,Tennis Racket,Sports,Wallet,7,273.52,InvalidDate,India,Williamsville,www.amazon.com,f7a7eed6-c278-45f3-916f-67e07a66ec0c,Y,
+,0524450f-1476-4a6a-8fe8-1f5b787a2b30,Austin Francis,InvalidID,Pencil,Stationery,UPI,2,464.34,InvalidDate,Canada,,www.ebay.com,,Y,
+,,Lisa Richards,7144326b-2aa3-4faf-b0a7-95f3602914f1,Tennis Racket,Sports,Card,4,806.21,InvalidDate,Canada,South Eric,www.shopify.com,,N,Payment gateway error
+,,Brandon Kelly,InvalidID,Microwave,Home & Kitchen,Wallet,10,947.68,InvalidDate,Canada,,www.amazon.com,,Y,
+70097f09-4002-47dd-8e8d-758bdc8904b9,,Edward Reed,06346e4d-0f74-4be0-af10-9f2c29014c8f,Cricket Bat,Sports,Wallet,-3,-65.31,InvalidDate,UK,,www.flipkart.com,eef23721-875e-4a85-ba0b-a9ce87c7c98a,N,
+43cb2885-234b-4e34-b5f8-d648a96b531d,,Michael Gomez,InvalidID,Tennis Racket,Sports,Card,-1,-47.89,InvalidDate,USA,,www.flipkart.com,,Y,
+e60a35af-2ed6-4d7f-91b9-7d5e57472063,,Matthew Stevens,a1c77444-087a-4f29-816a-bb81a8d6d706,Laptop,Electronics,Internet Banking,4,997.14,InvalidDate,USA,Fishershire,www.amazon.com,2b900455-520b-48a0-8053-707a029d40ba,Y,
+,21a13e0b-3613-4646-b11d-4b0fbd347681,Jennifer Allen,InvalidID,Jeans,Clothing,Card,-3,171.19,2020-03-29 10:19:46,Canada,Lake Gabriela,www.ebay.com,,Y,
+83587536-41d3-4c64-aab4-aab7b0e3a0a5,a3772ce5-0412-4bf5-9ea5-5bd400c599f4,Meagan White,InvalidID,Toaster,Home & Kitchen,Card,3,613.21,InvalidDate,Canada,Grahamside,www.ebay.com,24e0d383-24c7-47be-8f4c-bb080cb25cb9,Y,
+aa7f146f-0ff8-4e26-b26f-07bc27014aef,63866788-af69-4357-96aa-9ec5736c34ae,Jeanne Weaver,InvalidID,Yoga Mat,Sports,Internet Banking,-4,-56.15,InvalidDate,USA,New Laurieton,www.shopify.com,,N,Invalid CVV
+,46e5eb37-acca-4cc9-887e-2492931b7ebf,Timothy Perez,6878e3a3-40fc-4819-8993-1c0e6f7c1846,Headphones,Electronics,Internet Banking,2,692.63,InvalidDate,India,Mitchellstad,www.shopify.com,,N,Payment gateway error
+,,Dylan Rowe,cf6618ce-d93a-4050-bb4f-88f14141b5e8,Pen,Stationery,Card,7,737.86,2023-12-10 20:27:12,UK,New Pamelaport,www.flipkart.com,,N,
+35f8681d-04ca-4f71-a800-738a00d43483,,Eric Romero,a15df03a-bbf7-4cf4-bc24-8fd6605a94fe,Camera,Electronics,Card,-5,187.72,InvalidDate,Germany,South Allison,www.flipkart.com,,Y,
+,d79b4a46-7d71-4113-ba3f-5b14456882ff,,InvalidID,Tablet,Electronics,Internet Banking,-5,853.49,InvalidDate,India,,www.amazon.com,5a8673c4-fb86-466b-8614-98c3a79ff609,N,
+a6647137-124d-472b-b425-9fd3f3c7a4a5,6ee7f19c-7a6d-4ac1-aa3f-d22c5b5760b9,,InvalidID,Jacket,Clothing,UPI,-5,925.26,InvalidDate,India,Elizabethchester,www.ebay.com,,Y,
+,,Michael Torres,InvalidID,T-Shirt,Clothing,Wallet,9,-93.67,2021-01-18 03:42:11,USA,South Matthew,www.ebay.com,,N,
+8da81eac-f7ec-4aa9-99a6-542656e29ab7,,Edward Smith,621535bf-2b97-4c13-9bfb-b4bcb42c7896,Notebook,Stationery,UPI,-4,476.41,InvalidDate,Canada,,www.amazon.com,b4471a43-c2da-48b4-b6d2-dc9a738266a3,N,Insufficient funds
+,21cdc23b-b8cd-4e3f-92c1-ddd54e907ad2,,InvalidID,Toaster,Home & Kitchen,Wallet,9,148.44,InvalidDate,Germany,Rebeccaport,www.shopify.com,85577d64-e8fa-4ef3-9bc5-fc2e597b879f,N,Card expired
+,bc431c5e-a3d1-48b6-9c95-157b2429b4aa,Heidi Bryan,8a1c44ae-44a0-4014-88a1-872062267040,Pen,Stationery,Internet Banking,6,171.91,InvalidDate,Germany,South Larryburgh,www.walmart.com,0a9333c3-a038-4291-83fa-8fae9c5c9131,Y,
+,365d898b-9a60-4e3f-aaae-b52f800d1635,Ronald Turner,7b40e0df-deff-4823-8248-a912164cb34a,Air Fryer,Home & Kitchen,Wallet,3,788.11,InvalidDate,Canada,,www.shopify.com,,N,
+0b6b2035-ce23-42f9-b843-0c041ee54ab5,,,dbdec730-61cf-4b5a-85b4-bf1a9ff3d5a1,Headphones,Electronics,Card,-3,551.17,2021-06-10 18:35:51,Germany,,www.amazon.com,,N,Card expired
+,,,InvalidID,Ruler,Stationery,Card,5,183.23,InvalidDate,USA,,www.ebay.com,,Y,
+3a7fa8db-83d2-4d13-8332-e20cd562b708,4d8c36c0-833a-4754-9618-a874c18baadb,,8c0bbbad-fd6b-48ea-8f1a-7c31c6abda0f,Book,Stationery,Wallet,1,-80.47,2023-02-09 01:47:03,Canada,,www.amazon.com,5366b470-eff7-4602-92c6-db46f664fdb0,N,Card expired
+04256b9b-cf4c-4986-9afc-ffe963c40158,,Eric Gutierrez,InvalidID,Cricket Bat,Sports,Wallet,-5,56.05,2023-10-19 04:23:46,UK,New Lauren,www.ebay.com,,N,Card expired
+595fb709-8cea-48d1-9f7f-cffa3624b312,854b9423-5e29-4e3a-bad5-2289c39b8fa5,Charles Gilmore,38229f0f-8dab-4d5c-aa85-983a5cef162c,Yoga Mat,Sports,Wallet,0,823.41,InvalidDate,Germany,,www.amazon.com,,Y,
+,be9de011-40ab-4b31-9600-722549fe783c,Sara Johnson,19b3b3c0-aae9-4e09-bc06-ac683c765096,Smartphone,Electronics,Internet Banking,-1,378.23,2022-01-22 02:39:19,UK,,www.flipkart.com,b3467284-608b-4546-bf0f-c6e6adf02794,Y,
+,a64e6ac1-482b-4fdb-81ce-d2a23ae98fe8,,InvalidID,Football,Sports,Wallet,4,936.43,InvalidDate,Canada,Marcustown,www.flipkart.com,,N,Payment gateway error
+47757d38-0b41-4dc1-94d4-b6e881b9ed0d,fa8f172a-8fbb-498c-bde6-c2bf5dd1a61a,,InvalidID,Cricket Bat,Sports,Internet Banking,1,443.44,InvalidDate,Canada,North Jonathanbury,www.ebay.com,95d58f46-d734-465f-9d5d-3b2c3841f87b,N,Payment gateway error
+,bf355363-0414-48b4-a052-1cec13eee4c5,,InvalidID,Tennis Racket,Sports,Card,-4,359.63,2024-07-09 19:35:08,Canada,Port Jordanfort,www.walmart.com,10ce846f-8544-43bc-850c-09b34cf19bb8,N,Payment gateway error
+c4b08468-f70b-426e-b268-04297dc1c3eb,,Rebecca Faulkner,ff382d00-d012-4148-8857-ce5b4952b57c,Pen,Stationery,Wallet,-4,258.67,2023-12-12 02:39:54,Canada,South Mary,www.amazon.com,a86e0307-597b-46b5-80aa-87405c584cc7,Y,
+ac10d7a7-80a7-4d9f-ba0c-0c7dc8f9b3ee,723d9f0e-9f8c-43f5-8a6c-5036c287e8f6,,InvalidID,Laptop,Electronics,Internet Banking,9,406.22,2023-08-05 00:21:39,Germany,,www.walmart.com,,N,Card expired
+1e7ad3e4-59ea-47df-b30c-52653b4d14fa,f8e919e6-b41d-4135-8a8a-742384739a38,Erin Hall,InvalidID,Tablet,Electronics,Wallet,-5,853.79,InvalidDate,USA,,www.shopify.com,,Y,
+e60a616b-0951-4c26-8098-64cd04341658,,Larry Curtis,da339fe1-521c-4b4e-b071-f059d4b24781,T-Shirt,Clothing,Card,-1,558.62,InvalidDate,UK,North Mikeside,www.walmart.com,,N,Payment gateway error
+,29e48beb-061a-40c3-95ce-addbae4f2f57,Carlos Stewart,InvalidID,Blender,Home & Kitchen,Card,-1,286.23,InvalidDate,Canada,Jamesbury,www.ebay.com,22107a9a-13ca-451c-84c4-1a9ef76dc5f5,N,Payment gateway error
+,,Nicole Conway,8db9ff04-b069-4675-ac26-dc5ed4f00922,Tablet,Electronics,Internet Banking,6,160.33,InvalidDate,Germany,Melindaport,www.flipkart.com,,Y,
+9f89835c-81ee-4c8a-bce3-a8d1b41fae2d,f139cc34-afec-415e-aa4a-e37e194bd501,,InvalidID,Headphones,Electronics,Card,5,447.8,2023-07-21 08:24:48,UK,,www.walmart.com,,N,Insufficient funds
+,,,InvalidID,Cricket Bat,Sports,Wallet,0,485.25,2021-11-30 23:28:42,USA,,www.walmart.com,,Y,
+a905f38c-a997-4e4a-a910-b156e0d4908c,,,InvalidID,Shoes,Clothing,UPI,0,958.0,2020-10-29 23:09:12,UK,,www.flipkart.com,22badc32-758e-4065-9b7a-340879f790ec,N,Payment gateway error
+622c4d28-85ae-4343-b842-e5af8f227714,8912876f-79b8-4427-82e9-f4a435c96265,,InvalidID,Laptop,Electronics,Wallet,1,38.89,2020-07-03 16:24:02,India,Josephfurt,www.ebay.com,,Y,
+55de01d0-6052-4067-9e97-dfbb7b5e9f07,,Lee Cooper,efca1819-6d4e-4701-8b6d-cd319041aa5e,Sweater,Clothing,UPI,-2,738.25,2024-03-22 06:00:17,USA,Williamsmouth,www.amazon.com,76b5aa40-a7ff-46d9-9a6a-2ccb2ff06559,Y,
+,,,794fce9b-28f5-4dd2-8775-e0479e3d4a35,Socks,Clothing,Wallet,7,834.44,InvalidDate,Canada,,www.ebay.com,,N,Invalid CVV
+,,,InvalidID,Microwave,Home & Kitchen,Card,-5,466.15,2020-09-02 16:50:03,UK,East Faith,www.amazon.com,b218b0f3-91a6-4ab9-95b1-f28e5140a3d3,Y,
+,021a824b-5536-4e9a-ad9f-ba6629b72fee,,dd5f3c8b-dd79-4f63-8871-b94deff9e9f3,Football,Sports,Internet Banking,2,952.21,2024-08-23 15:01:08,UK,North Andreaton,www.walmart.com,,N,Card expired
+b5406f42-cdf6-4721-a876-5d8a63a9ceff,2f9275da-b0f4-4cb2-bcb9-18c8f176b43c,,InvalidID,Yoga Mat,Sports,Card,-2,293.47,InvalidDate,Canada,,www.walmart.com,4c929051-ab53-455a-90b9-b6b3d9f3bcd8,Y,
+d8121c4a-1636-4f69-8c19-57b192790416,,,cd18a247-fe8c-472a-9d27-9ee3cb2eb113,Badminton Racket,Sports,Card,9,347.24,InvalidDate,India,Vincenthaven,www.shopify.com,250cc9d2-af99-41f2-b689-054e47c64c65,N,Invalid CVV
+,,,90777d19-71d3-4a3f-b3c4-6b35749a6475,Basketball,Sports,Card,-2,123.29,InvalidDate,Germany,New Julieland,www.shopify.com,d06171b5-9785-4a78-815d-185994d0a5ae,Y,
+3388e655-6ae5-4504-9939-8ac1bd054941,c87b5189-c433-4be1-89ec-a3f254695aa0,Darrell Simon,424c0f89-9633-4080-8772-c06c13058cca,Ruler,Stationery,Card,9,102.67,InvalidDate,Germany,South Jesseshire,www.flipkart.com,90744c06-1bd9-453d-9b5f-a92bffde9327,Y,
+,0182fd65-17d0-4776-a957-1cec17e66ebc,,829a1c06-5d92-4b6e-b4dd-d82d48170e05,Ruler,Stationery,Wallet,3,149.94,InvalidDate,India,,www.flipkart.com,23f1e3d5-3580-49ef-9953-0e2448370534,Y,
+b90b435e-a049-4ca5-9a10-5763af360b90,,Jason Phillips,ca9674e5-e69e-4c4a-a1b5-e397a0819dba,Pen,Stationery,Internet Banking,7,525.69,2020-03-07 08:46:23,Canada,South Brendaport,www.amazon.com,9c73a903-ecb2-4507-a9a1-253fefba3f9c,Y,
+0e3ccc35-219f-477f-9064-c98095fad2e2,,,a30f52d1-e050-408a-a661-54f884705da9,Sweater,Clothing,Internet Banking,-4,828.41,2023-05-23 16:24:31,USA,New Russell,www.shopify.com,,N,
+,25c7e846-8070-4d7d-be19-85557db792ef,,InvalidID,Book,Stationery,UPI,-2,451.47,InvalidDate,Germany,Jamesmouth,www.amazon.com,,N,Invalid CVV
+b4c0ab47-4a0a-443b-b239-afb80bf15f43,,,InvalidID,Smartwatch,Electronics,Internet Banking,7,772.42,InvalidDate,Canada,North Danny,www.amazon.com,64b0f70c-7847-4229-a42d-3afb3f4e3be4,Y,
+5675bd99-6c3a-4757-a127-9000d54a243c,,,91496183-6c79-410b-acc0-116aceaf846d,Smartphone,Electronics,Internet Banking,-3,17.38,2021-12-14 02:26:51,India,East Kiara,www.walmart.com,cc69409d-b06e-4225-8d98-8e9c7fd9a01f,N,Insufficient funds
+664b9055-54f6-4514-8047-f4e7a0298632,,Christina Johnson,69da51f5-cc2b-4ef2-90cc-dede7ee14366,Book,Stationery,Wallet,-3,557.39,2020-03-09 09:12:50,USA,Lindseyton,www.shopify.com,c4073afc-dd7a-43ff-a778-85d760adaed5,Y,
+,e21a08ed-b324-4f6e-b70f-9ad5bca7c92d,,InvalidID,Coffee Maker,Home & Kitchen,Wallet,-2,-42.61,InvalidDate,USA,,www.amazon.com,,N,Card expired
+0e3be91d-9405-4832-bf73-63d42cda0258,,April Garcia,InvalidID,Pencil,Stationery,Card,7,971.65,2022-04-14 05:12:31,Canada,East Sara,www.walmart.com,,Y,
+,8463c94b-1d88-4a71-adaa-b5c316ca1310,,InvalidID,Football,Sports,UPI,-1,702.96,InvalidDate,Germany,Lake Andrea,www.walmart.com,d1f45a87-4599-42b9-9227-db5288104650,Y,
+62a5609a-a41a-4601-be2b-da64241ea71b,b3d0ddf1-3363-4b3b-8de2-3cb8b6c14548,,InvalidID,Microwave,Home & Kitchen,Card,2,638.66,2023-12-19 06:20:35,Canada,,www.walmart.com,0556bebd-e46c-47d7-b5c4-4be342e15c27,N,Card expired
+,,Katherine Wood,InvalidID,Microwave,Home & Kitchen,UPI,2,936.66,2022-09-28 07:43:34,Canada,,www.walmart.com,,Y,
+fddaef5f-3d11-47a1-a8f0-c5c1d8d27111,82462bb2-31a9-41dd-ba6f-9c2384bf6743,Lee White,2d62b47f-12d5-456f-98c3-da974af11f58,Coffee Maker,Home & Kitchen,Card,9,490.75,2020-10-18 17:35:03,Germany,Coxland,www.walmart.com,,Y,
+,,Stephen Jacobson,InvalidID,Ruler,Stationery,Internet Banking,-2,39.21,2021-05-29 21:22:09,India,Steventown,www.amazon.com,,Y,
+9d7f77e5-584d-457a-b42e-a866b167eb50,23d44483-45fa-454c-955b-36fc81344660,,1cf19138-5bd8-498a-990c-c09459562787,Pencil,Stationery,Card,5,293.74,InvalidDate,Germany,,www.amazon.com,,N,Payment gateway error
+,,Brandon Avery,InvalidID,Basketball,Sports,Internet Banking,6,512.86,InvalidDate,Canada,Johnstad,www.ebay.com,854ce67b-87d2-4126-a20b-88bc4f58f0b0,N,Card expired
+53891609-9090-44ce-85dd-788292733aa3,,Jeffrey Morrison,InvalidID,Notebook,Stationery,Card,0,592.68,InvalidDate,UK,,www.flipkart.com,14350e13-7622-42c4-9779-8f68adcc712a,Y,
+,e58d7ea3-3609-4305-91c5-4c8c7aaec0d2,,6adfba33-e90e-4785-a180-0a303c2d6649,T-Shirt,Clothing,Internet Banking,2,925.34,2024-03-28 18:06:49,Germany,Arnoldborough,www.flipkart.com,,N,Insufficient funds
+,,,InvalidID,Headphones,Electronics,Wallet,0,783.45,InvalidDate,Canada,,www.flipkart.com,bfae8865-4318-404e-b114-108a543a6f19,N,Card expired
+,75c86e88-420b-479d-852b-6206949eceeb,,InvalidID,Notebook,Stationery,Card,-4,155.91,2021-05-07 14:36:22,UK,East Nicholasstad,www.flipkart.com,cb8e8591-0cad-40de-b886-9afd7ad22410,Y,
+323c7556-f91f-41e6-8630-62f89fc602a0,53df4d59-2cfc-4420-a025-e473942dee21,,1667d5e9-abb9-4956-a3f4-3fcbea3b7856,Socks,Clothing,Card,1,566.96,2023-06-30 17:54:45,UK,Fowlerside,www.amazon.com,b9224c8f-7652-4bc7-937a-8952a29a9f2a,Y,
+51751220-4032-49cb-bd91-d8f91d071042,,,InvalidID,Basketball,Sports,Wallet,9,636.94,InvalidDate,Canada,,www.shopify.com,,N,
+,da90d988-b457-445c-8e94-aceeab551fb2,,InvalidID,Football,Sports,Internet Banking,10,947.08,InvalidDate,USA,Lake Denise,www.amazon.com,76228c1d-62ce-4d30-8650-fa441cb71690,N,Insufficient funds
+fd382a01-c36b-41e8-98f3-32af838d7869,,Beth Garcia,d8dc748c-50a2-4e84-a185-dcffe4904176,Cricket Bat,Sports,Wallet,-2,894.64,2021-10-17 03:07:12,USA,Joshuafort,www.shopify.com,,Y,
+,49ade092-8d0b-43b2-acbc-d83d08775280,Victoria Neal,InvalidID,Smartwatch,Electronics,Card,3,601.23,2024-09-03 07:32:22,USA,,www.flipkart.com,939e5874-6129-4968-955a-ceabd85ecaae,N,
+06a3ab0f-40ae-42e1-96f2-35fefd607af3,,,e16abf5e-afc2-4af8-bc33-2b4501f8f8a6,Air Fryer,Home & Kitchen,Card,7,616.88,2020-11-30 07:52:38,India,Lake Austin,www.flipkart.com,6d582f2f-6454-4424-a564-0f9873218d71,Y,
+,be080375-490b-4660-8aac-e7ef96b019fd,,InvalidID,Blender,Home & Kitchen,Card,5,818.11,2021-05-12 10:29:25,Germany,,www.walmart.com,,Y,
+,,,InvalidID,Pen,Stationery,Internet Banking,1,821.81,2021-06-20 05:55:02,UK,,www.amazon.com,b2bba9bd-1e73-428c-9356-51db31698a8d,N,
+,c233dd12-f92c-4af8-b134-293c57ffbfd5,,c6deeef8-a98d-47ba-a1b8-14ef158723f9,Tablet,Electronics,Wallet,-3,148.06,2022-07-08 17:31:36,Germany,,www.walmart.com,088bcb87-a4e1-4be7-a9fc-7f3ea01395b8,Y,
+,c97eb964-8ff1-4b5f-9652-58b6608bcc57,,InvalidID,Coffee Maker,Home & Kitchen,Card,5,967.8,2021-08-21 10:26:45,Germany,Lake Thomas,www.shopify.com,,N,Invalid CVV
+,3245ac45-0db4-43ae-85b0-ccae0f6193f1,Belinda Wilson,InvalidID,Yoga Mat,Sports,UPI,-5,590.07,2023-01-03 16:57:56,USA,Sandersberg,www.shopify.com,,N,Insufficient funds
+,,,fa946da3-26a2-4899-a6f6-afefcfb2ff8a,Blender,Home & Kitchen,Internet Banking,3,858.97,2022-06-15 15:23:52,India,,www.flipkart.com,ac9039e3-9b46-462c-9577-906b45b8c027,N,
+38a2303c-9064-4c45-b573-7fcaeb68ecc6,,Erin Elliott,4c41e33f-c042-4fd7-ab7f-14938b7276a2,Yoga Mat,Sports,Wallet,-4,254.89,InvalidDate,India,,www.shopify.com,a2a1c4f2-751a-4de7-93d0-c8f53ba0a415,Y,
+,8c2edd1a-f275-4dd7-9489-a96d5fe7291e,Julia Soto,InvalidID,Football,Sports,Internet Banking,2,291.47,InvalidDate,Germany,,www.ebay.com,,N,
+33144289-58a1-4333-9cb1-2e744c0f60fb,98bb2076-38de-4f7f-8a8f-6b149f48dcee,,4c86b98a-6c04-49a1-a55c-72dbc58e6c60,Toaster,Home & Kitchen,Card,-2,730.68,InvalidDate,India,,www.amazon.com,298adbb4-3a97-4d0b-9f9f-39c4ea1e938c,N,Payment gateway error
+ece7ea5c-3dc5-42c3-935b-e2f9c6c65652,caf8a775-8e20-438c-b20c-cbf4e9b1c55c,,InvalidID,Toaster,Home & Kitchen,UPI,-3,190.58,2021-11-08 07:00:31,UK,,www.flipkart.com,,N,Invalid CVV
+,46830b32-cce5-460b-9f28-eb1d6a475370,,InvalidID,Smartphone,Electronics,Wallet,1,-10.71,InvalidDate,Germany,New Colleenstad,www.ebay.com,035774d7-3de0-4093-983c-ef7b442e3de2,Y,
+a050ff06-8c22-4e1a-8e43-a401e5b0e0e8,,,433fca9b-abdb-45a7-bae4-8516b8c7d254,Notebook,Stationery,Internet Banking,4,83.8,InvalidDate,Germany,,www.amazon.com,,N,Card expired
+,210f2848-7948-481e-a0ba-1018353dbed1,,1c8a1fd1-c2c7-4c19-af3b-625d2b5b809e,Coffee Maker,Home & Kitchen,Wallet,2,860.45,2021-02-14 14:29:36,USA,,www.flipkart.com,,N,Card expired
+5b4984d5-26ab-459e-802b-36c4bffc8370,,Jermaine Sanchez,InvalidID,Football,Sports,UPI,10,863.77,InvalidDate,USA,,www.shopify.com,c57aa0ba-a7bb-4c50-aaf3-0c236ba290af,N,Card expired
+5b196143-ff23-4ed0-82fa-3db663550425,ea2d5758-c039-43dd-8a01-5e9c7815bacb,Christie Williams,InvalidID,Air Fryer,Home & Kitchen,Wallet,2,661.98,InvalidDate,UK,Dorothymouth,www.walmart.com,,N,Card expired
+449a2614-61b2-4a34-a886-ddb83a0a69ac,,Christopher Johnson,59f040a2-fb71-4230-a312-4da544998712,Cricket Bat,Sports,UPI,9,424.83,2021-12-23 14:15:12,Canada,,www.shopify.com,,N,
+15c7d1d8-85fc-4149-9661-8cd8832b6570,227b39b4-d632-4484-aefa-b1bf11c87a46,Krystal Patel,2456247c-4080-4638-aa5b-65d23d585c08,Pencil,Stationery,UPI,-4,254.11,InvalidDate,USA,Port Jenniferville,www.walmart.com,b9f4ba8d-a7fc-456b-a2c6-18a3abf53bd0,Y,
+,89a75587-2629-4f8a-8aa6-75b1d23a1f35,,8d9cff9d-2d9b-426b-90ec-ccc220ff1298,Camera,Electronics,UPI,4,910.33,2021-05-17 05:52:42,Germany,,www.amazon.com,e83699d9-eebd-446d-b627-29b41ef0714c,N,Invalid CVV
+4be65b1e-d96d-429a-930f-c2999b09ae01,99426862-be06-495c-8108-e26fadcaf623,Robert Aguilar,InvalidID,Jeans,Clothing,Wallet,-1,985.55,InvalidDate,USA,,www.walmart.com,02c8d0d7-746f-4899-b0a3-c3dda4e7e49d,N,
+,506f5101-8996-416c-98d4-935a1b891f3b,,InvalidID,Dishwasher,Home & Kitchen,UPI,-1,462.11,InvalidDate,Germany,Justinmouth,www.flipkart.com,99a7f8a3-4951-4c73-bf4f-fbefd6d90b53,N,Insufficient funds
+c2323c0f-7da4-49e4-9343-ab32144e3877,,Jennifer Mills,InvalidID,Coffee Maker,Home & Kitchen,UPI,-4,430.67,2021-03-02 01:11:13,Germany,,www.amazon.com,,N,
+8237446b-e6f8-4f97-a42a-989867bbd1a9,ed722d5e-c5cc-4ffa-a975-92ba0c0176db,,InvalidID,Coffee Maker,Home & Kitchen,UPI,2,942.51,InvalidDate,Canada,,www.walmart.com,1baf91fc-aa1c-4347-ad38-13c060bc3f90,N,
+5ac7627e-7046-40b0-bf0b-c54fdd27ae70,,,c6896f3b-e3ba-4cbf-97bf-2071c6f2d5ec,Shoes,Clothing,Wallet,6,22.22,InvalidDate,USA,,www.shopify.com,,N,Invalid CVV
+,11c1233a-0eb0-40dc-8203-55236553f739,Sean Walker,96956420-28ad-404f-9c10-f631a145c830,Pen,Stationery,Internet Banking,8,44.4,InvalidDate,India,,www.shopify.com,04a62dee-17b1-45f5-b87b-c64f15695e9d,N,Invalid CVV
+,89e87de1-c3af-4a85-a038-7c65fa443f72,,InvalidID,Smartwatch,Electronics,Internet Banking,-2,750.92,InvalidDate,UK,Lake Dan,www.ebay.com,01d90294-3901-456a-83e2-2f60c61f7102,N,Insufficient funds
+e8cbfacc-8b25-46ed-aff1-fc25c648db5c,,,8f571b74-fbf2-4125-bd60-16c90e9fb944,Sweater,Clothing,Wallet,1,-35.26,InvalidDate,India,,www.ebay.com,afbbc66b-2c88-4dcd-9217-fe0d88295bc1,N,Card expired
+481092a0-6898-4575-a7a6-23f793d7acd4,907e28d7-60f5-44c7-a8c3-f88331bcdbb7,Adam Maldonado,InvalidID,Laptop,Electronics,UPI,0,764.98,2023-12-30 22:55:16,Canada,,www.shopify.com,7c4fc909-7d99-4e9a-be23-65c96ba94bf3,N,Insufficient funds
+5e2b0062-3272-4c3b-a020-dc83b677bd8e,3fd9ab5d-e228-4319-be19-53a3f9a58df2,Paul Garrett,234d0557-4adc-49da-973e-ea42907c0d68,T-Shirt,Clothing,Internet Banking,5,822.49,2024-01-16 06:10:18,Canada,Hannahfort,www.flipkart.com,738b838c-47ab-4116-ad87-68b4cf1a3487,N,Insufficient funds
+,,Tina Rich,InvalidID,Notebook,Stationery,UPI,5,89.69,InvalidDate,USA,,www.shopify.com,74e330fd-a8b3-424e-9217-0a900c9d77e8,N,Invalid CVV
+,,,InvalidID,Jeans,Clothing,Wallet,3,327.68,InvalidDate,USA,Loristad,www.flipkart.com,dcad4840-bb18-4326-9d5c-f798fbb87953,N,Insufficient funds
+,,Mr. Robert Cole,cf3c114a-1ccb-43d4-9f22-b5c7cb519693,Sharpener,Stationery,UPI,9,970.6,InvalidDate,UK,,www.shopify.com,9fbe6916-75aa-421b-a5ad-5f82692adf08,N,Payment gateway error
+9a8e0e5d-eb04-4c4c-af96-63eed4e1eb35,e559dc11-4aa9-4d38-a7eb-13d9114bf2ea,,InvalidID,Shoes,Clothing,Wallet,4,880.03,InvalidDate,Germany,East Patriciachester,www.walmart.com,ff7b0477-7963-44a5-9a7f-5931abea91f8,Y,
+,a8685249-13e1-4dfd-b82f-cc502aab2a57,,e86b8ad3-fd85-49e6-8551-255b51f1f870,Laptop,Electronics,Card,-5,450.5,2024-03-14 21:11:57,USA,,www.shopify.com,,N,Invalid CVV
+8a257cf6-eef2-49e5-bf9e-291921aab472,b5cb0efe-00fb-4530-8f8d-fabdea4501b1,Christopher Garcia,4c83bb54-f894-4ce9-83e5-56d05c480a83,Yoga Mat,Sports,UPI,4,-11.33,InvalidDate,Canada,,www.shopify.com,4c431f8f-e3cd-4b79-821b-8896d7dc3627,N,Insufficient funds
+,b5fec53a-3c87-41f1-ba4b-8ca53c2df918,,InvalidID,Tablet,Electronics,Internet Banking,4,733.2,InvalidDate,UK,,www.shopify.com,7723e010-cc13-4a03-8a77-946c7733da3b,Y,
+7ed3972e-32e5-47d2-8536-de0af75c637e,,,InvalidID,Toaster,Home & Kitchen,UPI,6,-37.8,2022-07-11 01:46:50,Canada,,www.amazon.com,,Y,
+,,Raymond Lopez,4816e8e1-f0fb-4a75-97d6-3304f78d1430,Jeans,Clothing,Card,9,214.15,InvalidDate,India,,www.walmart.com,77e2f81e-59e8-46f7-8287-51f1fa4d6b10,Y,
+0a0e5dd3-0425-433f-b6f6-cb4db148cdba,,Chelsea Burns,9ec4c1c9-a206-46b6-a550-e685df8ca7cd,Toaster,Home & Kitchen,UPI,-4,918.45,2023-01-02 23:55:39,Canada,Nancybury,www.walmart.com,,N,Invalid CVV
+5b7e837a-30eb-4809-abd1-2ccf0af7d958,,,InvalidID,Coffee Maker,Home & Kitchen,UPI,-4,719.55,2023-11-10 13:19:08,USA,,www.shopify.com,,Y,
+,176bc15d-0c69-48ec-8d23-309f299b77f8,Dawn Hanson,b70099d0-4d5d-4f56-a799-8e8bd36a2615,Football,Sports,Card,-2,979.57,InvalidDate,Canada,,www.ebay.com,,N,Invalid CVV
+3724ec00-fd40-4a11-a402-15fb691ba6ae,f9999abf-43e4-4fa0-9249-fee8ca4cc83f,Eric Thompson,InvalidID,Basketball,Sports,Wallet,2,873.18,InvalidDate,Canada,,www.ebay.com,,N,Insufficient funds
+421ca095-ed3e-447d-96a0-945f9e8e3f62,949ea6a8-47d7-418c-abff-f6885b774b45,,b1390342-36d2-4146-8688-2477ba27f977,Pencil,Stationery,UPI,8,550.66,InvalidDate,India,,www.amazon.com,d15f7daf-7ff7-41ee-91dd-2fa5fe7ee01a,N,Card expired
+de3c288d-9f35-4995-afdd-386d7b65ffc1,,Kathy Hunt,InvalidID,Pen,Stationery,Internet Banking,7,23.26,2022-10-21 11:56:37,Canada,,www.flipkart.com,,N,Invalid CVV
+9635fcc9-860f-417d-9779-5b84a0276a76,e9d9ea88-5a42-4d48-a5e3-8d6d9791dc6b,Lori Harrison,8e4ff356-471a-4140-9fce-ddbcc21a2e26,Toaster,Home & Kitchen,Wallet,-1,121.4,InvalidDate,USA,,www.shopify.com,,N,
+,36397eb9-985e-495e-a130-c93b31525393,,f55d71fb-4379-4a10-91f1-c387c35577d9,Coffee Maker,Home & Kitchen,Wallet,8,-60.22,2020-03-27 07:29:28,India,,www.ebay.com,20013529-4c9a-4968-b9cd-bb75e0131e84,Y,
+,,,InvalidID,Microwave,Home & Kitchen,Wallet,-5,-9.93,InvalidDate,India,West James,www.amazon.com,,N,Invalid CVV
+b06ef8e9-bacb-4245-9a65-0d46e3d672ad,,Kevin Clarke,InvalidID,Coffee Maker,Home & Kitchen,Card,-1,112.99,InvalidDate,India,Rochaberg,www.ebay.com,,N,Payment gateway error
+,a63a00a6-76f4-43a6-99fb-56a8c4a48dc2,,InvalidID,Yoga Mat,Sports,Internet Banking,3,829.87,2022-02-06 11:39:12,UK,West Matthewhaven,www.ebay.com,95958622-a195-4a30-ad3f-515f250a8382,Y,
+636007e5-b357-4ee3-8bc3-285afee42b67,1ad87e5b-796f-43d9-aa70-b8393f605b60,,f7c1c49c-817b-4917-bbd6-2ef2b29f923a,Socks,Clothing,Internet Banking,-1,-60.29,2020-06-06 22:44:59,Canada,South Stephen,www.amazon.com,,N,Payment gateway error
+,e131ab23-dcef-447d-a668-e5ab8cb9c33f,,InvalidID,Sweater,Clothing,Internet Banking,-5,312.88,2024-01-14 17:31:57,Germany,,www.shopify.com,8caecc7f-d740-4048-879b-a9de3bc3db65,Y,
+cb3846a2-3421-48a7-a6cf-ea9bff7e3477,,,a48f9e35-1e8f-40cb-9c88-6fa5d997d475,Toaster,Home & Kitchen,Internet Banking,1,480.2,2023-10-21 14:27:58,USA,North Todd,www.ebay.com,,N,Insufficient funds
+0677831f-c995-4bd7-b25b-0f368788c309,,,InvalidID,Microwave,Home & Kitchen,Card,6,408.79,2022-06-07 20:26:21,Germany,Shealand,www.shopify.com,794fdfd2-48ec-48b1-b54e-39d009f7c899,N,
+1a3e0d7d-3377-40b7-8cc9-cc2d62292f27,c58af1f8-cc04-4402-afbe-4d2c3d0ade4f,,InvalidID,Smartphone,Electronics,Card,9,294.26,2020-07-23 21:42:54,Germany,Walkermouth,www.ebay.com,,N,Payment gateway error
+4f3876aa-a340-4b7e-8a0d-46bf2560ce03,,Kimberly Payne,ae8ffb89-dc61-4c54-ab42-893b4f1ff87d,Laptop,Electronics,Wallet,-1,525.73,2020-12-11 16:12:23,India,Edwardsbury,www.walmart.com,,Y,
+215d1651-4b75-4217-8367-60077f231b24,9463dc95-e05a-48d7-bf0f-e1618ab62c5e,,e7572dce-360c-45fa-abfb-cb158dabfd8c,Jacket,Clothing,UPI,-5,66.44,2022-10-19 12:16:42,UK,,www.amazon.com,e578340e-46df-4328-a4b5-706195accfae,N,
+1a6ddd13-5cf3-4786-9f2f-95c4056ad0f8,034cdc3e-7f0a-4432-8866-f844c2efd8d3,,InvalidID,Coffee Maker,Home & Kitchen,UPI,7,462.38,2022-03-02 13:32:42,India,North Craig,www.shopify.com,a5ee25f5-89da-428c-bd06-990be7292782,Y,
+be0d8062-a5b6-43cb-a994-0e305be2c979,5b546a1e-4923-48e1-81e6-30f9560e8366,Michelle Harrison,InvalidID,Eraser,Stationery,Card,0,361.89,2024-02-19 00:11:12,UK,,www.amazon.com,8b831554-12f0-4cc0-8194-b5c2963fcab4,N,Card expired
+,,Laura Cannon,InvalidID,Shoes,Clothing,Card,6,817.2,InvalidDate,Germany,,www.walmart.com,fd90191e-28e8-4f79-b581-ac298510a84f,Y,
+21edd7de-2ec6-4c2b-8e18-0053826a71a4,,,84e840c8-316e-45f7-809e-4e25377710e9,Dishwasher,Home & Kitchen,Wallet,8,267.33,InvalidDate,Germany,,www.amazon.com,4a981f9f-23b3-4325-8a2c-da5992de1997,N,
+,,Michael Morales,e20afa08-0d7f-498b-90fa-e602975132ff,Headphones,Electronics,Wallet,-4,645.5,2020-12-26 05:57:54,USA,New Elizabeth,www.shopify.com,904f9828-2525-43c6-9b04-e30055e48d2c,N,Invalid CVV
+0f1edfb5-cf8f-4853-b311-813226f5f0d8,ef43a066-b060-4173-ab6e-b31aafcab06c,Ashley Mckinney,InvalidID,Smartwatch,Electronics,UPI,9,678.83,2022-06-10 03:41:32,India,,www.flipkart.com,2d13ff1e-52aa-4b8f-9acb-c0c2da461251,N,Invalid CVV
+6df99639-b477-421c-a2d4-d49aad775307,a9dd8f71-c641-4a3a-a5fe-69a4aa92d8da,Mary Randolph,91843451-5b2f-4659-8640-52fcd68c4901,Sharpener,Stationery,Internet Banking,-1,977.42,2023-06-28 12:58:19,Canada,,www.amazon.com,5b97978a-bae5-445c-9a0c-87c41bd93cfc,Y,
+,90400168-75ec-41cd-9fba-af989246f573,,InvalidID,Socks,Clothing,Card,-5,833.21,InvalidDate,Germany,Jacobport,www.shopify.com,217dff4a-528c-429e-96d0-a5bdda9df465,N,Insufficient funds
+,,Denise Gillespie,InvalidID,Football,Sports,Card,-3,-7.5,2022-01-27 22:11:57,UK,,www.ebay.com,,N,Payment gateway error
+06729dc9-d6fe-4af2-b594-3acc7d955f2c,,Amanda Richardson,4cfb5be0-d76d-4815-b569-b68398eb98c8,Tennis Racket,Sports,Card,1,776.86,InvalidDate,India,,www.amazon.com,2c0c6803-f147-4498-92e9-df89d40a1f99,Y,
+01cb74f7-6f76-4e40-9351-8ab47789c2f4,a1b1d267-a006-487a-8ea0-cc2197e9b5d7,Angel Dixon,InvalidID,Jacket,Clothing,Wallet,0,580.32,InvalidDate,Canada,Lake Taylorside,www.ebay.com,8b9db8a9-e282-489a-b3a5-cff6ad7bdece,N,Payment gateway error
+6c869adb-c0a6-4e6b-b443-b4248a6afd8d,,,8b2522ec-9b63-4cb4-83b6-c9923852d6d3,Book,Stationery,Card,4,647.72,InvalidDate,USA,Aaronstad,www.walmart.com,,N,Payment gateway error
+,,,9d0222c9-e464-420c-87fb-1c7c113906e6,Tennis Racket,Sports,Wallet,3,661.64,InvalidDate,Canada,Audreyberg,www.flipkart.com,ad7ad4c6-83f1-4d2f-9519-371756f1294f,N,Card expired
+,13a6d637-8c75-4552-a685-088e1b90cca2,,f8fccc06-47c3-44a3-8bb5-605e5d4adb88,Ruler,Stationery,Internet Banking,-1,815.76,InvalidDate,India,,www.amazon.com,,Y,
+adbf40a8-2f76-48a7-86d3-5dcce3a990c3,,Carl Sullivan,f99a0a93-712e-421f-84fc-86daa104f20c,Shoes,Clothing,Card,-5,846.99,2020-08-10 05:51:57,USA,Halehaven,www.flipkart.com,1564e5d1-5606-4260-b5c9-27b1186f12c0,N,Insufficient funds
+25d76136-d8a2-4576-8c08-ad1d59dd6251,,Jessica Hernandez,InvalidID,T-Shirt,Clothing,Card,10,914.97,InvalidDate,India,Port Gregoryshire,www.amazon.com,3cc9a00d-7dfd-4c7f-aea5-3b16b20880c3,N,Invalid CVV
+,cd9163a1-cf22-4acd-8d97-323bd88f654f,,be2c31c7-8f77-4ce1-965b-df65f683efd9,Ruler,Stationery,Wallet,7,299.57,InvalidDate,India,,www.shopify.com,3fe77f3f-50a8-4e00-bfd1-6cccd1910edb,Y,
+,336a795a-105b-4977-b96d-98269b5d89ea,,ab5d10bb-a156-42db-a42c-218487c2d95d,Smartphone,Electronics,Card,9,633.71,InvalidDate,UK,,www.flipkart.com,c438744d-ac06-4a51-a853-0deed7e8c35b,Y,
+15a99f7f-3c72-47e4-9ca4-bc0fe8eba162,3d6d0113-4be7-4dd3-8d03-b11fa69eeb3f,,5d89c337-e130-4939-a4dd-cff3255d9087,Smartwatch,Electronics,Wallet,1,623.8,InvalidDate,UK,Port Michele,www.amazon.com,8534ace0-3c5d-4898-87e4-fe01c23e396d,N,Card expired
+,,,InvalidID,Shoes,Clothing,Wallet,5,878.72,2022-12-20 11:04:28,India,Michellebury,www.shopify.com,,N,Insufficient funds
+47b2ebef-c08a-41cd-8897-55edb2065f89,,Carol Pope,InvalidID,Toaster,Home & Kitchen,Card,-1,-99.85,2024-06-28 22:49:55,India,Port Jared,www.flipkart.com,,Y,
+,,Taylor Levine,65475a4f-cfda-4c73-91ca-2111c287e5a7,Football,Sports,Internet Banking,3,28.18,InvalidDate,Canada,Edwardport,www.shopify.com,,N,Card expired
+,4000a83f-6347-4a91-a964-765793de0a1f,Joshua Pierce,InvalidID,Toaster,Home & Kitchen,UPI,3,30.12,InvalidDate,Canada,,www.flipkart.com,d6f42fa1-66ad-43ad-b73d-749c43ce0bc2,Y,
+,,Micheal Warner,InvalidID,Microwave,Home & Kitchen,UPI,0,536.78,InvalidDate,USA,,www.amazon.com,,N,Card expired
+4b4b5244-3266-4fc6-a3ef-71b9135589dc,40efd658-37f1-41ad-891f-0fab87190823,,InvalidID,Shoes,Clothing,Internet Banking,4,-81.04,2020-09-18 13:20:30,USA,,www.amazon.com,5b00afab-b5f2-443c-9885-62d463c7c343,Y,
+,,Mia Thompson,354ab26d-29c5-4563-af1e-96dcad4191f5,Basketball,Sports,UPI,0,945.03,InvalidDate,Germany,Jennifermouth,www.shopify.com,,Y,
+,63b0dd8c-004d-4425-8348-42239cb0c66a,,ad1fae8c-48e0-4e8b-837b-45919c66c7b2,Shoes,Clothing,Card,-3,73.06,2023-08-26 17:58:05,UK,West Karen,www.ebay.com,4b5c748e-ee23-4678-a956-bb6a058ad812,Y,
+44e16524-8bcc-480e-a925-f8947745e8fe,,,b19b09aa-1468-417f-b1b7-5109e7cd082d,Dishwasher,Home & Kitchen,Wallet,5,871.79,InvalidDate,UK,Herreramouth,www.walmart.com,e6c1dfd5-c09c-422f-a6cc-9ec0f68ca0c6,N,Payment gateway error
+,,Patrick Larson,9124c620-9dc1-435a-8c44-d2701bc56071,Yoga Mat,Sports,Wallet,2,380.06,InvalidDate,USA,Andrewview,www.ebay.com,,N,Payment gateway error
+,,Shawna Sims,InvalidID,Laptop,Electronics,UPI,10,822.14,2021-07-09 19:01:20,UK,,www.flipkart.com,c762e540-1a8a-4e5a-bf0b-c19d4f039f6c,N,
+31536170-5127-4f35-91c7-6ce4cae51b83,80605e5b-2c0d-4466-99a9-0162f0ba4966,,InvalidID,Ruler,Stationery,Card,2,133.62,InvalidDate,UK,,www.ebay.com,7957b30d-204f-4e19-ac03-5cc703ab4fdb,Y,
+a845db4c-a832-4925-9990-a9ecb235e2f4,5e4e3a99-bf15-4d8d-82a1-6586d799c863,Anthony Bowers,InvalidID,Shoes,Clothing,Card,4,431.23,InvalidDate,India,Port Angelicaside,www.ebay.com,524acecf-1b0e-496a-983a-86dc7b89e5e9,N,Payment gateway error
+74cdda71-664e-4939-ab23-ce8a25fbfb42,,,InvalidID,Coffee Maker,Home & Kitchen,Card,10,598.6,2021-09-18 13:19:11,UK,,www.shopify.com,0bfda05e-9f7c-4722-9665-b86283bf13b3,Y,
+b696af40-14bc-4130-9f6f-47ae10c47669,7f520a5a-e835-4cf0-8a72-2d3f30e2356d,,InvalidID,Smartwatch,Electronics,Internet Banking,6,724.41,2022-04-07 09:02:57,UK,,www.flipkart.com,88e66242-7a8b-433d-8807-c9ed26184961,N,Insufficient funds
+80b2ad35-7f59-483f-86aa-89a1fd6eea0f,,,5b46a152-4228-4d45-86bb-79be666811f7,Coffee Maker,Home & Kitchen,Wallet,0,771.88,2024-08-04 22:20:57,USA,,www.walmart.com,5e25e45d-a445-4fab-9b1d-c595a37e7fba,N,Card expired
+a005b963-3936-4d1f-a9aa-38b5ee2c8319,16930989-2e90-408e-b45b-7fecd2767c37,,ec65ebb3-2d21-4ae6-9586-dba7a8b6cb75,Shoes,Clothing,Card,5,951.56,2022-09-16 11:14:41,Canada,Bryanfort,www.amazon.com,44f2687c-9849-4d80-a8c3-687e759459ee,Y,
+,e03c2e7c-9e2b-4f84-8c90-0ee84c097881,Michael Martinez,InvalidID,Blender,Home & Kitchen,Wallet,1,90.83,2021-07-27 07:27:16,Germany,,www.ebay.com,8f0d8228-a0b6-4e6b-a56c-23d090bae91c,Y,
+,,,5dbe5d78-7a77-4d8d-ae02-220528d7991a,Smartphone,Electronics,Internet Banking,-2,746.71,2020-04-16 02:56:16,Germany,New Lance,www.ebay.com,9c351893-d105-4ed1-934b-de5be4869781,N,Invalid CVV
+,,,InvalidID,Smartphone,Electronics,Internet Banking,8,748.31,InvalidDate,Germany,,www.shopify.com,6699b3a3-4e8e-440e-9b73-35d42cdc9ed6,N,Insufficient funds
+9415f07c-acd1-4654-9a03-dadf1aae430c,f9aa3fd8-54d3-4795-89f2-911336c3a4b0,,0a372b04-aad1-47f5-a527-904ad27a672a,Football,Sports,Wallet,-4,889.49,2023-05-20 08:49:08,Germany,,www.amazon.com,a07cde83-66e9-4451-90ec-d1b2b87f39b9,N,Insufficient funds
+,,Karen Morgan,InvalidID,Badminton Racket,Sports,Internet Banking,4,68.12,InvalidDate,USA,,www.flipkart.com,,N,Card expired
+da62abfa-ecaf-466e-99f1-9941558f4668,83141712-553a-42ff-bc99-dc9df6de1346,Alexandra Martinez,InvalidID,Socks,Clothing,Card,-5,85.67,2022-03-03 05:35:37,USA,,www.walmart.com,4308043f-12a0-413c-bdf7-e1623b601abe,Y,
+,,,InvalidID,Jeans,Clothing,UPI,-3,845.39,InvalidDate,USA,Jamesfurt,www.flipkart.com,c229f3dd-f9e6-4e15-84a1-85d6e122b8d5,Y,
+,70781a41-4117-4d1e-a234-5efa5734bf4e,,157649e2-c92d-4e51-9936-21c472ef6a11,Basketball,Sports,Wallet,10,282.25,InvalidDate,USA,,www.ebay.com,6fae9823-e266-4ed4-b966-8185c05fa500,Y,
+,680a4ff3-a414-4a70-8583-19fc8d69ebd1,John King,41ae81e4-438d-48ba-8686-3ef2bb17e26d,Basketball,Sports,Internet Banking,0,630.3,2021-07-15 04:22:50,Canada,Lake Dawntown,www.walmart.com,a199779d-4041-421f-85bf-0059f1e8972d,Y,
+,b4661ec4-666d-4bc9-ac0a-e596ceb8476c,Mrs. Jaime Mercado MD,ba174314-d8dc-4d5c-bfb2-3188737ade74,Jeans,Clothing,UPI,-4,940.04,InvalidDate,USA,,www.ebay.com,,Y,
+,8633feb2-b0bd-43cf-9a2d-e8fb2a1e68e3,,InvalidID,Shoes,Clothing,Card,-1,275.48,2022-01-30 02:59:30,USA,,www.flipkart.com,0c1f4701-0534-4bc0-868c-b66668fdf87b,N,Insufficient funds
+614fa0ed-81b7-46da-9bf2-16d21f596493,,,02663ab6-f268-491d-80ff-6727ad777f6b,T-Shirt,Clothing,Wallet,7,832.51,InvalidDate,India,,www.walmart.com,77e014d9-1b15-4364-9a9e-7fab5b608fb1,Y,
+476a07a1-cd85-434d-befc-2129060db46e,10672791-c871-4558-a54c-10c0e0635aa5,Brandon Martinez,InvalidID,Toaster,Home & Kitchen,UPI,-3,444.35,InvalidDate,USA,,www.shopify.com,,Y,
+,,,96cc85dd-1bf3-4ff8-8dc1-a726f0f4f3fa,Air Fryer,Home & Kitchen,Internet Banking,5,449.34,InvalidDate,Canada,South Christopher,www.walmart.com,,Y,
+,d1b60421-ca49-4fa5-86fd-6a218d1af82a,,b7c0d54d-79cf-44e8-9e8e-d3e4ecc5c57c,Yoga Mat,Sports,Card,6,568.56,InvalidDate,UK,East Joshua,www.amazon.com,aeb48f4a-5c1f-454d-8a35-143cfc7e3f64,N,Card expired
+,,,80b92088-e99d-4d75-9686-91d0a92143fd,Badminton Racket,Sports,Internet Banking,10,220.39,InvalidDate,USA,East Gloria,www.shopify.com,,Y,
+26988ac5-9bb5-4526-a6a1-05fb23a996ca,134de1ab-d2fb-42e9-8eab-c8508a499cd4,Nicholas Thomas,InvalidID,Pen,Stationery,Wallet,3,-29.24,2022-06-21 06:16:06,UK,,www.amazon.com,,Y,
+,9cd3f345-c7e2-4fef-b658-4621356f096f,Dennis Bell,4e7709b9-a634-4ae0-a751-036113407a39,Smartwatch,Electronics,Wallet,2,425.65,InvalidDate,UK,,www.amazon.com,2dc348a4-879c-4afe-89b1-d09e1e4c3027,N,Insufficient funds
+b9108364-c944-4aaa-9f66-2546fd90bdd7,,Sarah Tran,7485f57d-2995-4552-9dab-24b053fdc39a,Smartwatch,Electronics,UPI,2,155.23,InvalidDate,UK,South Thomas,www.shopify.com,bdd9a423-9b5f-4868-a7d6-0b70a06f4f9e,Y,
+,,Diane Jones,InvalidID,Pencil,Stationery,UPI,-3,768.89,InvalidDate,Germany,Teresaberg,www.flipkart.com,,Y,
+,69770ebf-e9d2-40f2-af65-c9025241875f,,InvalidID,Laptop,Electronics,Card,4,581.51,InvalidDate,Canada,,www.amazon.com,720286d8-fe18-45a0-8419-71c09a2629e4,N,Payment gateway error
+,,Angela Bryant,InvalidID,Shoes,Clothing,Wallet,1,38.3,InvalidDate,UK,,www.walmart.com,,Y,
+50cc6f5c-bc85-45a7-850d-a3f4fe3e4b49,3a1e8abb-f863-4c28-b113-7aed9c677b0b,,InvalidID,Football,Sports,UPI,8,40.69,2020-08-29 05:22:04,India,North Robert,www.ebay.com,cea0c788-a664-4473-b04b-e3d3e3a23369,Y,
+10a958a5-aa5b-4e59-b8e7-0c441a747f0d,ac6332a4-cd11-49d2-ae20-2b4c380a2e15,Joshua Walsh,e877d1bd-0db3-4e26-a1e3-3b9c058a7834,Smartphone,Electronics,Card,-1,123.8,InvalidDate,Germany,,www.shopify.com,50724f78-f097-4d34-a9dc-cb2df88bbb0f,N,
+,c4f52d5b-7a46-4597-a15f-f6225b567ec5,Ricky Guerrero Jr.,b5aad6c3-eceb-4a09-bc03-5c1d7f192baf,Sweater,Clothing,Wallet,8,844.55,InvalidDate,India,Brownberg,www.amazon.com,fdcf032e-2b4a-4169-b592-33c5c86c9175,Y,
+,,Kimberly Allen,InvalidID,Pen,Stationery,UPI,9,329.95,InvalidDate,India,Lake Michaelburgh,www.flipkart.com,5d3a8042-e935-4ad9-95f0-356830082b81,Y,
+de144fa5-7d07-480d-9b08-b830b881c2c9,,Amy Johnson,e4111927-40e7-472b-abf0-b65bcc6137ae,Toaster,Home & Kitchen,Card,6,117.83,InvalidDate,Canada,North Nancymouth,www.flipkart.com,,Y,
+5868d061-cc6c-455f-a659-97231855c4b4,,,InvalidID,Air Fryer,Home & Kitchen,Card,9,480.49,InvalidDate,Canada,West Albertfort,www.ebay.com,,Y,
+,ecc96f54-1294-4852-91ec-d828950c11fd,Laurie Torres,InvalidID,Pen,Stationery,UPI,5,5.84,2020-09-18 22:53:59,Canada,,www.walmart.com,,N,Invalid CVV
+85d99010-9f05-4cf3-82c2-869e5c4db708,f8520fe3-aeba-4522-b4da-00169adaf903,Jesus Graham,InvalidID,Badminton Racket,Sports,Wallet,8,303.05,2022-12-07 20:26:54,USA,,www.flipkart.com,,Y,
+5c606c57-5018-4ef8-bbdc-bae4694ce76c,34470b8f-bc3b-4dd1-ac91-f1bf409509b4,,InvalidID,Football,Sports,Card,-2,387.06,2023-06-02 01:23:22,India,Courtneyview,www.shopify.com,,Y,
+38ed2716-0d02-4cad-871c-19cf737ffd08,,,064dec1e-75bf-4971-baaa-d00aaa6460eb,Sweater,Clothing,Internet Banking,-2,150.9,InvalidDate,USA,,www.ebay.com,,Y,
+f2a421a3-f878-49fd-bdd4-037579c3e144,,Matthew Davenport,InvalidID,Headphones,Electronics,Wallet,-3,939.49,2023-04-05 13:57:00,Germany,,www.amazon.com,e8773213-d7df-42ff-9887-e67451629d1a,Y,
+39bf41b7-e71a-4462-9e82-d0ce2c0a7bb8,,Debra Davis,InvalidID,Notebook,Stationery,UPI,1,638.92,InvalidDate,Germany,,www.amazon.com,,N,Card expired
+bb88855c-7c76-4685-85ae-41c36b22e756,7dc647d3-a832-42b3-8cdf-e37a9d666d27,,InvalidID,Blender,Home & Kitchen,Wallet,-3,683.86,2024-08-07 09:02:30,USA,Bensonville,www.shopify.com,d8368c4e-3a11-49c1-915b-7ce414b1f846,Y,
+,5d6079cd-1104-4c0a-be9e-a8dbceea6871,Amanda Silva,InvalidID,Badminton Racket,Sports,UPI,7,559.28,InvalidDate,India,East Gabriel,www.walmart.com,,N,Insufficient funds
+20b16ab7-f738-4135-afed-2f416239896d,,Peter Cline,c24698ab-9a01-41e2-a952-ed790b844fdd,T-Shirt,Clothing,Card,10,654.37,2023-11-17 20:15:44,Canada,,www.ebay.com,,Y,
+,54526acc-00af-489d-ae7b-dfe097a64d54,Debra Ray,InvalidID,Ruler,Stationery,Card,5,534.52,2022-06-10 10:06:59,USA,West Zacharyburgh,www.shopify.com,,Y,
+b1a5565a-ed82-4756-bd5e-3cd0d2d51038,42631c37-11cf-491d-9688-c302d637af3c,Carolyn Martinez,f4d02938-a860-42d2-af7e-d1889891913c,Eraser,Stationery,Card,5,-62.79,InvalidDate,USA,,www.amazon.com,,Y,
+5079ce4b-d436-4b24-adfa-bb9094c40a3c,,,InvalidID,Ruler,Stationery,Internet Banking,5,212.34,2024-04-22 09:55:06,Canada,,www.ebay.com,0ce57447-5e07-43c3-84d3-bea79037a27b,N,Insufficient funds
+6e68c188-b3d4-4229-a7c8-a74e13f47e5d,75fb1bf8-8b35-4c74-8560-b0a5953116b8,Michael Roberts,f3144870-b8f3-44cd-a97b-e356ac9aab03,Headphones,Electronics,Card,3,937.08,InvalidDate,Canada,Harmonshire,www.ebay.com,0468e924-2dca-4687-a00d-29dc4c3fc3dd,Y,
+,12985a87-d632-49f5-b641-c90ba0ee179f,Bonnie Li,6dbb63a3-dcc5-47ea-9762-609f5b8836f3,Dishwasher,Home & Kitchen,Card,-4,119.84,2024-05-15 12:12:58,India,Port Julieburgh,www.amazon.com,e4242624-ecf8-4208-bb37-3da36f6b251f,Y,
+89aebb35-2fe5-4f97-b449-3a2e30eb9010,56c211d0-0c1e-438b-9791-90e606566d21,Justin Sanders,3577c870-559d-40c9-ad20-d4fc8f37e875,Tablet,Electronics,Card,10,165.92,2020-03-11 03:14:47,UK,,www.shopify.com,63f5a677-f733-4d8e-a872-0d74033c1f43,N,Card expired
+7423bd89-5806-4917-8b10-c04d191736d6,e4f019eb-e2a2-4d9f-aa52-dc0af5018301,,InvalidID,Sweater,Clothing,Internet Banking,3,84.0,InvalidDate,Canada,,www.flipkart.com,8294be96-8c6a-44fd-a981-5f8d203df02b,N,Invalid CVV
+3719ed3a-abaf-4b8e-9116-b77180abf667,,,InvalidID,Football,Sports,Internet Banking,5,24.41,InvalidDate,Canada,,www.flipkart.com,,N,Payment gateway error
+1c7d323e-88c3-4e9b-8bae-e78020c41ffa,bf84c954-e56c-4b74-b276-25df003c25ea,,InvalidID,Microwave,Home & Kitchen,UPI,3,-30.04,InvalidDate,UK,Alvaradotown,www.shopify.com,,Y,
+57214d5e-666f-431f-9f15-3f87d3d97c05,,Robert Smith,InvalidID,Book,Stationery,Internet Banking,-1,-27.83,InvalidDate,USA,East Joshua,www.walmart.com,bf81351d-e25c-4a42-a953-7366c1555606,N,
+1917e932-82d3-4271-b9ea-3856ac4be4a8,777eeeff-8d80-4ce9-8b55-232f581f2e6c,Sherri Brewer,InvalidID,Tennis Racket,Sports,Wallet,-4,506.24,2024-08-21 06:08:10,Canada,Alvaradoside,www.walmart.com,c4f816c2-f198-429f-be99-0c84a09f410f,N,Card expired
+6e6c5a05-aa32-4c5c-afca-fa14b7e3a1fd,4e04d430-e986-40f8-8b04-eb8b1f286b87,,InvalidID,Blender,Home & Kitchen,UPI,0,294.58,2023-08-09 15:23:49,Germany,North Barbara,www.flipkart.com,047fe758-369a-484e-847d-d5e52bd8ec71,N,Payment gateway error
+ea33db63-0bcb-45f9-ae66-38949644f7a0,57305543-7994-4b8a-91f4-f0fc4c6a494c,,d651677b-9f2b-4f44-bcfb-d87843cccafc,Shoes,Clothing,Internet Banking,4,158.27,2020-03-19 05:04:40,India,,www.flipkart.com,8480cd58-d26d-4c60-8d9e-474497411cf9,N,Payment gateway error
+9f9b7445-6456-44f8-95be-4d0467c4af8d,8b2398d6-aa7f-4c82-a79a-d7ccfc6f41f4,Daniel Juarez,InvalidID,Eraser,Stationery,Wallet,2,931.67,2023-10-23 17:44:51,USA,Bowmanton,www.amazon.com,,N,
+,4c621f08-24be-43a0-9eca-015ce84984fb,Kristen Hicks,75e5f50f-2c16-4e96-bdae-6ced262908e6,Dishwasher,Home & Kitchen,Internet Banking,5,44.23,2020-01-22 15:00:09,USA,,www.flipkart.com,5760b5a9-fda1-415a-9bb8-e52facbe4287,N,Insufficient funds
+,5d5c164e-a0d2-4e59-a7bd-bcab48344980,,dda63f46-2971-47a4-b513-5f7daba2861e,Toaster,Home & Kitchen,UPI,7,343.78,InvalidDate,USA,Jasonton,www.shopify.com,46f819cf-8c1e-4362-9dd7-815397591a9c,N,
+0fdb6648-b8e8-4377-ac09-c1659955c367,,,InvalidID,Shoes,Clothing,Wallet,9,202.58,InvalidDate,USA,,www.flipkart.com,,Y,
+,,Kelsey Blanchard,57180b5c-7649-4bb8-b32c-bcb05df062aa,Camera,Electronics,UPI,-3,363.33,2020-07-22 11:30:33,USA,,www.amazon.com,3216b101-8441-46f1-b421-1b1ebc6d9f24,Y,
+,3d0ec499-001b-4e31-85ef-0bc1835b8e4b,,InvalidID,Tennis Racket,Sports,Card,-4,679.32,2022-07-25 13:03:33,India,,www.flipkart.com,,Y,
+,,,875b39ee-2390-4a76-9877-1f3162a50cf3,Jacket,Clothing,Internet Banking,10,906.59,2023-04-22 12:16:04,USA,,www.shopify.com,7d060b9c-33df-4dbd-bd1d-c7dc2a12b2da,Y,
+,43654a20-78e4-448d-8997-c9923403ce03,,InvalidID,Blender,Home & Kitchen,Card,3,414.19,2021-12-26 08:36:25,India,,www.shopify.com,,N,Insufficient funds
+,,Timothy Garcia,bea9a7c1-5545-46ba-9913-afdfd4b4c3ad,Ruler,Stationery,UPI,-4,20.68,InvalidDate,UK,,www.amazon.com,,Y,
+6967df7b-4e7e-4616-afc5-0c3308061559,0e62c5f6-f994-4e77-bf50-77d9600a4fca,April Mccormick,442b25eb-7db5-4042-8bef-9f69e47e1738,Coffee Maker,Home & Kitchen,Internet Banking,4,-60.72,InvalidDate,Germany,Youngchester,www.ebay.com,,N,Insufficient funds
+b1d89cb3-4393-49c4-8b8d-946ebfa4b7ec,ffac29f4-5f74-4135-987e-6b234b914ff7,,InvalidID,Ruler,Stationery,UPI,8,463.93,2022-04-09 21:52:52,UK,,www.flipkart.com,,N,Card expired
+,,Joe Brown,8baf9c7b-b8f3-4f4e-8b32-adc4963fd80f,Dishwasher,Home & Kitchen,UPI,9,413.66,2020-03-19 21:20:10,Canada,Jessicahaven,www.flipkart.com,,N,
+,,Ronald Leonard,34d0c187-f148-4bc5-86ae-2ff84fc80c57,Badminton Racket,Sports,UPI,4,541.49,InvalidDate,USA,,www.amazon.com,,N,Invalid CVV
+,bf10885a-524b-4890-a1c2-122417d17852,,InvalidID,Socks,Clothing,UPI,-2,397.63,InvalidDate,India,,www.shopify.com,,Y,
+1dfa5655-c7e6-496b-bbb4-60317f19796f,c4921607-15a1-4fb1-ac7e-745b42d64a9d,Luke Smith,InvalidID,Sharpener,Stationery,Internet Banking,0,984.72,2023-01-04 08:07:55,UK,,www.ebay.com,4640f1e2-cafb-4406-95a7-fccf888d41cb,Y,
+,adcfb170-59f1-4e1e-ba31-16ce570faff9,,429462a7-f77e-4429-9573-3239e2c3a95a,Laptop,Electronics,Card,-3,573.77,InvalidDate,Canada,East Micheal,www.ebay.com,3d357065-dc60-43d3-94f8-326a7fab5a92,Y,
+,,Steven Harrington,0bf624b8-3f85-43e0-883b-e80381fa587a,Sweater,Clothing,UPI,0,861.4,2023-04-19 11:49:03,Canada,,www.walmart.com,,N,
+,,,63b4eee2-4e7e-4b1f-a56e-99bc1d1b7387,Book,Stationery,Card,-4,557.42,InvalidDate,India,,www.ebay.com,e1558be7-1b47-427e-8f20-07f8021b02b0,Y,
+,,Daniel Singleton,704fdcee-a08e-47a1-9b0e-4e3cd3db302d,Notebook,Stationery,Card,2,-85.53,InvalidDate,Canada,East Nicholasville,www.walmart.com,,N,Card expired
+,,,InvalidID,Socks,Clothing,UPI,10,188.79,2024-03-30 10:56:17,Canada,Port Emma,www.shopify.com,e7fde959-53bc-4bf7-ab57-e8e3a2444101,Y,
+,,,InvalidID,Blender,Home & Kitchen,UPI,8,170.19,InvalidDate,India,West Jamieside,www.ebay.com,5e87f140-c55b-4dfe-91aa-b3d1edd52e8d,Y,
+98339b64-5532-430e-87e6-14cf0bd2773f,,Mr. William Knight,1d10ab9a-6897-4684-b724-b62ee5b59f09,Blender,Home & Kitchen,Internet Banking,-4,287.95,2020-03-08 06:48:09,USA,,www.amazon.com,,N,Invalid CVV
+4210c050-0421-4ae9-93f7-91091f317cef,,,InvalidID,Smartphone,Electronics,UPI,5,780.68,2021-03-22 08:12:52,UK,,www.ebay.com,,N,Insufficient funds
+2f0d0e77-1ffe-4020-bacc-8999ba372e57,,Dustin Hernandez,InvalidID,Pen,Stationery,Card,-2,981.09,2024-02-19 19:20:23,Germany,Simonton,www.amazon.com,41f865ab-ca94-4fc1-b01f-99200efddd28,N,Invalid CVV
+,,Crystal Williams,ef3b727c-417a-40b1-b738-66c1636f93a6,Eraser,Stationery,Internet Banking,8,226.04,InvalidDate,Germany,Christyfurt,www.shopify.com,28f088cf-68cb-42a5-b2a9-6aa317194109,N,Card expired
+,bd14a878-73d5-4c08-93d8-fac975be7a58,Breanna Walker,InvalidID,Air Fryer,Home & Kitchen,Internet Banking,-3,618.83,InvalidDate,USA,,www.ebay.com,,N,Card expired
+,,,InvalidID,Shoes,Clothing,UPI,5,783.87,2023-04-13 05:32:10,UK,,www.flipkart.com,,Y,
+,,Kelly Romero,InvalidID,Book,Stationery,Internet Banking,-1,732.53,2021-09-04 09:31:34,UK,,www.shopify.com,,Y,
+,,,InvalidID,Tennis Racket,Sports,Card,-2,972.57,2020-07-15 01:59:37,UK,,www.walmart.com,429ac407-07c6-4fb0-8ab9-87126342d4d9,Y,
+4bf0a9a4-cea4-4df8-9941-6b8c18726544,932ac9c7-1459-443c-8598-07fec99ef3d0,,InvalidID,Sweater,Clothing,Wallet,2,478.72,InvalidDate,Canada,,www.walmart.com,,N,Payment gateway error
+349f6245-c81c-43df-b8f1-b7d74ef66b88,,,InvalidID,Yoga Mat,Sports,Wallet,4,345.18,2021-04-08 22:24:19,Canada,,www.amazon.com,,Y,
+,,,InvalidID,Smartwatch,Electronics,Card,-2,783.52,2022-05-21 08:58:58,Canada,Port Fredericktown,www.ebay.com,,Y,
+c80a4572-4a8f-44e6-86ce-d9a766a0af4f,a746d25d-7299-40c8-8fba-2c8fbfe2ad4e,Mr. Justin Nichols,45f238db-ed42-46d0-9bd3-c5340eec2faa,Coffee Maker,Home & Kitchen,Wallet,-2,161.62,2022-03-03 06:01:46,India,West Jerry,www.amazon.com,,Y,
+,69612705-3a56-4731-8d02-d29d6852f134,Dr. Kim Rodriguez,InvalidID,Yoga Mat,Sports,Wallet,3,411.62,InvalidDate,Canada,South Daniel,www.shopify.com,,N,Insufficient funds
+9b29c08b-34c6-4014-9c1a-61e7ba3cf9f3,83afc750-153a-4307-8108-b55779e8948a,,InvalidID,Sharpener,Stationery,Card,8,130.83,2021-12-09 10:29:06,Germany,,www.flipkart.com,,N,Insufficient funds
+,,,InvalidID,Yoga Mat,Sports,Card,4,285.82,2020-11-23 19:18:08,Germany,,www.flipkart.com,,Y,
+,7614c98c-34fa-4e20-8476-e08f70c9572a,Jessica Martinez,ae15662a-722a-45cd-b81d-68cdbca9eb6a,Sharpener,Stationery,UPI,3,932.87,2022-07-04 16:54:47,Germany,Brianville,www.ebay.com,,Y,
+,8041a9ee-ce88-4735-8139-136026b30f66,Kayla Alexander,InvalidID,Notebook,Stationery,Card,-3,968.34,2023-10-21 17:15:26,India,East Arthur,www.ebay.com,,N,Card expired
+aa634f2f-63e9-4470-a1f4-6dca1bbae4e7,,,72520054-3488-4cc4-b6e1-cc59a8db8533,Pencil,Stationery,Wallet,10,535.29,InvalidDate,India,New Elizabeth,www.flipkart.com,,N,Card expired
+59d3dcce-08d7-47af-805e-22f4dbf43ece,7a3bd5f8-06a5-4d31-a1f3-8496f5426679,Mary Ayala,51b54f8a-81fe-4159-8396-55c5059266da,Football,Sports,Wallet,-2,118.31,2022-02-15 04:43:10,India,,www.ebay.com,,Y,
+,,,InvalidID,Pen,Stationery,Card,3,663.61,InvalidDate,Germany,South Matthewtown,www.shopify.com,2b98813e-fde8-4092-b615-ae14f7193186,N,Card expired
+fc976c83-f9c4-4aa4-b657-fed52e9fb5ad,,Timothy Mitchell,InvalidID,Headphones,Electronics,Card,2,744.8,InvalidDate,UK,,www.walmart.com,554c6826-bd4d-4482-805e-097d60662646,Y,
+c0e79d56-c93b-4e34-8c3b-565a60024f5c,b7264de7-a0ff-42fe-ae65-17fe366dfbe0,,c7982ccc-e97c-48a6-8a0e-cd9c3dbc66c6,Blender,Home & Kitchen,UPI,-3,117.42,InvalidDate,India,Port Teresa,www.ebay.com,,N,Payment gateway error
+,,Rebekah Roberts,InvalidID,T-Shirt,Clothing,Card,-5,456.96,InvalidDate,Germany,,www.flipkart.com,,Y,
+17846605-7188-4652-9c0e-3d41da63f55a,12141f53-2bd5-4d84-860e-9cc8fb2d448c,,InvalidID,Yoga Mat,Sports,Wallet,-4,179.41,InvalidDate,Canada,Jenniferville,www.amazon.com,52a6c47c-003b-42b9-8ddd-3f41380faeff,Y,
+,,Albert Cook,InvalidID,Air Fryer,Home & Kitchen,Wallet,-3,51.81,2021-10-03 13:09:41,Canada,,www.amazon.com,db569cc1-1726-4979-81e5-544705c9909c,N,Invalid CVV
+43c6ca36-53cf-4a0c-ab64-f65a4dee87bb,,,a24854ae-9c7c-417a-90bf-9bfe44f684ed,Sweater,Clothing,Internet Banking,2,293.42,InvalidDate,India,North Mary,www.shopify.com,,N,Invalid CVV
+,5a6ff1e7-aa9d-4d37-a64b-02a74ab4ccdc,Christopher Chambers,6619ad5d-837c-4a40-a284-2fd088192a1c,Dishwasher,Home & Kitchen,Internet Banking,2,-44.66,InvalidDate,Germany,,www.walmart.com,,Y,
+,e8c9282f-89be-4adb-9694-777ef0beb310,John Erickson,c1a8f8f9-7e5a-44ed-848e-ca1436e63f68,Yoga Mat,Sports,UPI,0,552.27,2020-05-24 05:44:27,India,Port Kristinport,www.walmart.com,9019b4f3-ac04-48ad-822c-840b3708f067,N,
+d9d4ce9a-fce2-4aa2-a5cd-e4142d268127,,Virginia James,426e6bb1-6a4d-4b93-b9f0-0b218f4c068e,Tennis Racket,Sports,UPI,2,605.83,2022-10-11 09:22:49,Germany,Feliciahaven,www.amazon.com,dec482ef-e529-4024-83fd-3a96c9ebce6c,N,Card expired
+1a456458-da93-4840-a78e-95ff70fce4da,,Erica Osborne,6b37a597-ddaf-418e-a8e0-8aa6d71320b8,Badminton Racket,Sports,Card,-2,710.26,2023-05-18 14:42:32,UK,South Jessicaville,www.shopify.com,b60a2044-dc0c-482f-9c92-90068bfd3fdc,Y,
+,,Jeffrey Massey,0bae7421-88c2-455b-8dde-7d91a5e06f0e,Cricket Bat,Sports,UPI,10,93.95,InvalidDate,India,Matthewton,www.amazon.com,577c656e-ac5d-4deb-8188-67c4a5b4b02d,Y,
+,569cea57-017f-451e-bccc-dbe14fcc7583,,InvalidID,Pencil,Stationery,Wallet,10,239.19,2023-05-08 01:56:23,India,,www.walmart.com,f9f84b4d-5f85-445a-898f-c61666c7b9f8,N,Insufficient funds
+8acf82a6-f82d-4cb3-9cd4-48196586f367,,,InvalidID,Smartphone,Electronics,Internet Banking,0,846.22,InvalidDate,UK,,www.shopify.com,,N,Card expired
+5b0cb882-2915-4257-858a-c39736592251,,,InvalidID,Microwave,Home & Kitchen,Internet Banking,10,208.93,2021-08-30 22:18:06,Germany,Port Sarah,www.walmart.com,7a196b09-ce56-4b7d-a666-5192f5619efe,Y,
+,79a4d5e1-fec9-4b4c-9e4a-2a365a222ab2,,InvalidID,Sharpener,Stationery,UPI,-1,857.07,2024-05-14 02:09:13,USA,Alexanderside,www.ebay.com,60e07058-692f-4a73-933c-e1b016588365,N,Card expired
+17cb00c1-809c-42a6-9125-34f1cddc0b61,eb664150-f7aa-4838-9a21-c1e1fb7a4f64,,53e252e3-23f7-41d1-9933-b17358d1f056,Camera,Electronics,Card,1,-76.75,InvalidDate,UK,Cherylport,www.ebay.com,,N,Insufficient funds
+a7caf154-ba09-475b-9cc9-4be28ed7db09,f2eb99ed-66bb-46f5-8a12-9dd574130dda,,69f595fa-fab4-419e-80f7-088f1a5086fb,Basketball,Sports,Wallet,4,327.1,2020-12-17 12:03:57,USA,Lake Nataliestad,www.flipkart.com,a3ae4c1a-65c9-4215-8eec-4e18fb1cfc92,N,
+7aaf9ae7-30c7-48f7-887f-e9c7e3b9fded,,,2774780d-9317-4cb8-a5cc-be21bb5e509c,Air Fryer,Home & Kitchen,UPI,4,96.93,InvalidDate,Canada,Port Marcoburgh,www.flipkart.com,,N,Card expired
+,0181ae73-6bac-4948-a6ff-7afb42caa42f,,9e263e49-3128-4ed4-9121-98459c3c0156,Sweater,Clothing,Wallet,8,761.67,InvalidDate,India,,www.shopify.com,65a3f30a-76eb-4b77-a26a-c49bbe18bcbd,Y,
+4f3485ba-a942-4488-babd-812ae8443cfc,,,1d5cf3cc-a208-43fb-af7f-92061e5f1c35,Book,Stationery,Card,-4,794.68,2021-09-25 07:08:35,USA,,www.flipkart.com,188ca91f-a062-48a9-897f-4319db33c94e,Y,
+,ae2f6a7f-21ac-4649-af4b-963b137a3017,,InvalidID,Badminton Racket,Sports,Card,5,899.61,2023-12-13 03:20:53,Canada,Justinchester,www.flipkart.com,,N,Insufficient funds
+,ce0ed09d-4013-45f4-af2d-ee19798d4252,Rebecca Small,InvalidID,Smartphone,Electronics,Internet Banking,1,470.09,InvalidDate,Germany,,www.amazon.com,,Y,
+cc08bc08-f158-470e-969c-ee0f69fa75c9,228ce871-6863-4ac4-af69-57777ab0ba62,April Shelton,InvalidID,Tennis Racket,Sports,Card,9,94.44,2021-10-18 04:12:14,Canada,Daleton,www.flipkart.com,5509b2f1-b443-44c0-88e0-e49b85707393,Y,
+0cbcf51c-a05e-493d-9563-620eb65c6788,06c699db-b6b4-4cfa-b07a-564e4afcc536,,d9e55c72-b4d7-476e-b437-ee7c53552af0,Shoes,Clothing,Internet Banking,9,685.55,2022-08-07 09:04:52,UK,,www.ebay.com,0786dc0b-98f8-4977-9b8d-2419b6373949,Y,
+,,,a6b7c195-0580-47b6-98aa-334761575413,Headphones,Electronics,Card,10,171.52,2022-04-14 22:23:23,Canada,New Chelsea,www.amazon.com,,Y,
+,9f4992a4-3ec5-4e3a-86d0-6ea8cb3e9ec6,Jennifer Nelson,InvalidID,Smartwatch,Electronics,UPI,4,849.49,InvalidDate,Germany,Andersonchester,www.amazon.com,,Y,
+,242447fb-60df-453d-988d-34c518fd5641,Michael Jackson,InvalidID,Microwave,Home & Kitchen,Card,-1,306.77,InvalidDate,Germany,North Elizabeth,www.amazon.com,1d87df03-a931-4762-a359-cce8c32d523d,Y,
+,e159e4ff-00f4-40bc-86f8-c63bb679f9ce,Marcus Baker,InvalidID,Yoga Mat,Sports,Internet Banking,-1,748.49,InvalidDate,India,Lake Crystalland,www.flipkart.com,,N,
+12945396-15b6-4a5a-94e6-93360fe7b594,,,InvalidID,Camera,Electronics,Internet Banking,9,421.65,InvalidDate,Germany,,www.amazon.com,,Y,
+78bcae63-ffa8-4c0d-9e79-8e069f27f11e,21d01e3c-f6ab-4c39-96b8-404ec216b0d2,Sarah Miles,InvalidID,Coffee Maker,Home & Kitchen,Wallet,9,681.32,InvalidDate,UK,Harpershire,www.shopify.com,,Y,
+32a0e7a0-0429-4afd-961b-260817d68dfe,,Shawna Merritt,3e428506-c84d-45de-99fe-b2498e6d0c43,Coffee Maker,Home & Kitchen,Wallet,-5,649.27,2021-04-20 23:04:32,Canada,,www.walmart.com,5534139c-0fb1-4f90-a244-6013a7032cd0,Y,
+,4d390ac1-571c-4791-84cf-7644f4886fef,,InvalidID,Smartphone,Electronics,Wallet,10,853.38,2021-11-03 05:23:58,India,,www.flipkart.com,,N,Insufficient funds
+cd149119-cb4b-4397-a7d0-5914b7a6dfc9,3d519a59-806a-46ca-b1b5-25fb509f14bd,,InvalidID,Pencil,Stationery,UPI,6,318.23,2021-10-06 05:55:34,Canada,Pennybury,www.flipkart.com,,N,Card expired
+ca4b25b4-8ef7-49dc-9f60-6c9be6a5d904,e683a018-ff43-4e5e-a7d9-384c28453f77,Jennifer Rocha,InvalidID,Headphones,Electronics,Wallet,-4,-82.58,InvalidDate,USA,East Stevenmouth,www.walmart.com,,Y,
+069a4689-312d-4a96-889a-de95670f474d,b036cb6c-ac77-4813-8a66-f7b19bc35a69,,7e31c58f-dc81-4e5a-ba45-390f6942a99c,Air Fryer,Home & Kitchen,Card,7,733.36,InvalidDate,USA,Webbton,www.walmart.com,,Y,
+e5967a4e-0399-4bfe-8fdd-c11618dfd2a1,781c2942-f942-4585-a59c-7bf2c796eb4d,Christine Harrison,aefedaa1-fa61-4dd0-ba5c-a9c168c03ebd,Badminton Racket,Sports,Card,9,-55.16,2024-02-20 09:15:29,UK,South Stephenstad,www.walmart.com,,Y,
+,,,5534fee5-64f7-4d3d-a432-9ada14870270,Coffee Maker,Home & Kitchen,Internet Banking,-2,299.29,2022-12-24 23:51:47,Canada,,www.flipkart.com,,N,Payment gateway error
+7d2afc1d-b832-48f3-a5b1-c62e7910331c,9cb2ac0d-3b26-4e45-b49b-5cf35b7b93f5,Lisa Clark DDS,InvalidID,Smartphone,Electronics,Card,9,808.53,InvalidDate,Germany,,www.walmart.com,,N,Payment gateway error
+709597f4-9714-4d46-8be0-997fa5d1fa93,,Steven Fox,3cf8b62e-7f1d-4aca-8421-19c85f474b4e,Smartwatch,Electronics,Card,-4,438.53,2021-02-03 03:58:51,USA,Parrishborough,www.flipkart.com,,N,Invalid CVV
+,,Thomas Buchanan,InvalidID,Coffee Maker,Home & Kitchen,Internet Banking,1,948.94,2024-05-03 10:32:05,USA,Hannaview,www.ebay.com,,Y,
